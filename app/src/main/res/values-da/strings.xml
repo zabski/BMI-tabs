@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Kropsmasseindeks</string>
+<string name="bmi">Kropsmasseindeks (BMI) =</string>
+<string name="underweight">Undervægt</string>
+<string name="overweight">Overvægt</string>
+<string name="obesity">Fedme</string>
+<string name="data_saved">Data gemt</string>
+<string name="choose_theme">Vælg farve</string>
+<string name="greenTheme">Grøn</string>
+<string name="light">Lyse</string>
+<string name="dark">Mørk</string>
+<string name="cancel">Afbestille</string>
+<string name="ok">Okay</string>
+<string name="charts">Diagram</string>
+<string name="menu_title">Menu</string>
+<string name="info">Information</string>
+<string name="rate_app">Bedøm denne ansøgning!</string>
+<string name="feedback">Giv din mening</string>
+<string name="feedback_prompt">Hej, vil du gerne sende os din mening, så vi kan forbedre denne ansøgning for dig?</string>
+<string name="opinion">Mening</string>
+<string name="height">Din højde</string>
+<string name="weight">Din vægt</string>
+<string name="sex">Dit køn</string>
+<string name="male">Mand</string>
+<string name="female">Kvinde</string>
+<string name="age">Din alder</string>
+<string name="years">År</string>
+<string name="month">Måned</string>
+<string name="your_wgt">Din vægt</string>
+<string name="no_data">Der findes ingen data for denne måned</string>
+<string name="exercise">Hvor ofte har du motion?</string>
+<string name="your_calories">Daglige behov for kalorier (BMR) =</string>
+<string name="invalidInput">Ugyldige data</string>
+<string name="emptyInput">Indtast data</string>
+<string name="your_bmi">Dit BMI (Body Mass Index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Meget stærkt undervægtige</string>
+<string name="x_low">Stærkt undervægtige</string>
+<string name="low">Undervægt</string>
+<string name="normal">Normal (sund vægt)</string>
+<string name="high">Overvægt</string>
+<string name="x_high">Moderat fedme</string>
+<string name="xx_high">Svær overvægt</string>
+<string name="xxx_high">Meget svær overvægt</string>
+<string name="save_close">Gem</string>
+<string name="exit">Udgang</string>
+<string name="settings">Indstillinger</string>
+<string-array name="exercise">
+<item>Lidt eller ingen motion</item>
+<item>Lys (1 til 3 dage om ugen)</item>
+<item>Moderat (3 til 5 dage om ugen)</item>
+<item>Tung (6 til 7 dage om ugen)</item>
+<item>Meget tung (to gange om dagen)</item>
+</string-array>
+<string name="title_play">Body mass index</string>
+<string name="title_play_2">Basal stofskifte</string>
+<string name="title_play_3">Daglige behov for kalorier</string>
+<string name="desc_1">Find din BMI og basal stofskifte.</string>
+<string name="desc_2">Find din BMI og din daglige behov for kalorier.</string>
+<string name="desc_3">Find indeks for massen af ​​din krop og dit daglige behov for kalorier.</string>
+<string name="description_full">
+Dette program vil beregne din BMI (Kropsmasseindeks) og BMR (basal stofskifte).
+Kropsmasseindeks er den vigtigste indikator for human body mass. Ansøgningen vil tildele dig kropsmasse til en af ​​flere kategorier fra \'meget stærkt undervægtige\' til \'meget alvorligt overvægtig\'. Du vil også være i stand til at optage din vægt og spore det over tid. Du kan bruge skemaet, for at se ændrer din vægt og BMI.
+Basal stofskifte angiver mængden af ​​kalorier, du skal forbruge hver dag, for at bevare din vægt. I er beregnet ud fra flere faktorer, herunder vægt, alder, køn og intensiteten af ​​fysisk aktivitet.
+</string>
+</resources>

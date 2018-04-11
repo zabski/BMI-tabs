@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Índice de masa corporal</string>
+<string name="bmi">Índice de masa corporal (IMC) =</string>
+<string name="underweight">Por baixo do peso</string>
+<string name="overweight">Sobrepeso</string>
+<string name="obesity">Obesidade</string>
+<string name="data_saved">Datos gardados</string>
+<string name="choose_theme">Escolla a cor do</string>
+<string name="greenTheme">Verde</string>
+<string name="light">Brillante</string>
+<string name="dark">Escuro</string>
+<string name="cancel">Cancelar</string>
+<string name="ok">Ok</string>
+<string name="charts">Gráfico</string>
+<string name="menu_title">Menú</string>
+<string name="info">Información</string>
+<string name="rate_app">Avaliar este programa!</string>
+<string name="feedback">Dea a súa opinión</string>
+<string name="feedback_prompt">Hola, quere enviar a súa opinión, para que poidamos mellorar esta aplicación para ti?</string>
+<string name="opinion">Opinión</string>
+<string name="height">A súa altura</string>
+<string name="weight">O seu peso</string>
+<string name="sex">Seu sexo</string>
+<string name="male">Masculino</string>
+<string name="female">Feminino</string>
+<string name="age">Súa idade</string>
+<string name="years">Anos</string>
+<string name="month">Mes</string>
+<string name="your_wgt">O seu peso</string>
+<string name="no_data">Non hai datos dispoñibles para este mes</string>
+<string name="exercise">Cantas veces se exercita?</string>
+<string name="your_calories">Necesidade diaria de calorías (BMR) =</string>
+<string name="invalidInput">Datos non válidos</string>
+<string name="emptyInput">Por favor, introduza os datos</string>
+<string name="your_bmi">O seu IMC (índice de masa corporal)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Moi severamente baixo do peso</string>
+<string name="x_low">Severamente baixo do peso</string>
+<string name="low">Por baixo do peso</string>
+<string name="normal">Normal (peso saudable)</string>
+<string name="high">Sobrepeso</string>
+<string name="x_high">Obesidade moderada</string>
+<string name="xx_high">Obesidade grave</string>
+<string name="xxx_high">Obesidade moi grave</string>
+<string name="save_close">Gardar</string>
+<string name="exit">Saída</string>
+<string name="settings">Axustes</string>
+<string-array name="exercise">
+<item>Pouco ou ningún exercicio</item>
+<item>Leves (1 a 3 días por semana)</item>
+<item>Moderado (3 a 5 días á semana)</item>
+<item>Pesados ​​(6 a 7 días por semana)</item>
+<item>Moi pesado (dúas veces ao día)</item>
+</string-array>
+<string name="title_play">Índice de masa corporal</string>
+<string name="title_play_2">Taxa metabólica basal</string>
+<string name="title_play_3">Necesidade diaria de calorías</string>
+<string name="desc_1">Atope o seu índice de masa corporal e taxa metabólica basal.</string>
+<string name="desc_2">Atope o seu índice de masa corporal ea súa necesidade diaria de calorías.</string>
+<string name="desc_3">Atopa índice de masa do seu corpo ea súa necesidade diaria de calorías.</string>
+<string name="description_full">
+Esta aplicación pode calcular o seu IMC (índice de masa corporal) e TMB (taxa metabólica basal).
+Índice de masa corporal é o máis importante indicador de masa corporal humana. A aplicación pode asignar-lle masa corporal para unha das varias categorías de \'moi severamente underweight\' para \'moi severamente obesos\'. Tamén será capaz de gravar o seu peso e segui-lo ao longo do período de tempo. Podes usar o gráfico, para asistir cambia o seu peso e índice de masa corporal.
+Taxa metabólica basal indica a cantidade de calorías que debe consumir cada día, a fin de manter o seu peso. En se calcula en base a varios factores, incluíndo o peso, idade, sexo e da intensidade da actividade física.
+</string>
+</resources>

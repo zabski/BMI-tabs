@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">உடல் நிறை குறியீட்டெண்</string>
+<string name="bmi">உடல் நிறை குறியீட்டெண் (பிஎம்ஐ) =</string>
+<string name="underweight">எடை குறைவாக இருப்பது</string>
+<string name="overweight">அதிக எடை</string>
+<string name="obesity">உடல் பருமன்</string>
+<string name="data_saved">தரவு சேமிக்கப்படும்</string>
+<string name="choose_theme">வண்ண தேர்வு</string>
+<string name="greenTheme">பச்சை</string>
+<string name="light">பிரகாசமான</string>
+<string name="dark">இருண்ட</string>
+<string name="cancel">ரத்து</string>
+<string name="ok">சரி</string>
+<string name="charts">வரைவு</string>
+<string name="menu_title">பட்டி</string>
+<string name="info">தகவல்</string>
+<string name="rate_app">இந்தப் பயன்பாட்டை மதிப்பிடு!</string>
+<string name="feedback">உங்கள் கருத்தை கொடுக்க</string>
+<string name="feedback_prompt">வணக்கம், நீங்கள் நாம் இந்த பயன்பாட்டை மேம்படுத்த முடியும் என்று, எங்களுக்கு உங்கள் கருத்து அனுப்பவும் விரும்புகிறீர்கள்?</string>
+<string name="opinion">கருத்து</string>
+<string name="height">உங்கள் உயரம்</string>
+<string name="weight">உங்கள் எடை</string>
+<string name="sex">உங்கள் செக்ஸ்</string>
+<string name="male">ஆண்</string>
+<string name="female">பெண்</string>
+<string name="age">உங்கள் வயது</string>
+<string name="years">ஆண்டுகள்</string>
+<string name="month">மாதம்</string>
+<string name="your_wgt">உங்கள் எடை</string>
+<string name="no_data">இல்லை தரவு இந்த மாதம் கிடைக்கும்</string>
+<string name="exercise">எப்படி அடிக்கடி நீங்கள் உடற்பயிற்சி செய்ய?</string>
+<string name="your_calories">கலோரி தினமும் தேவை (BMR) =</string>
+<string name="invalidInput">தவறான தரவு</string>
+<string name="emptyInput">தரவு உள்ளிடவும்</string>
+<string name="your_bmi">உங்கள் பிஎம்ஐ (உடல் நிறை குறியீட்டெண்)</string>
+<string name="kcal">நகர்ப்புறங்களில்</string>
+<string name="xx_low">மிகவும் கடுமையாக எடை</string>
+<string name="x_low">கடுமையான எடைகுறைவு</string>
+<string name="low">எடை குறைவாக இருப்பது</string>
+<string name="normal">இயல்பான (ஆரோக்கியமான எடை)</string>
+<string name="high">அதிக எடை</string>
+<string name="x_high">இயல்பான உடல் பருமன்</string>
+<string name="xx_high">கடுமையான உடல் பருமன்</string>
+<string name="xxx_high">மிகவும் தீவிரமான உடல் பருமன்</string>
+<string name="save_close">சேமி</string>
+<string name="exit">வெளியேறு</string>
+<string name="settings">அமைப்புகள்</string>
+<string-array name="exercise">
+<item>சிறிய அல்லது உடற்பயிற்சி</item>
+<item>ஒளி (ஒரு வாரத்திற்கு 1 முதல் 3 நாட்கள்)</item>
+<item>மிதமானது (வாரத்திற்கு 3 முதல் 5 நாட்கள்)</item>
+<item>ஹெவி (வாரத்திற்கு 6 முதல் 7 நாட்கள்)</item>
+<item>மிகவும் கனமான (நாளுக்கு இருமுறை)</item>
+</string-array>
+<string name="title_play">உடல் நிறை குறியீட்டெண்</string>
+<string name="title_play_2">அடிப்படை வளர்சிதை மாற்ற விகிதம்</string>
+<string name="title_play_3">கலோரி தினமும் தேவை</string>
+<string name="desc_1">உங்கள் உடல் நிறை குறியீட்டெண் மற்றும் அடிப்படை வளர்சிதை மாற்ற விகிதம் கண்டுபிடி.</string>
+<string name="desc_2">உங்கள் உடல் நிறை குறியீட்டெண் மற்றும் கலோரிகள் உங்கள் தினசரி தேவை கண்டுபிடிக்க.</string>
+<string name="desc_3">உங்கள் உடல் மற்றும் கலோரிகள் உங்கள் தினசரி தேவை நிறை குறியீட்டெண் கண்டுபிடிக்க.</string>
+<string name="description_full">
+இந்த பயன்பாட்டை உங்கள் பிஎம்ஐ (உடல் நிறை குறியீட்டெண்) மற்றும் BMR (அடித்தள வளர்சிதை மாற்ற விகிதம்) கணக்கிட வேண்டும்.
+உடல் நிறை குறியீட்டெண் மனித உடலில் வெகுஜன மிக முக்கியமான சுட்டிக்காட்டியாக உள்ளது. பயன்பாடு \'மிகவும் கடுமையான உடல் எடை\' \'மிகவும் கடுமையாக எடை\' இருந்து பல பிரிவுகள் ஒன்று நீங்கள் உடல் நிறை ஒதுக்க வேண்டும். நீங்கள் உங்கள் எடை பதிவு நேரம் காலத்தில் அதை கண்காணிக்க முடியும். நீங்கள் உங்கள் எடை மற்றும் உடல் நிறை குறியீட்டெண் மாற்றுகிறது பார்க்க, விளக்கப்படம் பயன்படுத்த முடியும்.
+அடிப்படை வளர்சிதை மாற்ற விகிதம் உங்கள் எடையை பராமரிக்க பொருட்டு, ஒருவருக்கொருவர் நாள் சாப்பிட வேண்டும் என்று கலோரி அளவு குறிக்கிறது. எடை, வயது, பாலியல் மற்றும் உடல் செயல்பாடு செறிவு உட்பட பல காரணிகள் அடிப்படையில் கணக்கிடப்படுகிறது.
+</string>
+</resources>

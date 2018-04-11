@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Indeks massa tubuh</string>
+<string name="bmi">Indeks massa tubuh (BMI) =</string>
+<string name="underweight">Underweight</string>
+<string name="overweight">Kegemukan</string>
+<string name="obesity">Kegemukan</string>
+<string name="data_saved">Data yang disimpan</string>
+<string name="choose_theme">Pilih warna</string>
+<string name="greenTheme">Hijau</string>
+<string name="light">Cerah</string>
+<string name="dark">Gelap</string>
+<string name="cancel">Tidak Jadi</string>
+<string name="ok">Baik</string>
+<string name="charts">Grafik</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informasi</string>
+<string name="rate_app">Beri aplikasi ini!</string>
+<string name="feedback">Berikan pendapat Anda</string>
+<string name="feedback_prompt">Halo, apakah Anda ingin mengirimkan pendapat Anda, sehingga kami dapat meningkatkan aplikasi ini untuk Anda?</string>
+<string name="opinion">Pendapat</string>
+<string name="height">Tinggi badan Anda</string>
+<string name="weight">Berat badan Anda</string>
+<string name="sex">Seks Anda</string>
+<string name="male">Laki-laki</string>
+<string name="female">Perempuan</string>
+<string name="age">Umur kamu</string>
+<string name="years">Tahun</string>
+<string name="month">Bulan</string>
+<string name="your_wgt">Berat badan Anda</string>
+<string name="no_data">Tidak ada data yang tersedia untuk bulan ini</string>
+<string name="exercise">Seberapa sering Anda berolahraga?</string>
+<string name="your_calories">Kebutuhan harian untuk kalori (BMR) =</string>
+<string name="invalidInput">Data yang tidak valid</string>
+<string name="emptyInput">Silahkan memasukkan data</string>
+<string name="your_bmi">BMI Anda (indeks massa tubuh)</string>
+<string name="kcal">Kkal</string>
+<string name="xx_low">Sangat severe underweight</string>
+<string name="x_low">Severe underweight</string>
+<string name="low">Underweight</string>
+<string name="normal">Normal (berat badan yang sehat)</string>
+<string name="high">Kegemukan</string>
+<string name="x_high">Obesitas moderat</string>
+<string name="xx_high">Obesitas berat</string>
+<string name="xxx_high">Obesitas sangat parah</string>
+<string name="save_close">Simpan</string>
+<string name="exit">Pintu Keluar</string>
+<string name="settings">Pengaturan</string>
+<string-array name="exercise">
+<item>Sedikit atau tidak ada latihan</item>
+<item>Cahaya (1 sampai 3 hari per minggu)</item>
+<item>Sedang (3 sampai 5 hari per minggu)</item>
+<item>Berat (6 sampai 7 hari per minggu)</item>
+<item>Sangat berat (dua kali per hari)</item>
+</string-array>
+<string name="title_play">Indeks massa tubuh</string>
+<string name="title_play_2">Tingkat metabolisme basal</string>
+<string name="title_play_3">Kebutuhan harian untuk kalori</string>
+<string name="desc_1">Cari indeks massa tubuh Anda dan tingkat metabolisme basal.</string>
+<string name="desc_2">Cari indeks massa tubuh Anda dan kebutuhan harian Anda untuk kalori.</string>
+<string name="desc_3">Cari indeks massa tubuh Anda dan kebutuhan harian Anda untuk kalori.</string>
+<string name="description_full">
+Aplikasi ini akan menghitung BMI Anda (indeks massa tubuh) dan BMR (tingkat metabolisme basal).
+Indeks massa tubuh adalah indikator yang paling penting dari massa tubuh manusia. Aplikasi ini akan memberikan Anda massa tubuh ke salah satu dari beberapa kategori \'sangat severe underweight\' menjadi \'sangat sangat gemuk\'. Anda juga akan dapat merekam berat badan Anda dan melacak selama periode waktu. Anda dapat menggunakan grafik, untuk menonton perubahan berat badan dan indeks massa tubuh.
+Tingkat metabolisme basal menunjukkan jumlah kalori yang Anda harus mengkonsumsi setiap hari, untuk menjaga berat badan Anda. Dalam dihitung berdasarkan pada beberapa faktor termasuk berat badan, usia, jenis kelamin dan intensitas aktivitas fisik.
+</string>
+</resources>

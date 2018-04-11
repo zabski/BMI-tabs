@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Індекс маси тіла</string>
+<string name="bmi">Індекс маси тіла (ІМТ) =</string>
+<string name="underweight">Знижена маса</string>
+<string name="overweight">Надмірна вага</string>
+<string name="obesity">Ожиріння</string>
+<string name="data_saved">Збережені дані</string>
+<string name="choose_theme">Виберіть колір</string>
+<string name="greenTheme">Зелений</string>
+<string name="light">Яскравий</string>
+<string name="dark">Темно</string>
+<string name="cancel">Скасувати</string>
+<string name="ok">Добре</string>
+<string name="charts">Графік</string>
+<string name="menu_title">Меню</string>
+<string name="info">Інформація</string>
+<string name="rate_app">Оцінити це додаток!</string>
+<string name="feedback">Висловити свою думку</string>
+<string name="feedback_prompt">Здрастуйте, ви хотіли б відправити нам свою думку, так що ми можемо поліпшити це додаток для вас?</string>
+<string name="opinion">Думка</string>
+<string name="height">Ваш зростання</string>
+<string name="weight">Ваша вага</string>
+<string name="sex">Ваш пол</string>
+<string name="male">Чоловік</string>
+<string name="female">Жінка</string>
+<string name="age">Ваш вік</string>
+<string name="years">Роки</string>
+<string name="month">Місяць</string>
+<string name="your_wgt">Ваша вага</string>
+<string name="no_data">Немає даних немає для цього місяця</string>
+<string name="exercise">Як часто ви робите фізичні вправи?</string>
+<string name="your_calories">Добова потреба в калоріях (БМР) =</string>
+<string name="invalidInput">Невірні дані</string>
+<string name="emptyInput">Будь ласка, введіть дані</string>
+<string name="your_bmi">Ваш ІМТ (індекс маси тіла)</string>
+<string name="kcal">Кілокалорія</string>
+<string name="xx_low">Дуже сильно виснажені</string>
+<string name="x_low">Недостатню вагу</string>
+<string name="low">Знижена маса</string>
+<string name="normal">Нормальна (нормальний вага)</string>
+<string name="high">Надмірна вага</string>
+<string name="x_high">Помірний ожиріння</string>
+<string name="xx_high">Ожиріння</string>
+<string name="xxx_high">Дуже важке ожиріння</string>
+<string name="save_close">Зберегти</string>
+<string name="exit">Вихід</string>
+<string name="settings">Налаштування</string>
+<string-array name="exercise">
+<item>Мало чи ні вправу</item>
+<item>Легкі (від 1 до 3 днів на тиждень)</item>
+<item>Помірні (від 3 до 5 днів на тиждень)</item>
+<item>Важкі (від 6 до 7 днів на тиждень)</item>
+<item>Дуже важкий (двічі в день)</item>
+</string-array>
+<string name="title_play">Індекс маси тіла</string>
+<string name="title_play_2">Основний обмін</string>
+<string name="title_play_3">Добова потреба в калоріях</string>
+<string name="desc_1">Знайти індексу маси тіла і базальна швидкість метаболізму.</string>
+<string name="desc_2">Знайти індекс маси тіла і добову потребу в калоріях.</string>
+<string name="desc_3">Знайти індекс маси вашого тіла і добової потреби в калоріях.</string>
+<string name="description_full">
+Ця програма буде розрахувати свій ІМТ (індекс маси тіла) і ПОВ (базальний рівень метаболізму).
+Індекс маси тіла є найбільш важливим показником маси тіла людини. Додаток буде призначати маси тіла на один з декількох категорій від \'дуже сильно відстають\' до \'дуже важким ожирінням\'. Ви також зможете записувати свою вагу і відслідковувати його на час. Ви можете використовувати графік, щоб стежити за змінами свою вагу і індекс маси тіла.
+Базальний рівень метаболізму вказує кількість калорій, які ви повинні споживати щодня, для того, щоб підтримувати свою вагу. В розраховується на основі декількох факторів, включаючи вагу, вік, стать і інтенсивності фізичної активності.
+</string>
+</resources>

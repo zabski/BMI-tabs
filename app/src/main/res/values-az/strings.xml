@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Bədən kütlə indeksi</string>
+<string name="bmi">Bədən kütləvi indeksi (BMI) =</string>
+<string name="underweight">Yüngül</string>
+<string name="overweight">Çəki artıqlığı</string>
+<string name="obesity">Şişmanlıq</string>
+<string name="data_saved">Məlumat qeyd</string>
+<string name="choose_theme">Rəngi ​​seçin</string>
+<string name="greenTheme">Yaşıl</string>
+<string name="light">Parlaq</string>
+<string name="dark">Qaranlıq</string>
+<string name="cancel">Ləğv etmək</string>
+<string name="ok">Əvət</string>
+<string name="charts">Chart</string>
+<string name="menu_title">Menyu</string>
+<string name="info">Məlumat</string>
+<string name="rate_app">Bu proqram dərəcəsi!</string>
+<string name="feedback">Sizin rəy verin</string>
+<string name="feedback_prompt">Salam, biz sizin üçün bu proqram inkişaf edə bilər ki, bizə rəy göndərmək istəyirsiniz?</string>
+<string name="opinion">Rəy</string>
+<string name="height">Sizin hündürlüyü</string>
+<string name="weight">Sizin çəki</string>
+<string name="sex">Sizin sex</string>
+<string name="male">Kişi</string>
+<string name="female">Qadın</string>
+<string name="age">Sizin yaş</string>
+<string name="years">Il</string>
+<string name="month">Ay</string>
+<string name="your_wgt">Sizin çəki</string>
+<string name="no_data">No data Bu ay üçün mövcuddur</string>
+<string name="exercise">Necə tez-tez istifadə edirsiniz?</string>
+<string name="your_calories">Kalori gündəlik tələb (BMR) =</string>
+<string name="invalidInput">Yanlış məlumat</string>
+<string name="emptyInput">Məlumat daxil edin</string>
+<string name="your_bmi">Sizin BMI (Body Mass Index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Çox ciddi yüngül</string>
+<string name="x_low">Ağır yüngül</string>
+<string name="low">Yüngül</string>
+<string name="normal">Normal (sağlam çəki)</string>
+<string name="high">Çəki artıqlığı</string>
+<string name="x_high">Orta piylənmə</string>
+<string name="xx_high">Ağır piylənmə</string>
+<string name="xxx_high">Çox ağır piylənmə</string>
+<string name="save_close">Save</string>
+<string name="exit">Çıxış</string>
+<string name="settings">Parametrlər</string>
+<string-array name="exercise">
+<item>Az və ya heç bir həyata</item>
+<item>Light (həftədə 1 3 gün)</item>
+<item>Orta (həftədə 3 5 gün)</item>
+<item>Ağır (həftədə 6 7 gün)</item>
+<item>Çox ağır (gündə iki dəfə)</item>
+</string-array>
+<string name="title_play">Bədən kütlə indeksi</string>
+<string name="title_play_2">Bazal metabolik dərəcəsi</string>
+<string name="title_play_3">Kalori gündəlik tələb</string>
+<string name="desc_1">Sizin Bədən kütləvi indeksi və Bazal metabolik dərəcəsi tapın.</string>
+<string name="desc_2">Sizin Bədən kütləvi indeksi və kalori gündəlik tələb tapın.</string>
+<string name="desc_3">Sizin orqan və kalori üçün gündəlik tələbi kütləvi indeksi tapın.</string>
+<string name="description_full">
+Bu proqram sizin BMI (Body Mass Index) və BMR (Bazal metabolik dərəcəsi) hesaplarız.
+Bədən kütlə indeksi insan bədən kütləvi ən əhəmiyyətli göstəricisidir. Bu proqram \'çox ciddi şişman\' üçün \'çox ciddi normadan\' bir neçə kateqoriyalar biri sizə bədən kütləvi təyin edəcək. Siz həmçinin çəki qeyd və zaman ərzində onu izlemek üçün olacaq. Siz çəki və Bədən kütləvi indeksi dəyişikliklər izləmək üçün, chart istifadə edə bilərsiniz.
+Bazal metabolik dərəcəsi sizin çəki qorumaq üçün, hər gün istehlak edilməlidir kalori miqdarı göstərir. Çəki, yaş, cins və fiziki fəaliyyəti intensivliyi daxil olmaqla bir sıra amillər əsasında hesablanır.
+</string>
+</resources>

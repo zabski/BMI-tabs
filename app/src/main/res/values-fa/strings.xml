@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">شاخص توده بدن</string>
+<string name="bmi">شاخص توده بدن (BMI) =</string>
+<string name="underweight">کسر وزن</string>
+<string name="overweight">چاق</string>
+<string name="obesity">چاقی</string>
+<string name="data_saved">داده های ذخیره شده</string>
+<string name="choose_theme">انتخاب رنگ</string>
+<string name="greenTheme">سبز</string>
+<string name="light">روشن</string>
+<string name="dark">تاریک</string>
+<string name="cancel">لغو کردن</string>
+<string name="ok">باشه</string>
+<string name="charts">جدول</string>
+<string name="menu_title">منو</string>
+<string name="info">اطلاعات</string>
+<string name="rate_app">امتیاز به این برنامه!</string>
+<string name="feedback">به نظر شما</string>
+<string name="feedback_prompt">سلام، دوست دارید برای ما ارسال نظر شما، به طوری که ما می توانیم این برنامه را برای شما بهبود؟</string>
+<string name="opinion">نظر</string>
+<string name="height">ارتفاع شما</string>
+<string name="weight">وزن شما</string>
+<string name="sex">جنس شما</string>
+<string name="male">نر</string>
+<string name="female">زن</string>
+<string name="age">سن تو</string>
+<string name="years">سال</string>
+<string name="month">ماه</string>
+<string name="your_wgt">وزن شما</string>
+<string name="no_data">داده ای در دسترس برای این ماه است</string>
+<string name="exercise">هر چند وقت شما ورزش؟</string>
+<string name="your_calories">نیاز روزانه برای کالری (BMR) =</string>
+<string name="invalidInput">داده های نامعتبر</string>
+<string name="emptyInput">لطفا اطلاعات را وارد کنید</string>
+<string name="your_bmi">BMI شما (شاخص توده بدن)</string>
+<string name="kcal">کیلوکالری</string>
+<string name="xx_low">بسیار کم وزنی شدید</string>
+<string name="x_low">کم وزنی شدید</string>
+<string name="low">کسر وزن</string>
+<string name="normal">عادی (وزن سالم)</string>
+<string name="high">چاق</string>
+<string name="x_high">چاقی متوسط</string>
+<string name="xx_high">چاقی شدید</string>
+<string name="xxx_high">چاقی بسیار شدید</string>
+<string name="save_close">ذخیره</string>
+<string name="exit">خروج</string>
+<string name="settings">تنظیمات</string>
+<string-array name="exercise">
+<item>ورزش کم و یا هیچ</item>
+<item>نور (1 تا 3 روز در هفته)</item>
+<item>متوسط ​​(3 تا 5 روز در هفته)</item>
+<item>سنگین (6 تا 7 روز در هفته)</item>
+<item>بسیار سنگین (دو بار در روز)</item>
+</string-array>
+<string name="title_play">شاخص توده بدن</string>
+<string name="title_play_2">میزان متابولیسم پایه</string>
+<string name="title_play_3">نیاز روزانه برای کالری</string>
+<string name="desc_1">یافتن شاخص توده بدن شما و میزان متابولیسم بازال.</string>
+<string name="desc_2">یافتن شاخص توده بدن شما و نیاز روزانه خود را برای کالری.</string>
+<string name="desc_3">یافتن شاخص توده بدن شما و نیاز روزانه خود را برای کالری.</string>
+<string name="description_full">
+این نرم افزار خواهد BMI خود را (شاخص توده بدن) و BMR (سرعت سوخت و ساز پایه) محاسبه.
+شاخص توده بدن از مهم ترین شاخص توده بدن انسان است. برنامه خواهد توده بدن شما را به یکی از چند دسته از \'بسیار کم وزنی شدید\' به \'بسیار به شدت چاق\' اختصاص دهید. همچنین شما می خواهد قادر به ضبط وزن شما و پیگیری آن را بیش از مدت زمان باشد. شما می توانید نمودار را به تماشا وزن خود را و شاخص توده بدن تغییر استفاده کنید.
+میزان متابولیسم پایه را نشان می دهد مقدار کالری است که شما باید هر روز مصرف، به منظور حفظ وزن خود را. در است بر اساس عوامل متعددی از جمله وزن، سن، جنس و شدت فعالیت بدنی محاسبه می شود.
+</string>
+</resources>

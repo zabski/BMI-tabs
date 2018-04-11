@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Kuzov ommaviy indekslarini</string>
+<string name="bmi">Kuzov ommaviy indeksi (BMI) =</string>
+<string name="underweight">Vazn</string>
+<string name="overweight">Ortiqcha vaznli</string>
+<string name="obesity">Semizlik</string>
+<string name="data_saved">Ma\'lumotlar saqlanadi</string>
+<string name="choose_theme">Rang tanlang</string>
+<string name="greenTheme">Yashil</string>
+<string name="light">Yorug \'</string>
+<string name="dark">Qorong\'u</string>
+<string name="cancel">Bekor qilish</string>
+<string name="ok">Xop</string>
+<string name="charts">Sxema</string>
+<string name="menu_title">Menyu</string>
+<string name="info">Axborot</string>
+<string name="rate_app">Ushbu dasturni ber!</string>
+<string name="feedback">Fikringizni bering</string>
+<string name="feedback_prompt">Salom, siz, biz, siz uchun bu dasturni yaxshilash mumkin, shunday qilib, bizga fikringizni yuborishni istayman?</string>
+<string name="opinion">Fikr</string>
+<string name="height">Sizning balandligi</string>
+<string name="weight">Sizning vazn</string>
+<string name="sex">Sizning sex</string>
+<string name="male">Erkak</string>
+<string name="female">Ayol</string>
+<string name="age">Yoshingiz</string>
+<string name="years">Yil</string>
+<string name="month">Oy</string>
+<string name="your_wgt">Sizning vazn</string>
+<string name="no_data">Ma\'lumot yo\'q bu oy uchun mavjud</string>
+<string name="exercise">Qanday tez-tez mashq qilasiz?</string>
+<string name="your_calories">Kaloriyalar uchun Daily talab (BMR) =</string>
+<string name="invalidInput">Invalid ma\'lumotlar</string>
+<string name="emptyInput">Ma\'lumotlarni kiriting</string>
+<string name="your_bmi">Sizning BMI (Kuzov ommaviy indeksi)</string>
+<string name="kcal">Kkal</string>
+<string name="xx_low">Juda jiddiy vaznlar</string>
+<string name="x_low">Og\'ir vaznlar</string>
+<string name="low">Vazn</string>
+<string name="normal">Oddiy (sog\'lom vazn)</string>
+<string name="high">Ortiqcha vaznli</string>
+<string name="x_high">O\'rtacha semirib</string>
+<string name="xx_high">Og\'ir semirib</string>
+<string name="xxx_high">Juda og\'ir semirib</string>
+<string name="save_close">Saqlash</string>
+<string name="exit">Chiqish</string>
+<string name="settings">Sozlamalar</string>
+<string-array name="exercise">
+<item>Little yoki yo\'q mashqlar</item>
+<item>Light (haftasiga 1 3 kun)</item>
+<item>O\'rtacha (haftasiga 3 5 kun)</item>
+<item>Heavy (haftasiga 6 7 kun)</item>
+<item>Juda og\'ir (kuniga ikki marta)</item>
+</string-array>
+<string name="title_play">Kuzov ommaviy indekslarini</string>
+<string name="title_play_2">Bazal metabolik darajasi</string>
+<string name="title_play_3">Kaloriyalar uchun Daily talab</string>
+<string name="desc_1">Sizning tana ommaviy indekslarini va bazal metabolik tezligi toping.</string>
+<string name="desc_2">Sizning tana ommaviy indekslarini va kaloriyalar uchun kundalik talabni toping.</string>
+<string name="desc_3">Organizmni va kaloriyalar uchun sizning kunlik talabning massasi indeksini toping.</string>
+<string name="description_full">
+Ushbu dastur sizga BMI (Kuzov ommaviy indeksi) va BMR (Bazal metabolik darajasi) hisoblash bo\'ladi.
+Kuzov ommaviy indeksi inson tanasi massasi eng muhim ko\'rsatkichi hisoblanadi. dastur \'juda jiddiy semiz\' uchun \'juda jiddiy cha\' dan bir necha toifalarga biriga sizga tana massasi tayinlaydi. Bundan tashqari, og\'irlik qayd va vaqt davri mobaynida uni kuzatib borish mumkin bo\'ladi. Siz og\'irligi va tana ommaviy indekslarini o\'zgartiradi tomosha qilish, jadvallaridan foydalanish mumkin.
+Bazal metabolik darajasi siz og\'irlik saqlab qolish uchun, har kuni iste\'mol kerak kaloriyalar miqdorini ko\'rsatadi. In og\'irligi, yoshi, jinsi va jismoniy faoliyati jadalligiga, shu jumladan bir necha omillar asosida hisoblanadi.
+</string>
+</resources>

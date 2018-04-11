@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">מדד מסת גוף</string>
+<string name="bmi">מדד מסת גוף (BMI) =</string>
+<string name="underweight">תת</string>
+<string name="overweight">סובלים מעודף משקל</string>
+<string name="obesity">השמנת יתר</string>
+<string name="data_saved">הנתונים שנשמרו</string>
+<string name="choose_theme">בחר צבע</string>
+<string name="greenTheme">ירוק</string>
+<string name="light">בהיר</string>
+<string name="dark">אפל</string>
+<string name="cancel">לבטל</string>
+<string name="ok">אוקיי</string>
+<string name="kg">kg</string>
+<string name="lb">lb</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+<string name="charts">תרשים</string>
+<string name="menu_title">תפריט</string>
+<string name="info">מידע</string>
+<string name="rate_app">דרג את היישום הזה!</string>
+<string name="feedback">תן דעתך</string>
+<string name="feedback_prompt">שלום, היית רוצה לשלוח לנו את דעתך, כדי שנוכל לשפר את היישום זה בשבילך?</string>
+<string name="opinion">חוות דעת</string>
+<string name="height">הגובה שלך</string>
+<string name="weight">המשקל שלך</string>
+<string name="sex">המין שלך</string>
+<string name="male">זכר</string>
+<string name="female">נקבה</string>
+<string name="age">הגיל שלך</string>
+<string name="years">שנים</string>
+<string name="month">חודש</string>
+<string name="your_wgt">המשקל שלך</string>
+<string name="no_data">אין נתונים זמינים לחודש זה</string>
+<string name="exercise">באיזו תדירות אתם עושים פעילות גופנית?</string>
+<string name="your_calories">דרישה יומית לקלוריות (BMR) =</string>
+<string name="invalidInput">נתונים לא חוקיים</string>
+<string name="emptyInput">נא להזין את הנתונים</string>
+<string name="your_bmi">ה- BMI שלך (אינדקס מסת גוף)</string>
+<string name="kcal">קלוריות</string>
+<string name="xx_low">מאוד קשה בתת משקל</string>
+<string name="x_low">קשה בתת משקל</string>
+<string name="low">תת</string>
+<string name="normal">(על משקל בריא) רגיל</string>
+<string name="high">סובלים מעודף משקל</string>
+<string name="x_high">השמנה מתונה</string>
+<string name="xx_high">השמנת יתר חמורה</string>
+<string name="xxx_high">השמנת יתר חמורה מאוד</string>
+<string name="save_close">שמור</string>
+<string name="exit">יציאה</string>
+<string name="settings">הגדרות</string>
+<string-array name="exercise">
+<item>תרגיל קטן או לא</item>
+<item>אור (1 עד 3 ימים בשבוע)</item>
+<item>מתונים (3 עד 5 ימים בשבוע)</item>
+<item>כבדים (6-7 ימים בשבוע)</item>
+<item>כבד מאוד (פעמיים ביום)</item>
+</string-array>
+<string name="title_play">מדד מסת גוף</string>
+<string name="title_play_2">קצב חילוף חומרים בסיסי</string>
+<string name="title_play_3">דרישה יומית לקלוריות</string>
+<string name="desc_1">מצא את אינדקס מסת גוף וקצב חילוף חומרים בסיסי שלך.</string>
+<string name="desc_2">מצא את אינדקס מסת גוף והדרישה היומית שלך לקלוריות שלך.</string>
+<string name="desc_3">מצא את מדד מסת הגוף שלך ואת הדרישה היומית שלך לקלוריות.</string>
+<string name="description_full">
+יישום זה לחשב את ה- BMI שלך (אינדקס מסת גוף) וBMR (קצב חילוף חומרים בסיסי).
+מדד מסת גוף הוא המדד החשוב ביותר של מסת גוף אנושית. היישום יקצה מסת הגוף לאחד מכמה קטגוריות מ\' תת-משקל מאוד קשה \'ל-\' שמן מאוד קשה \'. תוכל גם להיות מסוגל להקליט במשקל שלך ולעקוב אחריו על פני תקופה של זמן. אתה יכול להשתמש בתרשים, כדי לצפות בשינויים במשקל שלך ואינדקס מסת גוף.
+קצב חילוף חומרים בסיסי מציין את כמות הקלוריות שאתה צריך לצרוך בכל יום, על מנת לשמור על המשקל שלך. במחושב על בסיס מספר גורמים, כולל משקל, גיל, מין ואינטנסיביות של פעילות גופנית.
+</string>
+</resources>

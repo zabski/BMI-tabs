@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Indeks tjelesne mase</string>
+<string name="bmi">Indeks tjelesne mase (BMI) =</string>
+<string name="underweight">Pothranjena</string>
+<string name="overweight">Pretežak</string>
+<string name="obesity">Gojaznost</string>
+<string name="data_saved">Spremljene podatke</string>
+<string name="choose_theme">Odaberite boju</string>
+<string name="greenTheme">Zelena</string>
+<string name="light">Svijetao</string>
+<string name="dark">Mrak</string>
+<string name="cancel">Otkazati</string>
+<string name="ok">U redu</string>
+<string name="charts">Grafikon</string>
+<string name="menu_title">Meni</string>
+<string name="info">Informacije</string>
+<string name="rate_app">Ocijenite ovu aplikaciju!</string>
+<string name="feedback">Dajte svoje mišljenje</string>
+<string name="feedback_prompt">Pozdrav, bi li nam poslali svoje mišljenje, tako da možemo poboljšati ovu aplikaciju za vas?</string>
+<string name="opinion">Mišljenje</string>
+<string name="height">Vaš visina</string>
+<string name="weight">Vaša težina</string>
+<string name="sex">Vaš seks</string>
+<string name="male">Muški</string>
+<string name="female">Ženski</string>
+<string name="age">Vaša dob</string>
+<string name="years">Godina</string>
+<string name="month">Mjesec</string>
+<string name="your_wgt">Vaša težina</string>
+<string name="no_data">Nema podataka za ovaj mjesec</string>
+<string name="exercise">Koliko često vježbate?</string>
+<string name="your_calories">Dnevne potrebe za kalorijama (BMR) =</string>
+<string name="invalidInput">Nevažeći podaci</string>
+<string name="emptyInput">Unesite podatke</string>
+<string name="your_bmi">Vaš BMI (indeks tjelesne mase)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Vrlo ozbiljno pothranjene</string>
+<string name="x_low">Teško pothranjena</string>
+<string name="low">Pothranjena</string>
+<string name="normal">Normalno (zdrave težine)</string>
+<string name="high">Pretežak</string>
+<string name="x_high">Umjereno pretilost</string>
+<string name="xx_high">Teška pretilost</string>
+<string name="xxx_high">Vrlo teška pretilost</string>
+<string name="save_close">Spremi</string>
+<string name="exit">Izlaz</string>
+<string name="settings">Postavke</string>
+<string-array name="exercise">
+<item>Malo ili bez vježbanja</item>
+<item>Svjetlo (1 do 3 dana u tjednu)</item>
+<item>Umjereno (3 do 5 dana u tjednu)</item>
+<item>Teški (6-7 dana tjedno)</item>
+<item>Vrlo teška (dva puta dnevno)</item>
+</string-array>
+<string name="title_play">Indeks tjelesne mase</string>
+<string name="title_play_2">Bazalnog metabolizma</string>
+<string name="title_play_3">Dnevne potrebe za kalorijama</string>
+<string name="desc_1">Pronađite svoj indeks tjelesne mase i bazalnog metabolizma.</string>
+<string name="desc_2">Pronađite svoj indeks tjelesne mase i vaše dnevne potrebe za kalorijama.</string>
+<string name="desc_3">Nađi indeks mase tijela i vaše dnevne potrebe za kalorijama.</string>
+<string name="description_full">
+Ovaj program će izračunati svoj BMI (indeks tjelesne mase) i BMR (bazalnog metabolizma).
+Indeks tjelesne mase je najvažniji pokazatelj ljudske tjelesne mase. Aplikacija će vam dodijeliti tjelesne mase na jedan od nekoliko kategorija od \'vrlo ozbiljno pothranjene\' da \'vrlo teško pretilo\'. Vi ćete biti u mogućnosti snimiti svoju težinu i pratiti ga tijekom vremena. Možete koristiti tablicu, gledati mijenja svoju težinu i indeks tjelesne mase.
+Bazalnog metabolizma pokazuje količinu kalorija koju bi trebali konzumirati svaki dan, kako bi održali svoju težinu. U izračunava se na temelju nekoliko čimbenika, uključujući težinu, dob, spol i intenzitetu tjelesne aktivnosti.
+</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Ķermeņa masas indekss</string>
+<string name="bmi">Ķermeņa masas indekss (ĶMI) =</string>
+<string name="underweight">Svaru</string>
+<string name="overweight">Virssvars</string>
+<string name="obesity">Tuklums</string>
+<string name="data_saved">Datu saglabāti</string>
+<string name="choose_theme">Izvēlies krāsu</string>
+<string name="greenTheme">Zaļš</string>
+<string name="light">Spilgti</string>
+<string name="dark">Tumšs</string>
+<string name="cancel">Atcelt</string>
+<string name="ok">Labi</string>
+<string name="charts">Diagramma</string>
+<string name="menu_title">Ēdienkarte</string>
+<string name="info">Informācija</string>
+<string name="rate_app">Novērtēt šo pieteikumu!</string>
+<string name="feedback">Dodiet savu viedokli</string>
+<string name="feedback_prompt">Sveiki, vai jūs vēlētos, lai nosūtītu mums savu viedokli, lai mēs varētu uzlabot šo pieteikumu par jums?</string>
+<string name="opinion">Domas</string>
+<string name="height">Jūsu augstums</string>
+<string name="weight">Jūsu svars</string>
+<string name="sex">Jūsu dzimums</string>
+<string name="male">Vīrietis</string>
+<string name="female">Sieviete</string>
+<string name="age">Jūsu vecums</string>
+<string name="years">Gadiem</string>
+<string name="month">Mēnesis</string>
+<string name="your_wgt">Jūsu svars</string>
+<string name="no_data">Nav pieejami dati par šajā mēnesī</string>
+<string name="exercise">Cik bieži jūs izmantot?</string>
+<string name="your_calories">Ikdienas prasība kalorijas (BMR) =</string>
+<string name="invalidInput">Nederīgus datus</string>
+<string name="emptyInput">Lūdzu ievadīt datus</string>
+<string name="your_bmi">Jūsu BMI (ķermeņa masas indekss)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Ļoti stipri svaru</string>
+<string name="x_low">Smagi svaru</string>
+<string name="low">Svaru</string>
+<string name="normal">Normāls (veselīga svara)</string>
+<string name="high">Virssvars</string>
+<string name="x_high">Mērens aptaukošanās</string>
+<string name="xx_high">Smaga aptaukošanās</string>
+<string name="xxx_high">Ļoti smagas aptaukošanās</string>
+<string name="save_close">Saglabāt</string>
+<string name="exit">Izeja</string>
+<string name="settings">Settings</string>
+<string-array name="exercise">
+<item>Maz vai nav vingrinājums</item>
+<item>Gaismas (1 līdz 3 dienas nedēļā)</item>
+<item>Mērens (3 līdz 5 dienas nedēļā)</item>
+<item>Smagie (6 līdz 7 dienas nedēļā)</item>
+<item>Ļoti smags (divas reizes dienā)</item>
+</string-array>
+<string name="title_play">Ķermeņa masas indekss</string>
+<string name="title_play_2">Bazālo vielmaiņas ātrumu</string>
+<string name="title_play_3">Ikdienas prasība kalorijas</string>
+<string name="desc_1">Atrodiet savu ķermeņa masas indeksu un bazālo vielmaiņas ātrumu.</string>
+<string name="desc_2">Atrodiet savu ķermeņa masas indeksu un savu ikdienas prasību kalorijas.</string>
+<string name="desc_3">Atrast indeksu masas savu ķermeni un savu ikdienas prasībai kalorijas.</string>
+<string name="description_full">
+Šis pieteikums aprēķinās Jūsu ĶMI (ķermeņa masas indekss) un BMR (bazālo vielmaiņas ātrumu).
+Ķermeņa masas indekss ir svarīgākais rādītājs cilvēka ķermeņa masas. Pieteikumu piešķirt jums ķermeņa masu uz viena no vairākām kategorijām, no \'ļoti stipri pazeminātu svaru\' līdz \'ļoti smagi aptaukošanās\'. Jums arī būs iespēja ierakstīt savu svaru un izsekot to vairāk laika periodā. Jūs varat izmantot diagrammu, lai noskatītos maina savu svaru un ķermeņa masas indeksu.
+Bazālo vielmaiņas ātrumu norāda kaloriju daudzumu, kas jums vajadzētu patērēt katru dienu, lai saglabātu savu svaru. Jo tiek aprēķināts, balstoties uz vairākiem faktoriem, tostarp svara, vecuma, dzimuma un intensitātes fiziskās aktivitātes.
+</string>
+</resources>

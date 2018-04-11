@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Kroppsmasseindeks</string>
+<string name="bmi">Kroppsmasseindeks (BMI) =</string>
+<string name="underweight">Undervektig</string>
+<string name="overweight">Overvekt</string>
+<string name="obesity">Fedme</string>
+<string name="data_saved">Data lagret</string>
+<string name="choose_theme">Velg farge</string>
+<string name="greenTheme">Grønn</string>
+<string name="light">Lyse</string>
+<string name="dark">Mørk</string>
+<string name="cancel">Avbryt</string>
+<string name="ok">Ok</string>
+<string name="charts">Chart</string>
+<string name="menu_title">Meny</string>
+<string name="info">Informasjon</string>
+<string name="rate_app">Rangere dette programmet!</string>
+<string name="feedback">Gi din mening</string>
+<string name="feedback_prompt">Hei, ønsker du å sende oss din mening, slik at vi kan forbedre dette programmet for deg?</string>
+<string name="opinion">Mening</string>
+<string name="height">Din høyde</string>
+<string name="weight">Din vekt</string>
+<string name="sex">Sexlivet</string>
+<string name="male">Mann</string>
+<string name="female">Kvinne</string>
+<string name="age">Din alder</string>
+<string name="years">År</string>
+<string name="month">Måned</string>
+<string name="your_wgt">Din vekt</string>
+<string name="no_data">Ingen data er tilgjengelig for denne måneden</string>
+<string name="exercise">Hvor ofte trener du?</string>
+<string name="your_calories">Daglige behovet for kalorier (BMR) =</string>
+<string name="invalidInput">Ugyldige data</string>
+<string name="emptyInput">Skriv inn data</string>
+<string name="your_bmi">Din BMI (Kroppsmasseindeks)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Svært alvorlig undervektige</string>
+<string name="x_low">Alvorlig undervektige</string>
+<string name="low">Undervektig</string>
+<string name="normal">Normal (sunn vekt)</string>
+<string name="high">Overvekt</string>
+<string name="x_high">Moderat fedme</string>
+<string name="xx_high">Alvorlig fedme</string>
+<string name="xxx_high">Svært alvorlig fedme</string>
+<string name="save_close">Lagre</string>
+<string name="exit">Utgang</string>
+<string name="settings">Innstillinger</string>
+<string-array name="exercise">
+<item>Lite eller ingen trening</item>
+<item>Lys (1 til 3 dager per uke)</item>
+<item>Moderate (3 til 5 dager pr uke)</item>
+<item>Tunge (6 til 7 dager per uke)</item>
+<item>Veldig tung (to ganger per dag)</item>
+</string-array>
+<string name="title_play">Kroppsmasseindeks</string>
+<string name="title_play_2">Basal metabolic rate</string>
+<string name="title_play_3">Daglige behovet for kalorier</string>
+<string name="desc_1">Finn din Kroppsmasseindeks og Basal metabolic rate.</string>
+<string name="desc_2">Finn din Kroppsmasseindeks og ditt daglige behov for kalorier.</string>
+<string name="desc_3">Finn indeks over massen av din kropp og ditt daglige behov for kalorier.</string>
+<string name="description_full">
+Denne applikasjonen vil beregne din BMI (Kroppsmasseindeks) og BMR (Basal metabolic rate).
+Kroppsmasseindeks er den viktigste indikator på menneskekroppen masse. Søknaden vil tildele deg kroppsmasse til ett av flere kategorier fra \'svært alvorlig undervektig\' til \'meget alvorlig obese\'. Du vil også være i stand til å spille inn din vekt og spore den over tid. Du kan bruke diagrammet, for å se på endringer vekten din og Kroppsmasseindeks.
+Basal metabolic rate indikerer mengden kalorier som du bør spise hver dag, for å opprettholde vekten. I beregnes på grunnlag av flere faktorer, inkludert vekt, alder, kjønn og intensiteten av fysisk aktivitet.
+</string>
+</resources>

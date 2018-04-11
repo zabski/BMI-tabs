@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Liggaamsmassa-indeks</string>
+<string name="bmi">Liggaamsmassa-indeks (BMI) =</string>
+<string name="underweight">Ondergewig</string>
+<string name="overweight">Oorgewig</string>
+<string name="obesity">Vetsug</string>
+<string name="data_saved">Data gestoor</string>
+<string name="choose_theme">Kies kleur</string>
+<string name="greenTheme">Groen</string>
+<string name="light">Helder</string>
+<string name="dark">Donker</string>
+<string name="cancel">Kanselleer</string>
+<string name="ok">Goed</string>
+<string name="charts">Grafiek</string>
+<string name="menu_title">Menu</string>
+<string name="info">Inligting</string>
+<string name="rate_app">Gradeer hierdie aansoek!</string>
+<string name="feedback">Gee jou mening</string>
+<string name="feedback_prompt">Hello, sou jy graag om ons te stuur jou mening, sodat ons kan hierdie aansoek vir jou verbeter?</string>
+<string name="opinion">Mening</string>
+<string name="height">Jou hoogte</string>
+<string name="weight">Jou gewig</string>
+<string name="sex">Jou seks</string>
+<string name="male">Manlike</string>
+<string name="female">Vroulike</string>
+<string name="age">Jou ouderdom</string>
+<string name="years">Jaar</string>
+<string name="month">Maand</string>
+<string name="your_wgt">Jou gewig</string>
+<string name="no_data">Geen data is beskikbaar vir hierdie maand</string>
+<string name="exercise">Hoe dikwels oefen jy?</string>
+<string name="your_calories">Daaglikse vereiste vir kalorieë (BMR) =</string>
+<string name="invalidInput">Ongeldig data</string>
+<string name="emptyInput">Tik asb data</string>
+<string name="your_bmi">Jou LMI (liggaamsmassa-indeks)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Baie erg ondergewig</string>
+<string name="x_low">Ernstig ondergewig</string>
+<string name="low">Ondergewig</string>
+<string name="normal">Normale (gesonde gewig)</string>
+<string name="high">Oorgewig</string>
+<string name="x_high">Matige vetsug</string>
+<string name="xx_high">Erge vetsug</string>
+<string name="xxx_high">Baie erge vetsug</string>
+<string name="save_close">Save</string>
+<string name="exit">Uitgang</string>
+<string name="settings">Instellings</string>
+<string-array name="exercise">
+<item>Min of geen oefening</item>
+<item>Lig (1 tot 3 dae per week)</item>
+<item>Matige (3 tot 5 dae per week)</item>
+<item>Swaar (6 tot 7 dae per week)</item>
+<item>Baie swaar (twee keer per dag)</item>
+</string-array>
+<string name="title_play">Liggaamsmassa-indeks</string>
+<string name="title_play_2">Basale metaboliese tempo</string>
+<string name="title_play_3">Daaglikse vereiste vir kalorieë</string>
+<string name="desc_1">Vind jou liggaamsmassa-indeks en Basale metaboliese tempo.</string>
+<string name="desc_2">Vind jou liggaamsmassa-indeks en jou daaglikse vereiste vir kalorieë.</string>
+<string name="desc_3">Vind indeks van massa van jou liggaam en jou daaglikse vereiste vir kalorieë.</string>
+<string name="description_full">
+Hierdie aansoek sal jou LMI (liggaamsmassa-indeks) en BMR (Basale metaboliese tempo) bereken.
+Liggaamsmassa-indeks is die belangrikste aanwyser van menslike liggaamsmassa. Die aansoek sal jy liggaamsmassa aan een van verskeie kategorieë toewys van \'baie ernstig ondergewig\' na \'baie erg vetsugtig\'. Jy sal ook in staat wees om jou gewig te teken en hou dit oor tyd. Jy kan gebruik grafiek, om te kyk verander jou gewig en liggaamsmassa-indeks.
+Basale metaboliese tempo dui op die hoeveelheid kalorieë wat jy moet elke dag eet, ten einde jou gewig te handhaaf. In bereken gebaseer op verskeie faktore, insluitend gewig, ouderdom, geslag en intensiteit van fisiese aktiwiteit.
+</string>
+</resources>

@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+    android:weightSum="2" >
+    
+	<!--com.google.android.gms.ads.AdView
+	    xmlns:ads="http://schemas.android.com/apk/res-auto"
+	    android:id="@+id/adView5"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:visibility="gone"
+	    ads:adUnitId="ca-app-pub-4402674240600002/8383396578"
+	    ads:adSize="SMART_BANNER"/-->
+    
+    <!-- com.google.ads.AdView android:id="@+id/adView5"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"           
+           android:layout_marginTop="0dp"	                 
+           ads:adUnitId="ca-app-pub-4402674240600002/8383396578"
+           ads:adSize="SMART_BANNER"
+           ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+           ads:loadAdOnCreate="true"/-->     
+
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+         >
+        
+        <ImageButton
+            android:id="@+id/bPrevMonth"
+            android:layout_width="@dimen/row_hgt_xxl"
+            android:layout_height="@dimen/row_hgt_l"            
+            android:layout_weight="1"
+            android:src="@drawable/prev" />
+    
+	    <TextView
+	        android:id="@+id/tvMonth"
+	        android:layout_width="@dimen/month_width"       
+	        android:layout_height="@dimen/row_hgt_l"
+
+	        android:gravity="center|center_horizontal|center_vertical"
+	        android:text="@string/month"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        
+	        android:textSize="@dimen/text_l"
+	        
+	        android:textStyle="bold" />
+	    
+	    <ImageButton
+	        android:id="@+id/bNextMonth"
+            android:layout_width="@dimen/row_hgt_xxl"
+            android:layout_height="@dimen/row_hgt_l"
+            android:layout_weight="1"
+	        android:src="@drawable/next" />
+	    
+	    <Button
+            android:id="@+id/bUnit"
+            android:layout_width="@dimen/row_hgt_xxl"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="@dimen/margin_m"
+            android:layout_gravity="right"            
+            android:text="@string/kg"
+            android:src="@drawable/prev" />
+	    
+	    <!-- 
+	    android:background="@layout/button_left"
+	    android:background="@layout/button"
+	    android:background="@layout/button_right"
+	     -->
+    
+    </LinearLayout>   
+    
+<LinearLayout
+    android:id="@+id/graph1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_l"
+    android:paddingLeft="@dimen/margin_l"
+    android:paddingRight="@dimen/margin_l"
+    android:paddingTop="@dimen/margin_l"
+    android:layout_weight="1" />
+
+
+
+<LinearLayout
+    android:id="@+id/graph2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_l"
+    android:paddingLeft="@dimen/margin_l"
+    android:paddingRight="@dimen/margin_l"
+    android:paddingTop="@dimen/margin_l"
+    android:layout_weight="1" />
+
+</LinearLayout>

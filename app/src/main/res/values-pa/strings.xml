@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ਬਾਡੀ ਮਾਸ ਇੰਡੈਕਸ</string>
+<string name="bmi">ਸਰੀਰ ਦੇ ਮਾਸ ਇੰਡੈਕਸ (ਬੀਐਮਆਈ) =</string>
+<string name="underweight">ਵਜ਼ਨ</string>
+<string name="overweight">ਭਾਰ</string>
+<string name="obesity">ਮੋਟਾਪਾ</string>
+<string name="data_saved">ਡਾਟਾ ਨੂੰ ਬਚਾਇਆ</string>
+<string name="choose_theme">ਰੰਗ ਚੁਣੋ</string>
+<string name="greenTheme">ਹਰੇ</string>
+<string name="light">ਚਮਕਦਾਰ</string>
+<string name="dark">ਹਨੇਰੇ</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="ok">ਠੀਕ ਹੈ</string>
+<string name="charts">ਚਾਰਟ</string>
+<string name="menu_title">ਮੇਨੂ</string>
+<string name="info">ਜਾਣਕਾਰੀ</string>
+<string name="rate_app">ਇਸ ਕਾਰਜ ਨੂੰ ਦਰਜਾ!</string>
+<string name="feedback">ਤੁਹਾਡੀ ਰਾਏ ਦੇ ਦਿਓ</string>
+<string name="feedback_prompt">ਹੈਲੋ, ਤੁਹਾਨੂੰ ਸਾਨੂੰ ਤੁਹਾਡੇ ਲਈ ਇਸ ਅਰਜ਼ੀ ਵਿੱਚ ਸੁਧਾਰ ਕਰ ਸਕਦੇ ਹਨ, ਜੋ ਕਿ ਇਸ ਲਈ, ਇਸ ਲਈ ਸਾਨੂੰ ਆਪਣੇ ਰਾਏ ਭੇਜਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="opinion">ਰਾਏ</string>
+<string name="height">ਤੁਹਾਡਾ ਉਚਾਈ</string>
+<string name="weight">ਤੁਹਾਡਾ ਭਾਰ</string>
+<string name="sex">ਤੁਹਾਡਾ ਸੈਕਸ</string>
+<string name="male">ਮਰਦ</string>
+<string name="female">ਔਰਤ</string>
+<string name="age">ਤੁਹਾਡੀ ਉਮਰ</string>
+<string name="years">ਸਾਲ</string>
+<string name="month">ਮਹੀਨੇ</string>
+<string name="your_wgt">ਤੁਹਾਡਾ ਭਾਰ</string>
+<string name="no_data">ਕੋਈ ਡਾਟਾ ਇਸ ਮਹੀਨੇ ਦੇ ਲਈ ਉਪਲਬਧ ਹੈ,</string>
+<string name="exercise">ਕਿੰਨੀ ਵਾਰ ਤੁਹਾਨੂੰ ਕਸਰਤ ਕਰਦੇ ਹੋ?</string>
+<string name="your_calories">ਕੈਲੋਰੀ ਦੇ ਲਈ ਰੋਜ਼ਾਨਾ ਦੀ ਲੋੜ (BMR) =</string>
+<string name="invalidInput">ਗਲਤ ਡਾਟਾ</string>
+<string name="emptyInput">ਡਾਟਾ ਦਿਓ ਜੀ</string>
+<string name="your_bmi">ਤੁਹਾਡਾ BMI (ਬਾਡੀ ਮਾਸ ਇੰਡੈਕਸ ਨੂੰ)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">ਬਹੁਤ ਬੁਰੀ ਵਜ਼ਨ</string>
+<string name="x_low">ਵਧੇਰੇ ਵਜ਼ਨ</string>
+<string name="low">ਵਜ਼ਨ</string>
+<string name="normal">ਸਧਾਰਨ (ਤੰਦਰੁਸਤ ਭਾਰ)</string>
+<string name="high">ਭਾਰ</string>
+<string name="x_high">ਮੱਧਮ ਮੋਟਾਪੇ</string>
+<string name="xx_high">ਗੰਭੀਰ ਮੋਟਾਪੇ</string>
+<string name="xxx_high">ਬਹੁਤ ਗੰਭੀਰ ਮੋਟਾਪੇ</string>
+<string name="save_close">ਸੰਭਾਲੋ</string>
+<string name="exit">ਨਿਕਾਸ</string>
+<string name="settings">ਸੈਟਿੰਗ</string>
+<string-array name="exercise">
+<item>ਘੱਟ ਜ ਕੋਈ ਕਸਰਤ</item>
+<item>ਚਾਨਣ (ਹਫ਼ਤੇ ਪ੍ਰਤੀ 1 3 ਦਿਨ)</item>
+<item>ਮੱਧਮ (ਹਫ਼ਤੇ ਦੇ ਪ੍ਰਤੀ 3 5 ਦਿਨ)</item>
+<item>ਭਾਰੀ (ਹਫ਼ਤੇ ਪ੍ਰਤੀ 6 7 ਦਿਨ)</item>
+<item>ਬਹੁਤ ਭਾਰੀ (ਦੋ ਵਾਰ ਪ੍ਰਤੀ ਦਿਨ)</item>
+</string-array>
+<string name="title_play">ਬਾਡੀ ਮਾਸ ਇੰਡੈਕਸ</string>
+<string name="title_play_2">ਬੇਸਲ ਪਾਚਕ ਦੀ ਦਰ</string>
+<string name="title_play_3">ਕੈਲੋਰੀ ਲਈ ਰੋਜ਼ਾਨਾ ਦੀ ਲੋੜ</string>
+<string name="desc_1">ਤੁਹਾਡੇ ਸਰੀਰ ਪੁੰਜ ਇੰਡੈਕਸ ਅਤੇ ਬਾਸਲ ਪਾਚਕ ਦੀ ਦਰ ਦੀ ਭਾਲ ਕਰੋ.</string>
+<string name="desc_2">ਤੁਹਾਡੇ ਸਰੀਰ ਪੁੰਜ ਇੰਡੈਕਸ ਅਤੇ ਕੈਲੋਰੀ ਦੇ ਲਈ ਆਪਣੇ ਰੋਜ਼ਾਨਾ ਦੀ ਲੋੜ ਨੂੰ ਲੱਭੋ.</string>
+<string name="desc_3">ਆਪਣੇ ਸਰੀਰ ਅਤੇ ਕੈਲੋਰੀ ਦੇ ਲਈ ਆਪਣੇ ਰੋਜ਼ਾਨਾ ਦੀ ਲੋੜ ਦੇ ਪੁੰਜ ਦਾ ਇੰਡੈਕਸ ਲੱਭੋ.</string>
+<string name="description_full">
+ਇਹ ਕਾਰਜ ਤੁਹਾਡੇ BMI (ਬਾਡੀ ਮਾਸ ਇੰਡੈਕਸ ਨੂੰ) ਅਤੇ BMR (ਬਾਸਲ ਪਾਚਕ ਦਰ) ਦਾ ਹਿਸਾਬ ਹੋਵੇਗਾ.
+ਬਾਡੀ ਮਾਸ ਇੰਡੈਕਸ ਮਨੁੱਖੀ ਸਰੀਰ ਨੂੰ ਪੁੰਜ ਦਾ ਸਭ ਮਹੱਤਵਪੂਰਨ ਸੂਚਕ ਹੁੰਦਾ ਹੈ. ਐਪਲੀਕੇਸ਼ਨ \'ਬਹੁਤ ਹੀ ਗੰਭੀਰ ਮੋਟੇ\' ਨੂੰ \'ਬਹੁਤ ਹੀ ਬੁਰੀ ਵਜ਼ਨ\' ਤੱਕ ਕਈ ਵਰਗ ਦੇ ਇੱਕ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਸਰੀਰ ਨੂੰ ਪੁੰਜ ਨਿਰਧਾਰਤ ਕਰੇਗਾ. ਤੁਹਾਨੂੰ ਇਹ ਵੀ ਆਪਣੇ ਭਾਰ ਨੂੰ ਰਿਕਾਰਡ ਹੈ ਅਤੇ ਵਾਰ ਦੇ ਮਿਆਦ ਦੇ ਦੌਰਾਨ ਇਸ ਨੂੰ ਟਰੈਕ ਕਰਨ ਦੇ ਯੋਗ ਹੋ ਜਾਵੇਗਾ. ਤੁਹਾਨੂੰ ਆਪਣੇ ਭਾਰ ਅਤੇ ਬਾਡੀ ਮਾਸ ਇੰਡੈਕਸ ਨੂੰ ਬਦਲਦਾ ਹੈ ਵੇਖਣ ਲਈ, ਚਾਰਟ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ.
+ਬੇਸਲ ਪਾਚਕ ਦੀ ਦਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਭਾਰ ਨੂੰ ਬਰਕਰਾਰ ਰੱਖਣ ਲਈ ਕ੍ਰਮ ਵਿੱਚ, ਹਰ ਦਿਨ ਨੂੰ ਨਸ਼ਟ ਕਰ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ, ਜੋ ਕਿ ਕੈਲੋਰੀ ਦੀ ਮਾਤਰਾ ਨੂੰ ਦੱਸਦਾ ਹੈ. ਵਿਚ ਭਾਰ, ਉਮਰ, ਸੈਕਸ ਅਤੇ ਸਰੀਰਕ ਸਰਗਰਮੀ ਦੀ ਤੀਬਰਤਾ ਸਮੇਤ ਕਈ ਕਾਰਕ \'ਤੇ ਅਧਾਰਿਤ ਹੁੰਦਾ ਹੈ.
+</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Kūno masės indeksas</string>
+<string name="bmi">Kūno masės indeksas (KMI) =</string>
+<string name="underweight">Nepakankamas</string>
+<string name="overweight">Antsvoris</string>
+<string name="obesity">Nutukimas</string>
+<string name="data_saved">Duomenys saugomi</string>
+<string name="choose_theme">Pasirinkite spalvą</string>
+<string name="greenTheme">Žalias</string>
+<string name="light">Šviesus</string>
+<string name="dark">Tamsus</string>
+<string name="cancel">Atšaukti</string>
+<string name="ok">Gerai</string>
+<string name="charts">Diagrama</string>
+<string name="menu_title">Meniu</string>
+<string name="info">Informacija</string>
+<string name="rate_app">Įvertinti šį prašymą!</string>
+<string name="feedback">Suteikite savo nuomonę</string>
+<string name="feedback_prompt">Sveiki, ar norėtumėte siųsti mums savo nuomonę, kad mes galime pagerinti šį jums paraišką?</string>
+<string name="opinion">Nuomonė</string>
+<string name="height">Jūsų ūgis</string>
+<string name="weight">Jūsų svoris</string>
+<string name="sex">Jūsų lytis</string>
+<string name="male">Patinas</string>
+<string name="female">Moteris</string>
+<string name="age">Jūsų amžius</string>
+<string name="years">Metų</string>
+<string name="month">Mėnuo</string>
+<string name="your_wgt">Jūsų svoris</string>
+<string name="no_data">Nėra duomenų šį mėnesį</string>
+<string name="exercise">Kaip dažnai Jūs mankštinatės?</string>
+<string name="your_calories">Dienos reikalavimas kalorijų (BMR) =</string>
+<string name="invalidInput">Negaliojantys duomenys</string>
+<string name="emptyInput">Prašome įvesti duomenis</string>
+<string name="your_bmi">Jūsų KMI (kūno masės indeksą)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Labai labai nusilpęs</string>
+<string name="x_low">Stipriai nusilpęs</string>
+<string name="low">Nepakankamas</string>
+<string name="normal">Normalus (sveikas svorio)</string>
+<string name="high">Antsvoris</string>
+<string name="x_high">Vidutinis nutukimas</string>
+<string name="xx_high">Rimtas nutukimas</string>
+<string name="xxx_high">Labai sunkus nutukimas</string>
+<string name="save_close">Išsaugoti</string>
+<string name="exit">Išeiti</string>
+<string name="settings">Nustatymai</string>
+<string-array name="exercise">
+<item>Mažai arba visai pratybos</item>
+<item>Lemputė (1 iki 3 dienų per savaitę)</item>
+<item>Vidutiniškai (nuo 3 iki 5 dienas per savaitę)</item>
+<item>Sunkūs (nuo 6 iki 7 dienų per savaitę)</item>
+<item>Labai sunkus (du kartus per dieną)</item>
+</string-array>
+<string name="title_play">Kūno masės indeksas</string>
+<string name="title_play_2">Bazinio medžiagų apykaitos norma</string>
+<string name="title_play_3">Dienos reikalavimas kalorijų</string>
+<string name="desc_1">Ieškoti savo kūno masės indeksą ir bazinio medžiagų apykaitos norma.</string>
+<string name="desc_2">Ieškoti savo kūno masės indeksą ir savo dienos kalorijų poreikį.</string>
+<string name="desc_3">Ieškoti indeksas masės kūno ir jūsų kasdienio reikalavimas kalorijų.</string>
+<string name="description_full">
+Ši programa bus apskaičiuoti savo KMI (kūno masės indeksą) ir BMR (bazinio medžiagų apykaitos norma).
+Kūno masės indeksas yra svarbiausias rodiklis žmogaus kūno masės. Paraiška bus priskirti jums kūno masę į vieną iš kelių kategorijų, iš \'labai smarkiai nusilpęs\' iki \'labai smarkiai nutukę. Jūs taip pat galės įrašyti savo svorį ir sekti jį per laiką. Galite naudoti diagramą, žiūrėti keičia savo svorį ir kūno masės indeksą.
+Bazinio medžiagų apykaitos norma rodo kalorijas, kad jūs turėtumėte vartojame kiekvieną dieną, siekiant išlaikyti savo svorį sumą. Be apskaičiuojamas remiantis kelių veiksnių, įskaitant svorį, amžių, lytį ir intensyvumo fizinio aktyvumo.
+</string>
+</resources>

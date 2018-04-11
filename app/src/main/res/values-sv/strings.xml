@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Kroppsmasseindex</string>
+<string name="bmi">Kroppsmasseindex (BMI) =</string>
+<string name="underweight">Undervikt</string>
+<string name="overweight">Övervikt</string>
+<string name="obesity">Fetma</string>
+<string name="data_saved">Data sparas</string>
+<string name="choose_theme">Välj färg</string>
+<string name="greenTheme">Grön</string>
+<string name="light">Ljust</string>
+<string name="dark">Mörkt</string>
+<string name="cancel">Avboka</string>
+<string name="ok">Okej</string>
+<string name="charts">Diagram</string>
+<string name="menu_title">Meny</string>
+<string name="info">Information</string>
+<string name="rate_app">Betygsätt den här ansökan!</string>
+<string name="feedback">Ge din åsikt</string>
+<string name="feedback_prompt">Hej, vill du skicka oss din åsikt, så att vi kan förbättra det här programmet för dig?</string>
+<string name="opinion">Yttrande</string>
+<string name="height">Din längd</string>
+<string name="weight">Din vikt</string>
+<string name="sex">Ditt kön</string>
+<string name="male">Man</string>
+<string name="female">Kvinna</string>
+<string name="age">Din ålder</string>
+<string name="years">År</string>
+<string name="month">Månad</string>
+<string name="your_wgt">Din vikt</string>
+<string name="no_data">Inga data finns tillgängliga för den här månaden</string>
+<string name="exercise">Hur ofta tränar du?</string>
+<string name="your_calories">Dagliga behov av kalorier (BMR) =</string>
+<string name="invalidInput">Ogiltiga data</string>
+<string name="emptyInput">Ange uppgifter</string>
+<string name="your_bmi">Din BMI (Kroppsmasseindex)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Mycket allvarligt undervikt</string>
+<string name="x_low">Svårt undervikt</string>
+<string name="low">Undervikt</string>
+<string name="normal">Normal (hälsosam vikt)</string>
+<string name="high">Övervikt</string>
+<string name="x_high">Måttlig fetma</string>
+<string name="xx_high">Svår fetma</string>
+<string name="xxx_high">Mycket svår fetma</string>
+<string name="save_close">Spara</string>
+<string name="exit">Utgång</string>
+<string name="settings">Inställningar</string>
+<string-array name="exercise">
+<item>Liten eller ingen träning</item>
+<item>Ljus (1 till 3 dagar i veckan)</item>
+<item>Måttliga (3 till 5 dagar i veckan)</item>
+<item>Tunga (6 till 7 dagar per vecka)</item>
+<item>Mycket tung (två gånger per dag)</item>
+</string-array>
+<string name="title_play">Kroppsmasseindex</string>
+<string name="title_play_2">Basal ämnesomsättning</string>
+<string name="title_play_3">Dagsbehovet av kalorier</string>
+<string name="desc_1">Hitta ditt BMI och Basal ämnesomsättning.</string>
+<string name="desc_2">Hitta ditt BMI och din dagliga behov av kalorier.</string>
+<string name="desc_3">Hitta index för massa om din kropp och ditt dagliga behov av kalorier.</string>
+<string name="description_full">
+Denna ansökan kommer att beräkna ditt BMI (Kroppsmasseindex) och BMR (Basal ämnesomsättning).
+Kroppsmasseindex är den viktigaste indikatorn på mänsklig kroppsmassa. Ansökan kommer att tilldela dig kroppsmassa till en av flera kategorier från \'mycket allvarligt undervikt\' till \'mycket kraftigt överviktiga\'. Du kommer också att kunna spela in din vikt och spåra den över tid. Du kan använda diagrammet, för att titta på förändringar din vikt och BMI.
+Basal ämnesomsättning anger mängden kalorier som du bör konsumera varje dag, för att behålla din vikt. I beräknas baserat på flera faktorer, inklusive vikt, ålder, kön och intensitet av fysisk aktivitet.
+</string>
+</resources>

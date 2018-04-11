@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">બોડી માસ ઇન્ડેક્સ</string>
+<string name="bmi">બોડી માસ ઇન્ડેક્સ (BMI) =</string>
+<string name="underweight">ઓછું વજન</string>
+<string name="overweight">વજનવાળા</string>
+<string name="obesity">સ્થૂળતા</string>
+<string name="data_saved">માહિતી સાચવી</string>
+<string name="choose_theme">રંગ પસંદ</string>
+<string name="greenTheme">લીલા</string>
+<string name="light">તેજસ્વી</string>
+<string name="dark">શ્યામ</string>
+<string name="cancel">રદ કરો</string>
+<string name="ok">ઠીક</string>
+<string name="charts">ચાર્ટ</string>
+<string name="menu_title">મેનુ</string>
+<string name="info">જાણકારી</string>
+<string name="rate_app">આ એપ્લિકેશન દર!</string>
+<string name="feedback">તમારા અભિપ્રાય આપો</string>
+<string name="feedback_prompt">હેલો, તમે અમે તમારા માટે આ એપ્લિકેશન સુધારી શકે છે, કે જેથી અમને તમારી અભિપ્રાય મોકલવા માંગો છો?</string>
+<string name="opinion">અભિપ્રાય</string>
+<string name="height">તમારી ઊંચાઇ</string>
+<string name="weight">તમારું વજન</string>
+<string name="sex">તમારી સેક્સ</string>
+<string name="male">પુરુષ</string>
+<string name="female">સ્ત્રી</string>
+<string name="age">તમારી ઉંમર</string>
+<string name="years">વર્ષ</string>
+<string name="month">મહિને</string>
+<string name="your_wgt">તમારું વજન</string>
+<string name="no_data">કોઈ ડેટા આ મહિને માટે ઉપલબ્ધ છે</string>
+<string name="exercise">કેટલી વાર તમે વ્યાયામ કરું?</string>
+<string name="your_calories">કેલરી માટે દૈનિક જરૂરિયાત (BMR) =</string>
+<string name="invalidInput">અમાન્ય ડેટા</string>
+<string name="emptyInput">માહિતી દાખલ કરો</string>
+<string name="your_bmi">તમારા BMI (બોડી માસ ઇન્ડેક્સ)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">ખૂબ ગંભીર ઓછું વજન</string>
+<string name="x_low">ગંભીર ઓછું વજન</string>
+<string name="low">ઓછું વજન</string>
+<string name="normal">સામાન્ય (તંદુરસ્ત વજન)</string>
+<string name="high">વજનવાળા</string>
+<string name="x_high">મધ્યમ મેદસ્વિતા</string>
+<string name="xx_high">ગંભીર સ્થૂળતા</string>
+<string name="xxx_high">ખૂબ ગંભીર સ્થૂળતા</string>
+<string name="save_close">સેવ કરો</string>
+<string name="exit">બહાર નીકળો</string>
+<string name="settings">સેટિંગ્સ</string>
+<string-array name="exercise">
+<item>થોડા અથવા કોઈપણ કસરત</item>
+<item>પ્રકાશ (સપ્તાહ દીઠ 1 થી 3 દિવસ)</item>
+<item>મધ્યમ (સપ્તાહ દીઠ 3 થી 5 દિવસ)</item>
+<item>ભારે (સપ્તાહ દીઠ 6 થી 7 દિવસ)</item>
+<item>ભારે (બે વખત દિવસ દીઠ)</item>
+</string-array>
+<string name="title_play">બોડી માસ ઇન્ડેક્સ</string>
+<string name="title_play_2">મૂળભૂત મેટાબોલિક દર</string>
+<string name="title_play_3">કેલરી માટે દૈનિક જરૂરિયાત</string>
+<string name="desc_1">તમારા શારીરિક માસ ઇન્ડેક્સ અને મૂળભૂત મેટાબોલિક દર શોધો.</string>
+<string name="desc_2">તમારા શારીરિક માસ ઇન્ડેક્સ અને કેલરી માટે તમારી દૈનિક જરૂરિયાત શોધો.</string>
+<string name="desc_3">તમારા શરીર અને કેલરી માટે તમારી દૈનિક જરૂરિયાત સામૂહિક ઇન્ડેક્સ શોધો.</string>
+<string name="description_full">
+આ એપ્લિકેશન તમારા BMI (બોડી માસ ઇન્ડેક્સ) અને BMR (મૂળભૂત મેટાબોલિક દર) ગણતરી કરશે.
+બોડી માસ ઇન્ડેક્સ માનવ બોડી માસ સૌથી મહત્વપૂર્ણ સૂચક છે. જો કાર્યક્રમ \'ખૂબ ગંભીર મેદસ્વી\' માટે \'ખૂબ ગંભીર ઓછું વજન\' માંથી ઘણી વર્ગોમાં એક પર લઈ બોડી માસ અસાઇન કરશે. તમે પણ તમારું વજન રેકોર્ડ અને સમય ગાળામાં ટ્રેક કરવા માટે સક્ષમ હશે. તમે તમારા વજન અને બોડી માસ ઇન્ડેક્સ બદલે જોવાનું, ચાર્ટ ઉપયોગ કરી શકો છો.
+મૂળભૂત મેટાબોલિક દર તમે તમારા વજન જાળવી રાખવા માટે, દરેક દિવસ વપરાશ જોઈએ કે કેલરી જથ્થો સૂચવે છે. વજન, ઉંમર, લિંગ અને શારીરિક પ્રવૃત્તિ તીવ્રતા સહિત અનેક પરિબળો પર આધારિત ગણતરી કરવામાં આવે છે.
+</string>
+</resources>

@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/pager"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+
+    tools:context=".ActivityMain" />
+
+    <TextView
+        android:id="@+id/privacyPolicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="@dimen/margin_l"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal|bottom"
+        android:text="@string/menu_title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/aero_blue"
+        android:textSize="@dimen/text_l"
+        android:textStyle="normal"
+        android:visibility="visible"/>
+
+</LinearLayout>

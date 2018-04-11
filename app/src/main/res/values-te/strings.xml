@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">బాడీ మాస్ ఇండెక్స్</string>
+<string name="bmi">బాడీ మాస్ ఇండెక్స్ (BMI) =</string>
+<string name="underweight">బరువు</string>
+<string name="overweight">అధికబరువు</string>
+<string name="obesity">ఊబకాయం</string>
+<string name="data_saved">డేటా సేవ్</string>
+<string name="choose_theme">రంగును ఎంచుకోండి</string>
+<string name="greenTheme">ఆకుపచ్చ</string>
+<string name="light">ప్రకాశవంతమైన</string>
+<string name="dark">కృష్ణ</string>
+<string name="cancel">రద్దు</string>
+<string name="ok">సరే</string>
+<string name="charts">చార్ట్</string>
+<string name="menu_title">మెనూ</string>
+<string name="info">సమాచారం</string>
+<string name="rate_app">ఈ అప్లికేషన్ రేటు!</string>
+<string name="feedback">మీ అభిప్రాయం ఇవ్వండి</string>
+<string name="feedback_prompt">హలో, మీరు మేము మీరు ఈ అప్లికేషన్ మెరుగుపరిచేందుకు వీలుగా, మీ అభిప్రాయాన్ని మాకు పంపాలనుకున్న?</string>
+<string name="opinion">అభిప్రాయం</string>
+<string name="height">మీ ఎత్తు</string>
+<string name="weight">మీ బరువు</string>
+<string name="sex">మీ సెక్స్</string>
+<string name="male">మగ</string>
+<string name="female">స్త్రీ</string>
+<string name="age">మీ వయస్సు</string>
+<string name="years">సంవత్సరాల</string>
+<string name="month">నెల</string>
+<string name="your_wgt">మీ బరువు</string>
+<string name="no_data">ఏ డేటా ఈ నెల అందుబాటులో ఉంది</string>
+<string name="exercise">ఎంత తరచుగా మీరు వ్యాయామం లేదు?</string>
+<string name="your_calories">కేలరీలు డైలీ అవసరం (మూల జీవక్రియ సూచి) =</string>
+<string name="invalidInput">చెల్లని డేటా</string>
+<string name="emptyInput">డేటా నమోదు చేయండి</string>
+<string name="your_bmi">మీ BMI (శరీర ద్రవ్యరాశి సూచిక)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">చాలా తీవ్రంగా బరువు</string>
+<string name="x_low">తీవ్రంగా బరువు</string>
+<string name="low">బరువు</string>
+<string name="normal">సాధారణ (ఆరోగ్యకరమైన బరువు)</string>
+<string name="high">అధికబరువు</string>
+<string name="x_high">మోడరేట్ ఊబకాయం</string>
+<string name="xx_high">తీవ్రమైన ఊబకాయం</string>
+<string name="xxx_high">చాలా తీవ్రమైన ఊబకాయం</string>
+<string name="save_close">సేవ్</string>
+<string name="exit">నిష్క్రమించు</string>
+<string name="settings">సెట్టింగులు</string>
+<string-array name="exercise">
+<item>లిటిల్ లేదా ఏ వ్యాయామం</item>
+<item>లైట్ (వారానికి 1 కు 3 రోజులు)</item>
+<item>మోడరేట్ (3 వారానికి 5 రోజులు)</item>
+<item>హెవీ (వారానికి 6 7 రోజులు)</item>
+<item>చాలా భారీ (రోజుకు రెండుసార్లు)</item>
+</string-array>
+<string name="title_play">బాడీ మాస్ ఇండెక్స్</string>
+<string name="title_play_2">మూల జీవక్రియ రేటు</string>
+<string name="title_play_3">కేలరీలు డైలీ అవసరం</string>
+<string name="desc_1">మీ బాడీ మాస్ ఇండెక్స్ మరియు మూల జీవక్రియ రేటు కనుగొనండి.</string>
+<string name="desc_2">మీ బాడీ మాస్ ఇండెక్స్ మరియు కెలోరీలు కోసం మీ రోజువారీ అవసరం వెతుకుము.</string>
+<string name="desc_3">మీ శరీరం మరియు కెలోరీలు కోసం మీ రోజువారీ అవసరం ద్రవ్యరాశి సూచిక కనుగొనేందుకు.</string>
+<string name="description_full">
+ఈ అప్లికేషన్ మీ BMI (శరీర ద్రవ్యరాశి సూచిక) మరియు జీవక్రియ సూచి (మూల జీవక్రియ రేటు) లెక్కించేందుకు ఉంటుంది.
+బాడీ మాస్ ఇండెక్స్ మానవ శరీర ద్రవ్యరాశి యొక్క అతి ముఖ్యమైన సూచిక. అప్లికేషన్ \'చాలా తీవ్రంగా ఊబకాయం\' \'చాలా తీవ్రంగా బరువు\' నుండి అనేక కేతగిరీలు ఒకటి మీరు శరీర ద్రవ్యరాశి కేటాయిస్తుంది. మీరు కూడా మీ బరువు రికార్డు మరియు కాలం పైగా ట్రాక్ చెయ్యగలరు. మీరు మీ బరువు మరియు శరీర ద్రవ్యరాశి సూచిక మార్పులు చూడటానికి, చార్ట్ ఉపయోగించవచ్చు.
+మూల జీవక్రియ రేటు మీరు మీ బరువు నిర్వహించడానికి క్రమంలో, ప్రతి రోజు తినే ఉండాలి కేలరీలు మొత్తాన్ని సూచిస్తుంది. బరువు, వయస్సు, సెక్స్ మరియు శారీరక శ్రమ తీవ్రత సహా పలు కారకాల ఆధారంగా లెక్కిస్తారు.
+</string>
+</resources>

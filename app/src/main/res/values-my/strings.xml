@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Body mass index</string>
+<string name="bmi">Body mass index (BMI) =</string>
+<string name="underweight">သိရပါ</string>
+<string name="overweight">အဝလွန်</string>
+<string name="obesity">အဝလွန်ခြင်း</string>
+<string name="data_saved">Data ကို Saved</string>
+<string name="choose_theme">အရောင်ကိုရွေးပါ</string>
+<string name="greenTheme">စိမ်းလန်းသော</string>
+<string name="light">ပြောင်လက်တောက်ပသော</string>
+<string name="dark">မှောင်မိုက်</string>
+<string name="cancel">Cancel</string>
+<string name="ok">Okay</string>
+<string name="charts">ဇယား</string>
+<string name="menu_title">Menu ကို</string>
+<string name="info">ပြန်ကြားရေး</string>
+<string name="rate_app">ဒီ application ကကောဘယ်လောက်ရှိသလဲ!</string>
+<string name="feedback">သင့်ရဲ့ထင်မြင်ချက်ပေးပါ</string>
+<string name="feedback_prompt">Hello, သင်ငါတို့သည်သင်တို့အဘို့ဤလျှောက်လွှာကိုတိုးတက်နိုင်အောင်ကျွန်တော်တို့ကိုသင့်ရဲ့ထင်မြင်ချက်ကိုပေးပို့ဖို့လိုပါသလဲ?</string>
+<string name="opinion">သဘော</string>
+<string name="height">သင့်ရဲ့အမြင့်</string>
+<string name="weight">သင့်ရဲ့ခန္ဓာကိုယ်အလေးချိန်</string>
+<string name="sex">သင့်ရဲ့လိင်</string>
+<string name="male">ယောကျာ်းလေး</string>
+<string name="female">မိန်းမ</string>
+<string name="age">သင့်အသက်</string>
+<string name="years">နှစ်ပေါင်း</string>
+<string name="month">လ</string>
+<string name="your_wgt">သင့်ရဲ့ခန္ဓာကိုယ်အလေးချိန်</string>
+<string name="no_data">အဘယ်သူမျှမဒေတာဒီတလအတွက်ရရှိနိုင်</string>
+<string name="exercise">သင်မည်သို့မကြာခဏလေ့ကျင့်ခန်းသလဲ?</string>
+<string name="your_calories">ကယ်လိုရီနေ့စဉ်လိုအပ်ချက် (BMR) =</string>
+<string name="invalidInput">မမှန်ကန်ပါဒေတာ</string>
+<string name="emptyInput">ဒေတာကိုရိုက်သွင်းပါ</string>
+<string name="your_bmi">သင့်ရဲ့ BMI (body mass index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">အလွန်ပြင်းထန်စွာသိရပါ</string>
+<string name="x_low">ပြင်းထန်စွာသိရပါ</string>
+<string name="low">သိရပါ</string>
+<string name="normal">သာမန် (ကျန်းမာတဲ့ခန္ဓာကိုယ်အလေးချိန်)</string>
+<string name="high">အဝလွန်</string>
+<string name="x_high">သင့်တင့်အဝလွန်</string>
+<string name="xx_high">ပြင်းထန်သောအဝလွန်</string>
+<string name="xxx_high">အလွန်ပြင်းထန်သောအဝလွန်</string>
+<string name="save_close">ကြော်ငြာကို Save လုပ်ရန်</string>
+<string name="exit">ထွက်ပေါက်</string>
+<string name="settings">Settings များ</string>
+<string-array name="exercise">
+<item>နည်းနည်းဒါမှမဟုတ်လုံးဝလေ့ကျင့်ခန်း</item>
+<item>အလင်း (တစ်ပတ်ကို 1 မှ 3 ရက်အတွင်း)</item>
+<item>(တစ်ပတ်ကို 3 မှ 5 ရက်အတွင်း) သင့်တင့်</item>
+<item>အကြီးစား (တစ်ပတ်လျှင် 6 7 ရက်)</item>
+<item>အလွန်လေးလံ (နှစ်ကြိမ်တရက်လျှင်)</item>
+</string-array>
+<string name="title_play">Body mass index</string>
+<string name="title_play_2">ဘီစီစီဇီဝဖြစ်စဉ်နှုန်းမှာ</string>
+<string name="title_play_3">ကယ်လိုရီနေ့စဉ်လိုအပ်ချက်</string>
+<string name="desc_1">သင့်ရဲ့ခန္ဓာကိုယ်ဒြပ်ထုညွှန်းကိန်းဘီစီစီဇီဝဖြစ်စဉ်နှုန်းမှာရှာပါ။</string>
+<string name="desc_2">သင့်ရဲ့ခန္ဓာကိုယ်ဒြပ်ထုညွှန်းကိန်းကယ်လိုရီအဘို့သင့်ကိုနေ့စဉ်လိုအပ်ချက်ရှာပါ။</string>
+<string name="desc_3">သင့်ရဲ့ခန္ဓာကိုယ်နှင့်ကယ်လိုရီအဘို့သင့်ကိုနေ့စဉ်လိုအပ်ချက်ရဲ့ဒြပ်ထုအညွှန်းကိန်းကိုရှာပါ။</string>
+<string name="description_full">
+ဒီ application ကိုသင့်ရဲ့ BMI (body mass index) နှင့် BMR (ဘီစီစီဇီဝဖြစ်စဉ်နှုန်းသည်) ကိုတွက်ချက်မည်။
+Body mass index လူ့ခန္ဓာကိုယ်ဒြပ်ထုရဲ့အရေးကြီးဆုံးညွှန်ပြချက်ဖြစ်ပါသည်။ ဒီ application \'အလွန်ပြင်းထန်စွာအဝလွန်ရန်\' \'အလွန်ပြင်းထန်စွာသိရပါ\' ကနေအများအပြားအမျိုးအစားတစ်ဦးကိုသင်ခန္ဓာကိုယ်ဒြပ်ထု assign မည်။ သင့်ခန္ဓာကိုယ်အလေးချိန်ကိုမှတ်တမ်းတင်နဲ့အချိန်ကာလအတွင်းကခြေရာခံနိုင်ပါလိမ့်မည်။ သင့်ရဲ့အလေးချိန်နဲ့ body mass index ပြောင်းလဲစေသည်စောင့်ကြည့်ဖို့, ဇယားကိုသုံးနိုင်သည်။
+ဘီစီစီဇီဝဖြစ်စဉ်နှုန်းမှာသင့်ရဲ့အလေးချိန်ကိုထိန်းသိမ်းနိုင်ဖို့အတွက်သင်နေ့ရက်တိုင်းကိုစားသုံးသင့်ကြောင်းကယ်လိုရီပမာဏကိုညွှန်ပြနေတယ်။ အတွက်အလေးချိန်, အသက်, လိင်နှင့်ရုပ်ပိုင်းဆိုင်ရာလုပ်ဆောင်မှုပြင်းထန်မှုအပါအဝင်အချက်များစွာအပေါ် အခြေခံ. တွက်ချက်ထားခြင်းဖြစ်သည်။
+</string>
+</resources>

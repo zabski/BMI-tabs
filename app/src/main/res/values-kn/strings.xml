@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ಶಾರೀರಿಕ ದ್ರವ್ಯರಾಶಿ ಸೂಚಿ</string>
+<string name="bmi">ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್ (ಬಿಎಂಐ) =</string>
+<string name="underweight">ಕಡಿಮೆ-ತೂಕ</string>
+<string name="overweight">ತೂಕ</string>
+<string name="obesity">ಬೊಜ್ಜು</string>
+<string name="data_saved">ಡೇಟಾ ಉಳಿಸಿದ</string>
+<string name="choose_theme">ಬಣ್ಣವನ್ನು ಆರಿಸಿ</string>
+<string name="greenTheme">ಹಸಿರು</string>
+<string name="light">ಪ್ರಕಾಶಮಾನವಾದ</string>
+<string name="dark">ಡಾರ್ಕ್</string>
+<string name="cancel">ರದ್ದು</string>
+<string name="ok">ಸರಿ</string>
+<string name="charts">ಚಾರ್ಟ್</string>
+<string name="menu_title">ಮೆನು</string>
+<string name="info">ಮಾಹಿತಿ</string>
+<string name="rate_app">ಈ ಅಪ್ಲಿಕೇಶನ್ ದರ!</string>
+<string name="feedback">ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ನೀಡಿ</string>
+<string name="feedback_prompt">ಹಲೋ, ನೀವು ನಾವು ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಸುಧಾರಿಸಲು ಆದ್ದರಿಂದ, ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ಕಳುಹಿಸಲು ಬಯಸುತ್ತೀರಿ?</string>
+<string name="opinion">ಅಭಿಪ್ರಾಯ</string>
+<string name="height">ನಿಮ್ಮ ಎತ್ತರ</string>
+<string name="weight">ನಿಮ್ಮ ತೂಕ</string>
+<string name="sex">ನಿಮ್ಮ ಲೈಂಗಿಕ</string>
+<string name="male">ಪುರುಷ</string>
+<string name="female">ಸ್ತ್ರೀ</string>
+<string name="age">ನಿಮ್ಮ ವಯಸ್ಸು</string>
+<string name="years">ವರ್ಷಗಳ</string>
+<string name="month">ತಿಂಗಳು</string>
+<string name="your_wgt">ನಿಮ್ಮ ತೂಕ</string>
+<string name="no_data">ಯಾವುದೇ ಡೇಟಾವನ್ನು ಈ ತಿಂಗಳ ಲಭ್ಯವಿದೆ</string>
+<string name="exercise">ಎಷ್ಟು ಬಾರಿ ನೀವು ವ್ಯಾಯಾಮ ಹೇಗೆ?</string>
+<string name="your_calories">ಕ್ಯಾಲೊರಿಗಳನ್ನು ಪ್ರತಿದಿನ ಅಗತ್ಯ (BMR) =</string>
+<string name="invalidInput">ಅಮಾನ್ಯ ಡಾಟಾ</string>
+<string name="emptyInput">ಡೇಟಾ ನಮೂದಿಸಿ</string>
+<string name="your_bmi">ನಿಮ್ಮ ಬಿಎಂಐ (ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">ಬಹಳ ತೀವ್ರವಾಗಿ ಕಡಿಮೆ</string>
+<string name="x_low">ತೀವ್ರವಾಗಿ ಕಡಿಮೆ</string>
+<string name="low">ಕಡಿಮೆ-ತೂಕ</string>
+<string name="normal">ಸಾಧಾರಣ (ಆರೋಗ್ಯಕರ ತೂಕ)</string>
+<string name="high">ತೂಕ</string>
+<string name="x_high">ಮಧ್ಯಮ ಬೊಜ್ಜು</string>
+<string name="xx_high">ತೀವ್ರ ಬೊಜ್ಜು</string>
+<string name="xxx_high">ತೀವ್ರ ಬೊಜ್ಜು</string>
+<string name="save_close">ಉಳಿಸಿ</string>
+<string name="exit">ನಿರ್ಗಮಿಸಿ</string>
+<string name="settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+<string-array name="exercise">
+<item>ಕಡಿಮೆ ಅಥವಾ ಯಾವುದೇ ವ್ಯಾಯಾಮ</item>
+<item>ಲೈಟ್ (ವಾರಕ್ಕೆ 1 ರಿಂದ 3 ದಿನಗಳ)</item>
+<item>ಮಧ್ಯಮ (ವಾರಕ್ಕೆ 3 ರಿಂದ 5 ದಿನಗಳ)</item>
+<item>ಹೆವಿ (ವಾರಕ್ಕೆ 6 7 ದಿನಗಳು)</item>
+<item>ಭಾರೀ (ದಿನಕ್ಕೆ ಎರಡು ಬಾರಿ)</item>
+</string-array>
+<string name="title_play">ಶಾರೀರಿಕ ದ್ರವ್ಯರಾಶಿ ಸೂಚಿ</string>
+<string name="title_play_2">ಮೂಲದಲ್ಲಿ ಚಯಾಪಚಯದ ದರವು</string>
+<string name="title_play_3">ಕ್ಯಾಲೊರಿಗಳನ್ನು ಪ್ರತಿದಿನ ಅಗತ್ಯ</string>
+<string name="desc_1">ನಿಮ್ಮ ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್ ಮತ್ತು ಮೂಲದಲ್ಲಿ ಚಯಾಪಚಯದ ದರವು ಹುಡುಕಿ.</string>
+<string name="desc_2">ನಿಮ್ಮ ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್ ಮತ್ತು ಕ್ಯಾಲೊರಿ ನಿಮ್ಮ ದೈನಂದಿನ ಅವಶ್ಯಕತೆ ಹೇಗೆ.</string>
+<string name="desc_3">ನಿಮ್ಮ ದೇಹದ ಮತ್ತು ಕ್ಯಾಲೊರಿ ನಿಮ್ಮ ದೈನಂದಿನ ಅವಶ್ಯಕತೆ ಸಾಮೂಹಿಕ ಸೂಚ್ಯಂಕ ಹುಡುಕಿ.</string>
+<string name="description_full">
+ಈ ಅಪ್ಲಿಕೇಶನ್ ನಿಮ್ಮ ಬಿಎಂಐ (ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್) ಮತ್ತು BMR (ಮೂಲದಲ್ಲಿ ಚಯಾಪಚಯದ ದರವು) ಲೆಕ್ಕ.
+ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್ ಮಾನವ ದೇಹದ ದ್ರವ್ಯರಾಶಿ ಪ್ರಮುಖ ಸೂಚಕವಾಗಿದೆ. ಅಪ್ಲಿಕೇಶನ್ \'ಬಹಳ ಬೊಜ್ಜು\' \'ಬಹಳ ತೀವ್ರವಾಗಿ ಕಡಿಮೆ\' ಹಲವಾರು ವಿಭಾಗಗಳು ಒಂದು ನೀವು ದೇಹದ ದ್ರವ್ಯರಾಶಿ ನಿಯೋಜಿಸಲು ಕಾಣಿಸುತ್ತದೆ. ನಿಮ್ಮ ತೂಕ ರೆಕಾರ್ಡ್ ಮತ್ತು ಸಮಯ ಅವಧಿಯಲ್ಲಿ ಟ್ರ್ಯಾಕ್ ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಿಮ್ಮ ತೂಕ ಮತ್ತು ಬಾಡಿ ಮಾಸ್ ಇಂಡೆಕ್ಸ್ ಬದಲಾಯಿಸುತ್ತದೆ ವೀಕ್ಷಿಸಲು, ಚಾರ್ಟ್ ಬಳಸಬಹುದು.
+ಮೂಲದಲ್ಲಿ ಚಯಾಪಚಯದ ದರವು ನಿಮ್ಮ ತೂಕವನ್ನು ನಿರ್ವಹಿಸಲು ಸಲುವಾಗಿ, ಪ್ರತಿ ದಿನ ಸೇವಿಸುತ್ತವೆ ಎಂದು ಕ್ಯಾಲೊರಿಗಳನ್ನು ಪ್ರಮಾಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ತೂಕ, ವಯಸ್ಸು, ಲಿಂಗ ಮತ್ತು ದೈಹಿಕ ಚಟುವಟಿಕೆಯ ತೀವ್ರತೆಯ ಹಲವಾರು ಸಂಗತಿಗಳ ಆಧಾರದ ಮೇಲೆ ಎಣಿಕೆ.
+</string>
+</resources>

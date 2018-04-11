@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Индексот на телесна маса</string>
+<string name="bmi">Индексот на телесна маса (БМИ) =</string>
+<string name="underweight">Тежина</string>
+<string name="overweight">Дебелите</string>
+<string name="obesity">Дебелината</string>
+<string name="data_saved">Податоците зачувани</string>
+<string name="choose_theme">Изберете боја</string>
+<string name="greenTheme">Зелени</string>
+<string name="light">Светла</string>
+<string name="dark">Темно</string>
+<string name="cancel">Откажи</string>
+<string name="ok">Океј</string>
+<string name="charts">Графикон</string>
+<string name="menu_title">Мени</string>
+<string name="info">Информации</string>
+<string name="rate_app">Гласај за оваа апликација!</string>
+<string name="feedback">Кажете вашето мислење</string>
+<string name="feedback_prompt">Здраво, вие би сакале да ни го пратите вашето мислење, така што можеме да ја подобриме оваа апликација за вас?</string>
+<string name="opinion">Мислење</string>
+<string name="height">Вашата висина</string>
+<string name="weight">Вашата тежина</string>
+<string name="sex">Вашиот пол</string>
+<string name="male">Машко</string>
+<string name="female">Женски</string>
+<string name="age">Вашата возраст</string>
+<string name="years">Години</string>
+<string name="month">Месец</string>
+<string name="your_wgt">Вашата тежина</string>
+<string name="no_data">Нема достапни податоци за овој месец</string>
+<string name="exercise">Колку често се вежба?</string>
+<string name="your_calories">Дневната потреба за калории (BMR) =</string>
+<string name="invalidInput">Невалидни податоци</string>
+<string name="emptyInput">Ве молиме внесете податоци</string>
+<string name="your_bmi">Вашиот БМИ (индексот на телесна маса)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Многу сериозно тежина</string>
+<string name="x_low">Сериозно тежина</string>
+<string name="low">Тежина</string>
+<string name="normal">Нормално (здрава тежина)</string>
+<string name="high">Дебелите</string>
+<string name="x_high">Умерена дебелина</string>
+<string name="xx_high">Тешка дебелината</string>
+<string name="xxx_high">Многу тешка дебелината</string>
+<string name="save_close">Зачувај</string>
+<string name="exit">Излез</string>
+<string name="settings">Подесувања</string>
+<string-array name="exercise">
+<item>Малку или без вежбање</item>
+<item>Светлината (1 до 3 дена во неделата)</item>
+<item>Умерен (3 до 5 дена во неделата)</item>
+<item>Тешки (6 до 7 дена во неделата)</item>
+<item>Многу тешки (два пати на ден)</item>
+</string-array>
+<string name="title_play">Индексот на телесна маса</string>
+<string name="title_play_2">Базалните метаболички стапка</string>
+<string name="title_play_3">Дневната потреба за калории</string>
+<string name="desc_1">Најди вашиот индекс на телесна маса и базалните метаболички стапка.</string>
+<string name="desc_2">Најди вашиот индекс на телесна маса и вашата дневна потреба за калории.</string>
+<string name="desc_3">Најди индекс на маса на вашето тело и вашиот дневната потреба за калории.</string>
+<string name="description_full">
+Оваа апликација ќе се пресмета вашиот БМИ (индексот на телесна маса) и BMR (базалните метаболички стапка).
+Индексот на телесна маса е најважниот показател за човечкото тело маса. Апликацијата ќе ви додели на телесна маса на една од неколкуте категории од \'многу сериозно нормален\' до \'многу сериозно дебели\'. Исто така, ќе бидат во можност да го снимите вашиот тежина и да ги следи тоа во период на време. Можете да ги користите графика, за да се види промени вашиот тежина и индекс на телесна маса.
+Базалните метаболички стапка покажува износот на калории кои треба да се консумираат секој ден, со цел да се задржи вашата тежина. Во се пресметува врз основа на неколку фактори, вклучувајќи тежина, возраст, пол и интензитетот на физичката активност.
+</string>
+</resources>

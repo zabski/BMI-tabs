@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Индекс на телесна маса</string>
+<string name="bmi">Индекс на телесна маса (BMI) =</string>
+<string name="underweight">Поднормено</string>
+<string name="overweight">Наднорменото тегло</string>
+<string name="obesity">Прекалена пълнота</string>
+<string name="data_saved">Записаните данни</string>
+<string name="choose_theme">Изберете цвят</string>
+<string name="greenTheme">Зелен</string>
+<string name="light">Светъл</string>
+<string name="dark">Тъмен</string>
+<string name="cancel">Отказ</string>
+<string name="ok">Добре</string>
+<string name="charts">Диаграма</string>
+<string name="menu_title">Меню</string>
+<string name="info">Информация</string>
+<string name="rate_app">Оценете тази молба!</string>
+<string name="feedback">Дайте вашето мнение</string>
+<string name="feedback_prompt">Здравейте, бихте искали да ни изпратите вашето мнение, така че можем да подобрим това приложение за вас?</string>
+<string name="opinion">Мнение</string>
+<string name="height">Вашият височина</string>
+<string name="weight">Вашето тегло</string>
+<string name="sex">Вашият пол</string>
+<string name="male">Мъжки</string>
+<string name="female">Женски</string>
+<string name="age">Вашата възраст</string>
+<string name="years">Години</string>
+<string name="month">Месец</string>
+<string name="your_wgt">Вашето тегло</string>
+<string name="no_data">Е на разположение за този месец Няма данни</string>
+<string name="exercise">Колко често се упражнява?</string>
+<string name="your_calories">ежедневно изискване за калории (BMR) =</string>
+<string name="invalidInput">Невалидни данни</string>
+<string name="emptyInput">Моля, въведете данните</string>
+<string name="your_bmi">Вашият BMI (индекс на телесна маса)</string>
+<string name="kcal">Ккал</string>
+<string name="xx_low">Много сериозно поднормено тегло</string>
+<string name="x_low">Силно поднормено тегло</string>
+<string name="low">Поднормено</string>
+<string name="normal">Нормална (здравословно тегло)</string>
+<string name="high">Наднорменото тегло</string>
+<string name="x_high">Умерен затлъстяване</string>
+<string name="xx_high">Тежко затлъстяване</string>
+<string name="xxx_high">Много тежко затлъстяване</string>
+<string name="save_close">Запази</string>
+<string name="exit">Изход</string>
+<string name="settings">Настройки</string>
+<string-array name="exercise">
+<item>С малко движение</item>
+<item>Светлина (от 1 до 3 дни в седмицата)</item>
+<item>Умерено (3-5 дни в седмицата)</item>
+<item>Тежки (6-7 дни седмично)</item>
+<item>Много тежка (два пъти дневно)</item>
+</string-array>
+<string name="title_play">Индекс на телесна маса</string>
+<string name="title_play_2">основа метаболизма</string>
+<string name="title_play_3">ежедневно изискване за калории</string>
+<string name="desc_1">Намерете вашия индекс на телесна маса и процент основа метаболизма.</string>
+<string name="desc_2">Намерете вашия индекс на телесна маса и изискваната дневна дажба калории.</string>
+<string name="desc_3">Намери индекс на масата на тялото си и дневния си изискване за калории.</string>
+<string name="description_full">
+Това приложение ще изчисли BMI (индекс на телесна маса) и BMR (Basal метаболизма).
+Индексът на телесната маса е най-важният показател за човешкото телесна маса. Приложението ще се възложи на тялото ви маса на една от няколко категории от \'много сериозно поднормено тегло\' за \'много тежко затлъстяване\'. Вие също така ще бъде в състояние да записва теглото си и да го проследи през период от време. Можете да използвате графиката, за да гледате променя теглото си и индекс на телесна маса.
+основа метаболизма показва количеството на калориите, които трябва да се консумират всеки ден, за да поддържа теглото си. В се изчислява въз основа на няколко фактора, включително тегло, възраст, пол и интензитета на физическата активност.
+</string>
+</resources>

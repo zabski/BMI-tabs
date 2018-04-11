@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- dimen name="week_top_margin">37px</dimen -->
+	<dimen name="text_xs">14sp</dimen>
+    <dimen name="text_s">16sp</dimen>
+    <dimen name="text_m">18sp</dimen>
+    <dimen name="text_l">20sp</dimen>
+    <dimen name="text_xl">24sp</dimen>
+    <dimen name="text_xx">28sp</dimen>
+    <dimen name="margin_xs">3dp</dimen>
+    <dimen name="margin_s">5dp</dimen>
+    <dimen name="margin_m">7dp</dimen>
+    <dimen name="margin_l">10dp</dimen>
+    <dimen name="margin_xl">15dp</dimen>
+    <dimen name="row_hgt_s">30dp</dimen>
+    <dimen name="row_hgt_m">40dp</dimen>
+    <dimen name="row_hgt_l">60dp</dimen>
+    <dimen name="row_hgt_xl">75dp</dimen>
+    <dimen name="row_hgt_xxl">90dp</dimen>        
+	<dimen name="month_width">250dp</dimen>
+    <dimen name="table_s">100dp</dimen>
+    <dimen name="table_m">125dp</dimen>
+    <dimen name="table_l">150dp</dimen>	
+    <!--
+    <dimen name="button_radius">20dp</dimen>
+    <dimen name="radio_size">30sp</dimen>   
+    <dimen name="ball_size">70dp</dimen>      
+    
+    <dimen name="chart_size">200dp</dimen>
+    
+    <dimen name="line_s">25dp</dimen>
+    <dimen name="line_m">30dp</dimen>      
+    
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_left">10dp</dimen>    
+    
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="padding_left">25dp</dimen>
+    
+    <dimen name="small_text">17sp</dimen>
+    <dimen name="menu_height">50dp</dimen>
+    <dimen name="menu_text">20sp</dimen>
+    
+    <dimen name="mm_width">480dp</dimen>
+    <dimen name="mm_width_dp">480dp</dimen>
+    <dimen name="mm_height">60dp</dimen>
+    <dimen name="mm_height_dp">60dp</dimen>
+    
+        <dimen name="calendar_height">185dp</dimen>
+    <dimen name="legend_box_width">35dp</dimen>
+    <dimen name="legend_box_height">25dp</dimen>
+    <dimen name="legend_text_size">15sp</dimen> 
+    
+        <dimen name="settings_xlarge">40sp</dimen>
+    <dimen name="settings_large">25sp</dimen>
+    <dimen name="settings_text">25sp</dimen>
+    <dimen name="month_btn_width">50dp</dimen>
+    <dimen name="month_btn_height">35dp</dimen>    
+        
+dimen name="week_top_margin">49.3px</dimen >
+<dimen name="week_top_margin">0dp</dimen>
+<dimen name="week_left_margin">25dp</dimen>
+<dimen name="cell_width">50dp</dimen>
+<dimen name="cell_heigh">40dp</dimen>
+<dimen name="cell_margin_top">0dp</dimen>
+<dimen name="cell_margin_left">26dp</dimen>
+<dimen name="cell_text_size">20sp</dimen>
+
+    <dimen name="menu_height">100dp</dimen>
+    <dimen name="menu_text_size">35sp</dimen>
+    <dimen name="month_btn_width">60dp</dimen>
+	<dimen name="month_btn_height">45dp</dimen>
+    <dimen name="month_width">250dp</dimen>
+	
+	<dimen name="weekday_size">20sp</dimen>
+	<dimen name="calendar_height">240dp</dimen>
+	<dimen name="legend_box_width">45dp</dimen>
+	<dimen name="legend_box_height">35dp</dimen>
+	<dimen name="legend_text_size">20sp</dimen
+    
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="big">20sp</dimen>
+	<dimen name="table_text">15sp</dimen>
+	
+	<dimen name="column_size">125dp</dimen>
+-->
+</resources>

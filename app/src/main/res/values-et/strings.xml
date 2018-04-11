@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Kehamassiindeks</string>
+<string name="bmi">Kehamassiindeks (KMI) =</string>
+<string name="underweight">Alakaal</string>
+<string name="overweight">Ülekaaluline</string>
+<string name="obesity">Rasvumine</string>
+<string name="data_saved">Andmed salvestatakse</string>
+<string name="choose_theme">Vali värv</string>
+<string name="greenTheme">Roheline</string>
+<string name="light">Hele</string>
+<string name="dark">Tume</string>
+<string name="cancel">Tühistama</string>
+<string name="ok">Korras</string>
+<string name="charts">Skeem</string>
+<string name="menu_title">Menüü</string>
+<string name="info">Informatsioon</string>
+<string name="rate_app">Hinda seda rakendust!</string>
+<string name="feedback">Andke oma arvamus</string>
+<string name="feedback_prompt">Tere, soovite saada meile oma arvamus, nii et me saame parandada selle rakenduse jaoks?</string>
+<string name="opinion">Arvamus</string>
+<string name="height">Teie kõrgus</string>
+<string name="weight">Teie kaal</string>
+<string name="sex">Teie sugu</string>
+<string name="male">Mees</string>
+<string name="female">Naine</string>
+<string name="age">Teie vanus</string>
+<string name="years">Aastat</string>
+<string name="month">Kuu</string>
+<string name="your_wgt">Teie kaal</string>
+<string name="no_data">Puuduvad andmed selle kuu</string>
+<string name="exercise">Kui tihti kasutada?</string>
+<string name="your_calories">Daily nõue kaloreid (BMR) =</string>
+<string name="invalidInput">Vale andmed</string>
+<string name="emptyInput">Palun sisesta andmed</string>
+<string name="your_bmi">Teie BMI (kehamassiindeks)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Väga tõsiselt alakaalulised</string>
+<string name="x_low">Tõsiselt alakaalulised</string>
+<string name="low">Alakaal</string>
+<string name="normal">Normal (normaalne kehakaal)</string>
+<string name="high">Ülekaaluline</string>
+<string name="x_high">Mõõdukas ülekaalulisus</string>
+<string name="xx_high">Raske ülekaalulisus</string>
+<string name="xxx_high">Väga tugev rasvumine</string>
+<string name="save_close">Salvesta</string>
+<string name="exit">Väljapääs</string>
+<string name="settings">Seaded</string>
+<string-array name="exercise">
+<item>Vähe või üldse mitte kasutada</item>
+<item>Light (1-3 päeva nädalas)</item>
+<item>Mõõdukas (3-5 päeva nädalas)</item>
+<item>Heavy (6-7 päeva nädalas)</item>
+<item>Väga raske (kaks korda päevas)</item>
+</string-array>
+<string name="title_play">Kehamassiindeks</string>
+<string name="title_play_2">Baasainevahetus</string>
+<string name="title_play_3">Daily nõue kaloreid</string>
+<string name="desc_1">Leia Kehamassiindeks ja baasainevahetus.</string>
+<string name="desc_2">Leia Kehamassiindeks ja oma igapäevast nõue kaloreid.</string>
+<string name="desc_3">Leia indeks mass keha ja oma igapäevast nõue kaloreid.</string>
+<string name="description_full">
+See rakendus arvutab teie BMI (kehamassiindeks) ja BMR (basaal ainevahetuse kiirust).
+Kehamassiindeks on kõige olulisem näitaja inimese keha mass. Taotlus nime, mida soovite kehamassi üks paljudest kategooriaid \'väga tõsiselt alakaalulised\' ja \'väga tõsiselt rasvunud\'. Sul on ka võimalik salvestada oma kaalu ja jälgida selle üle aja. Te võite kasutada diagrammi vaadata vahetab oma kehakaalu ja kehamassi indeksi.
+Baasainevahetus näitab kaloreid, et sa peaksid tarbima iga päev, et säilitada oma kaalu. In arvutamise aluseks on mitmeid tegureid, sealhulgas kaal, vanus, sugu ja intensiivsus kehalise aktiivsusega.
+</string>
+</resources>

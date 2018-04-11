@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Дене массасының индексі</string>
+<string name="bmi">Дене массасының индексі (BMI) =</string>
+<string name="underweight">Төменде</string>
+<string name="overweight">Артық салмақ</string>
+<string name="obesity">Семіру</string>
+<string name="data_saved">Сақталған деректер</string>
+<string name="choose_theme">Түсін таңдаңыз</string>
+<string name="greenTheme">Жасыл</string>
+<string name="light">Ашық</string>
+<string name="dark">Қараңғы</string>
+<string name="cancel">Күшін жою</string>
+<string name="ok">Жақсы</string>
+<string name="charts">Кесте</string>
+<string name="menu_title">Мәзір</string>
+<string name="info">Ақпарат</string>
+<string name="rate_app">Осы қолданбаны бағалаңыз!</string>
+<string name="feedback">Сіздің пікіріңіз беріңіз</string>
+<string name="feedback_prompt">Сәлеметсіз бе, сіз, біз сіз үшін осы бағдарламаны жақсартуға болады, сондықтан, бізге өз пікіріңізді жібергіңіз келеді?</string>
+<string name="opinion">Пікір</string>
+<string name="height">Сіздің биіктігі</string>
+<string name="weight">Сіздің салмағы</string>
+<string name="sex">Сіздің секс</string>
+<string name="male">Ер</string>
+<string name="female">Әйел</string>
+<string name="age">Сіздің жасыңыз</string>
+<string name="years">Жыл</string>
+<string name="month">Ай</string>
+<string name="your_wgt">Сіздің салмағы</string>
+<string name="no_data">Деректер жоқ осы айда қол жетімді</string>
+<string name="exercise">Сіз қаншалықты жиі жүзеге ма?</string>
+<string name="your_calories">Калория күнделікті талап (BMR) =</string>
+<string name="invalidInput">Жарамсыз деректер</string>
+<string name="emptyInput">Деректерді енгізіңіз</string>
+<string name="your_bmi">Сіздің BMI (Дене массасының индексі)</string>
+<string name="kcal">Ккал</string>
+<string name="xx_low">Өте қатты салмағының</string>
+<string name="x_low">Аса салмағының</string>
+<string name="low">Төменде</string>
+<string name="normal">Қалыпты (салауатты салмағы)</string>
+<string name="high">Артық салмақ</string>
+<string name="x_high">Біркелкі семіздік</string>
+<string name="xx_high">Ауыр семіздік</string>
+<string name="xxx_high">Өте ауыр семіздік</string>
+<string name="save_close">Сақтау</string>
+<string name="exit">Шығу</string>
+<string name="settings">Параметрлер</string>
+<string-array name="exercise">
+<item>Little немесе ешқандай жаттығу</item>
+<item>Жарық (аптасына 1 3 күн)</item>
+<item>(Аптасына 3-тен 5 күн) Біркелкі</item>
+<item>Ауыр (аптасына 6 7 күн)</item>
+<item>Өте ауыр (екі рет тәулігіне)</item>
+</string-array>
+<string name="title_play">Дене массасының индексі</string>
+<string name="title_play_2">Негізгі алмасу деңгейі</string>
+<string name="title_play_3">Калория күнделікті талап</string>
+<string name="desc_1">Сіздің Дене массасының индексі және негізгі алмасу деңгейі табу.</string>
+<string name="desc_2">Сіздің Дене массасының индексі және калория сіздің күнделікті талап табыңыз.</string>
+<string name="desc_3">Сіздің орган мен калория сіздің күнделікті талапты массасының индексін табу.</string>
+<string name="description_full">
+Бұл бағдарлама сіздің BMI (Дене массасының индексі) және BMR (негізгі алмасу жылдамдығы) есептеп береді.
+Дене массасының индексі адам дене салмағының ең маңызды көрсеткіші болып табылады. Бағдарлама «өте қатты семіздік» деген «өте қатты салмағының» бірнеше санаттарға біреуіне Сіз дене массасын тағайындайды. Сіз сондай-ақ сіздің салмақты жазып және уақыт мерзімі ішінде оны қадағалауға мүмкіндік алады. Сіз салмағы мен дене салмағының индексі өзгертеді көруге, диаграмманы пайдалануға болады.
+Негізгі алмасу деңгейі сіздің салмағын ұстап тұру үшін, сіз күн сайын тұтынатын керек калория мөлшерін көрсетеді. Жылы салмағы, жасы, жынысы және дене белсенділігінің қарқындылығы, соның ішінде бірнеше факторларға негізделген есептеледі.
+</string>
+</resources>

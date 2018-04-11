@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Body mass index</string>
+<string name="bmi">Body mass index (BMI) =</string>
+<string name="underweight">Ondergewicht</string>
+<string name="overweight">Te zwaar</string>
+<string name="obesity">Zwaarlijvigheid</string>
+<string name="data_saved">Opgeslagen gegevens</string>
+<string name="choose_theme">Kies een kleur</string>
+<string name="greenTheme">Groen</string>
+<string name="light">Helder</string>
+<string name="dark">Donker</string>
+<string name="cancel">Annuleren</string>
+<string name="ok">Oke</string>
+<string name="charts">Tabel</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informatie</string>
+<string name="rate_app">Beoordeel deze applicatie!</string>
+<string name="feedback">Geef uw mening</string>
+<string name="feedback_prompt">Hallo, wilt u ons uw mening, zodat we deze toepassing voor u kunnen verbeteren?</string>
+<string name="opinion">Advies</string>
+<string name="height">Uw lengte</string>
+<string name="weight">Uw gewicht</string>
+<string name="sex">Uw geslacht</string>
+<string name="male">Mannelijk</string>
+<string name="female">Vrouwelijk</string>
+<string name="age">Jouw leeftijd</string>
+<string name="years">Jaar</string>
+<string name="month">Maand</string>
+<string name="your_wgt">Uw gewicht</string>
+<string name="no_data">Geen gegevens beschikbaar voor deze maand</string>
+<string name="exercise">Hoe vaak heb je oefenen?</string>
+<string name="your_calories">Dagelijkse behoefte aan calorieën (BMR) =</string>
+<string name="invalidInput">Ongeldige gegevens</string>
+<string name="emptyInput">Vul de gegevens in te voeren</string>
+<string name="your_bmi">Uw BMI (Body Mass Index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Zeer ernstig ondergewicht</string>
+<string name="x_low">Ernstig ondergewicht</string>
+<string name="low">Ondergewicht</string>
+<string name="normal">Normaal (gezond gewicht)</string>
+<string name="high">Te zwaar</string>
+<string name="x_high">Matige obesitas</string>
+<string name="xx_high">Ernstige obesitas</string>
+<string name="xxx_high">Zeer ernstige obesitas</string>
+<string name="save_close">Opslaan</string>
+<string name="exit">Afrit</string>
+<string name="settings">Instellingen</string>
+<string-array name="exercise">
+<item>Weinig of geen oefening</item>
+<item>Licht (1 tot 3 dagen per week)</item>
+<item>Matig (3 tot 5 dagen per week)</item>
+<item>Heavy (6 tot 7 dagen per week)</item>
+<item>Zeer zware (tweemaal per dag)</item>
+</string-array>
+<string name="title_play">Body mass index</string>
+<string name="title_play_2">Basaal metabolisme</string>
+<string name="title_play_3">Dagelijkse behoefte aan calorieën</string>
+<string name="desc_1">Vind uw Body Mass Index en basaal metabolisme.</string>
+<string name="desc_2">Vind uw Body Mass Index en uw dagelijkse behoefte aan calorieën.</string>
+<string name="desc_3">Vind index van massa van uw lichaam en uw dagelijkse behoefte aan calorieën.</string>
+<string name="description_full">
+Deze toepassing zal uw BMI (Body Mass Index) en BMR (basaal metabolisme) te berekenen.
+Body mass index is de belangrijkste indicator van het menselijk lichaam massa. De toepassing zal u lichaamsmassa tot een van de verschillende categorieën toekennen van \'zeer ernstig ondergewicht\' tot \'zeer ernstige obesitas\'. U zult ook in staat zijn om je gewicht te registreren en volgen het over tijd. U kunt gebruik maken van grafiek, om naar te kijken verandert je gewicht en de Body Mass Index.
+Basaal metabolisme geeft de hoeveelheid calorieën die je elke dag moet consumeren, om uw gewicht te handhaven. In wordt berekend op basis van verschillende factoren zoals gewicht, leeftijd, geslacht en intensiteit van fysieke activiteit.
+</string>
+</resources>

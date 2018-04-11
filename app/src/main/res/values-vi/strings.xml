@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Chỉ số khối cơ thể</string>
+<string name="bmi">Chỉ số khối cơ thể (BMI) =</string>
+<string name="underweight">Thiếu cân</string>
+<string name="overweight">Thừa cân</string>
+<string name="obesity">Béo phì</string>
+<string name="data_saved">Dữ liệu lưu</string>
+<string name="choose_theme">Chọn màu sắc</string>
+<string name="greenTheme">Xanh</string>
+<string name="light">Sáng</string>
+<string name="dark">Tối</string>
+<string name="cancel">Hủy bỏ</string>
+<string name="ok">Được</string>
+<string name="charts">Đồ thị</string>
+<string name="menu_title">Thực đơn</string>
+<string name="info">Thông tin</string>
+<string name="rate_app">Xếp hạng ứng dụng này!</string>
+<string name="feedback">Đưa ra ý kiến ​​của bạn</string>
+<string name="feedback_prompt">Xin chào, bạn muốn gửi cho chúng tôi ý kiến ​​của bạn, vì vậy chúng tôi có thể cải thiện ứng dụng này cho bạn?</string>
+<string name="opinion">Ý kiến</string>
+<string name="height">Chiều cao của bạn</string>
+<string name="weight">Cân nặng của bạn</string>
+<string name="sex">Quan hệ tình dục của bạn</string>
+<string name="male">Nam</string>
+<string name="female">Nữ</string>
+<string name="age">Tuổi của bạn</string>
+<string name="years">Năm</string>
+<string name="month">Tháng</string>
+<string name="your_wgt">Cân nặng của bạn</string>
+<string name="no_data">Không có dữ liệu có sẵn cho tháng này</string>
+<string name="exercise">Làm thế nào để bạn thường xuyên tập thể dục?</string>
+<string name="your_calories">Nhu cầu hằng ngày cho calo (BMR) =</string>
+<string name="invalidInput">Dữ liệu không hợp lệ</string>
+<string name="emptyInput">Vui lòng nhập dữ liệu</string>
+<string name="your_bmi">BMI của bạn (chỉ số khối cơ thể)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Rất gầy yếu</string>
+<string name="x_low">Nặng cân</string>
+<string name="low">Thiếu cân</string>
+<string name="normal">Bình thường (trọng lượng khỏe mạnh)</string>
+<string name="high">Thừa cân</string>
+<string name="x_high">Vừa béo phì</string>
+<string name="xx_high">Béo phì nặng</string>
+<string name="xxx_high">Béo phì rất nặng</string>
+<string name="save_close">Save</string>
+<string name="exit">Lối ra</string>
+<string name="settings">Cài đặt</string>
+<string-array name="exercise">
+<item>Ít hoặc không tập thể dục</item>
+<item>Light (1-3 ngày mỗi tuần)</item>
+<item>Vừa phải (3-5 ngày mỗi tuần)</item>
+<item>Nặng (6-7 ngày mỗi tuần)</item>
+<item>Rất nặng (hai lần mỗi ngày)</item>
+</string-array>
+<string name="title_play">Chỉ số khối cơ thể</string>
+<string name="title_play_2">Tỷ lệ trao đổi chất cơ bản</string>
+<string name="title_play_3">Nhu cầu hằng ngày cho calo</string>
+<string name="desc_1">Tìm chỉ số khối cơ thể của bạn và Tỷ lệ trao đổi chất cơ bản.</string>
+<string name="desc_2">Tìm chỉ số khối cơ thể của bạn và nhu cầu hàng ngày của bạn để calo.</string>
+<string name="desc_3">Tìm chỉ số khối lượng cơ thể của bạn và nhu cầu hàng ngày của bạn để calo.</string>
+<string name="description_full">
+Ứng dụng này sẽ tính toán chỉ số BMI của bạn (chỉ số khối cơ thể) và BMR (Tỷ lệ trao đổi chất cơ bản).
+Chỉ số khối cơ thể là chỉ số quan trọng nhất của khối cơ thể con người. Ứng dụng này sẽ chỉ định cho bạn khối lượng cơ thể là một trong nhiều loại từ \'rất thiếu cân nặng\' đến \'rất béo phì trầm trọng\'. Bạn cũng sẽ có thể ghi lại trọng lượng của bạn và theo dõi nó qua thời gian. Bạn có thể sử dụng biểu đồ, để xem thay đổi cân nặng và chỉ số khối cơ thể.
+Tỷ lệ trao đổi chất cơ bản cho thấy lượng calo mà bạn nên tiêu thụ mỗi ngày, để duy trì trọng lượng của bạn. Trong tính toán được dựa trên một số yếu tố bao gồm cân nặng, tuổi, giới tính và mức độ hoạt động thể chất.
+</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Индекси массаи бадан</string>
+<string name="bmi">Индекси массаи бадан (ИМБ) =</string>
+<string name="underweight">Камвазнї</string>
+<string name="overweight">Зиёдвазнї</string>
+<string name="obesity">Фарбењї</string>
+<string name="data_saved">Маълумоти наҷот</string>
+<string name="choose_theme">Интихоб ранги</string>
+<string name="greenTheme">Сабз</string>
+<string name="light">Равшан</string>
+<string name="dark">Торик</string>
+<string name="cancel">Бекор</string>
+<string name="ok">Хуб</string>
+<string name="charts">Диаграммаи</string>
+<string name="menu_title">Меню</string>
+<string name="info">Маълумот</string>
+<string name="rate_app">Rate ин барнома!</string>
+<string name="feedback">Дар баёни андешаи худ</string>
+<string name="feedback_prompt">Салом, мехостам, ки шумо ба мо ирсол фикри Шумо, то ки мо метавонем ин барнома барои шумо беҳтар?</string>
+<string name="opinion">Фикр</string>
+<string name="height">Баландии Шумо</string>
+<string name="weight">Вазни худ</string>
+<string name="sex">Ҷинси шумо</string>
+<string name="male">Мард</string>
+<string name="female">Занона</string>
+<string name="age">Сину соли шумо</string>
+<string name="years">Сол</string>
+<string name="month">Моҳ</string>
+<string name="your_wgt">Вазни худ</string>
+<string name="no_data">Иттилоот дастрас нест барои ин ин моҳ аст,</string>
+<string name="exercise">Шумо чанд маротиба амалӣ?</string>
+<string name="your_calories">Ба талаботи рўзмарра барои калорияҳо (BMR) =</string>
+<string name="invalidInput">Маълумоти нодуруст</string>
+<string name="emptyInput">Лутфан, маълумот ворид</string>
+<string name="your_bmi">ИМБ шумо (индекси массаи бадан)</string>
+<string name="kcal">Ккал</string>
+<string name="xx_low">Хеле сахт камвазнї</string>
+<string name="x_low">Сахт камвазнї</string>
+<string name="low">Камвазнї</string>
+<string name="normal">Оддӣ (вазни солим)</string>
+<string name="high">Зиёдвазнї</string>
+<string name="x_high">Фарбењї миёна</string>
+<string name="xx_high">Фарбењї шадид</string>
+<string name="xxx_high">Фарбењї хеле сахт</string>
+<string name="save_close">Сабт</string>
+<string name="exit">Баромадгоҳ</string>
+<string name="settings">Танзимот</string>
+<string-array name="exercise">
+<item>Машқҳои кам ё тамоман ба</item>
+<item>Light (аз 1 то 3 рӯз дар як ҳафта)</item>
+<item>Миёна (аз 3 то 5 рӯз дар як ҳафта)</item>
+<item>Heavy (6 то 7 рӯз дар як ҳафта)</item>
+<item>Хеле вазнин (ду маротиба дар як рўз)</item>
+</string-array>
+<string name="title_play">Индекси массаи бадан</string>
+<string name="title_play_2">Меъёри ѓизо Basal</string>
+<string name="title_play_3">Ба талаботи рўзмарра барои калорияҳо</string>
+<string name="desc_1">Пайдо индекси массаи бадан ва Меъёри ѓизо Basal.</string>
+<string name="desc_2">Пайдо индекси массаи бадан ва ба талаботи рўзмарра шумо барои калорияҳо.</string>
+<string name="desc_3">Пайдо индекси массаи бадан ва ба талаботи рўзмарра шумо барои калорияҳо.</string>
+<string name="description_full">
+Ин барнома ИМБ шумо (индекси массаи бадан) ва BMR (сатњи ѓизо Basal) ҳисоб кунед.
+Индекси массаи бадан муҳимтарин нишондиҳандаи массаи бадани инсон аст. Ба ариза хоҳад массаи бадан шумо ба яке аз чанд категория аз \'хеле сахт камвазнї» ба «хеле сахт фарбењї» таъин намоед. Шумо ҳамчунин метавонед ба сабт вазни худ ва пайгирӣ кардани он беш аз давраи вақт бошад. Шумо метавонед диаграммаи ба тамошо вазни худ ва индекси массаи бадан тағйир истифода,.
+Меъёри ѓизо Basal нишон маблағи калорияҳо, ки шумо бояд ҳар рӯз истеъмол, ба хотири нигоҳ доштани вазни худ. Дар асоси як ќатор омилњо аз љумла вазн, синну сол, љинс ва шиддатнокии фаъолияти ҷисмонӣ њисоб карда мешавад.
+</string>
+</resources>

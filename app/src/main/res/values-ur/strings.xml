@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">باڈی مہینے انڈیکس</string>
+<string name="bmi">باڈی مہینے انڈیکس (بییمآئ) =</string>
+<string name="underweight">وزن</string>
+<string name="overweight">زیادہ وزن والے</string>
+<string name="obesity">موٹاپا</string>
+<string name="data_saved">ڈیٹا محفوظ</string>
+<string name="choose_theme">رنگ منتخب کریں</string>
+<string name="greenTheme">سبز</string>
+<string name="light">روشن</string>
+<string name="dark">اندھیرے</string>
+<string name="cancel">منسوخ کریں</string>
+<string name="ok">ٹھیک ہے</string>
+<string name="charts">چارٹ</string>
+<string name="menu_title">مینو</string>
+<string name="info">معلومات کے</string>
+<string name="rate_app">اس درخواست میں رائے دیں!</string>
+<string name="feedback">اپنی رائے دے</string>
+<string name="feedback_prompt">ہیلو، آپ کو ہم آپ کے لئے اس درخواست کو بہتر بنانے کے کر سکتے ہیں تاکہ ہمیں آپ کی رائے بھیجنے کے لئے پسند کریں گے؟</string>
+<string name="opinion">رائے</string>
+<string name="height">آپ کی اونچائی</string>
+<string name="weight">آپ کا وزن</string>
+<string name="sex">آپ کی جنسی</string>
+<string name="male">لڑکا</string>
+<string name="female">خواتین</string>
+<string name="age">آپ کی عمر</string>
+<string name="years">سال</string>
+<string name="month">مہینہ</string>
+<string name="your_wgt">آپ کا وزن</string>
+<string name="no_data">کوئی ڈیٹا اس ماہ کے لئے دستیاب ہے</string>
+<string name="exercise">کتنی بار آپ کو ورزش کرتے ہیں؟</string>
+<string name="your_calories">کیلوری کے لئے روزانہ کی ضرورت (BMR) =</string>
+<string name="invalidInput">غلط ڈیٹا</string>
+<string name="emptyInput">ڈیٹا کو داخل کریں.</string>
+<string name="your_bmi">آپ بییمآئ (باڈی ماس انڈیکس)</string>
+<string name="kcal">کلو کیلوری</string>
+<string name="xx_low">بہت شدید وزن</string>
+<string name="x_low">شدید وزن</string>
+<string name="low">وزن</string>
+<string name="normal">معمول (صحت مند وزن)</string>
+<string name="high">زیادہ وزن والے</string>
+<string name="x_high">اعتدال پسند موٹاپا</string>
+<string name="xx_high">شدید موٹاپا</string>
+<string name="xxx_high">بہت شدید موٹاپا</string>
+<string name="save_close">محفوظ کریں</string>
+<string name="exit">سے باہر نکلیں</string>
+<string name="settings">ترتیبات</string>
+<string-array name="exercise">
+<item>بہت کم یا کوئی ورزش</item>
+<item>روشنی (فی ہفتہ 1 سے 3 دن)</item>
+<item>اعتدال پسند (فی ہفتہ 3 سے 5 دن)</item>
+<item>بھاری (فی ہفتہ 6 سے 7 دن)</item>
+<item>بہت بھاری (دو بار فی دن)</item>
+</string-array>
+<string name="title_play">باڈی مہینے انڈیکس</string>
+<string name="title_play_2">بیسل میٹابولک شرح</string>
+<string name="title_play_3">کیلوری کے لئے روزانہ کی ضرورت</string>
+<string name="desc_1">آپ کے باڈی ماس انڈیکس اور بیسل میٹابولک شرح تلاش کریں.</string>
+<string name="desc_2">آپ کے باڈی ماس انڈیکس اور کیلوری کے لئے آپ کی روزانہ کی ضرورت کو مل جائے.</string>
+<string name="desc_3">آپ کے جسم اور کیلوری کے لئے آپ کی روز مرہ ضرورت کی بڑے پیمانے پر کے انڈیکس تلاش کریں.</string>
+<string name="description_full">
+یہ درخواست اپنے بییمآئ (باڈی ماس انڈیکس) اور BMR (بیسل میٹابولک کی شرح) کا حساب کرے گا.
+باڈی مہینے انڈیکس انسانی جسم بڑے پیمانے پر کی سب سے اہم مظہر ہے. درخواست \'بہت شدید موٹے\' کرنے کے لئے \'بہت بری طرح وزن\' سے کئی اقسام میں سے ایک کے لئے آپ کے جسم کی بڑے پیمانے پر تفویض کرے گا. آپ بھی اپنے وزن ریکارڈ اور وقت کی مدت کے دوران اس کو ٹریک کرنے کے قابل ہو جائے گا. آپ اپنے وزن اور باڈی ماس انڈیکس بدلتی ہے کو دیکھنے کے لئے، چارٹ کا استعمال کر سکتے.
+بیسل میٹابولک شرح آپ اپنے وزن کو برقرار رکھنے کے لئے ترتیب میں، ہر ایک دن بسم چاہئے کہ کیلوری کی رقم کی طرف اشارہ کرتا. میں وزن، عمر، جنس اور جسمانی سرگرمی کی شدت سمیت کئی عوامل کی بنیاد پر شمار کیا جاتا ہے.
+</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/ThemeLight" 
+    >
+
+    <!-- TextView
+        android:id="@+id/tvChooseSymbol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:text="@string/choose_currency"
+        android:textSize="@dimen/text_l"        
+         /-->	
+    
+    <Spinner
+        
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:id="@+id/ddCurrSymbol"
+        android:layout_width="@dimen/table_l"
+        android:layout_height="wrap_content"   
+        android:visibility="gone"        
+         />
+    
+   <RadioGroup
+        android:id="@+id/radioTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        
+        android:orientation="vertical" >
+
+	    <!--RadioButton
+	        android:id="@+id/radioButton1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:padding="@dimen/margin_xl"
+	        android:layout_gravity="center_horizontal"	        
+	        android:gravity="center"
+	        android:background="@color/lt_green"
+	        android:textSize="@dimen/text_xx"
+	        android:text="@string/greenTheme"
+			android:textColor="@color/black"
+	        style="@style/ThemeGreen" /-->
+    
+        <RadioButton
+	        android:id="@+id/radioButton2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:padding="@dimen/margin_xl"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center"
+	        android:background="@color/gray_lt"
+	        android:textSize="@dimen/text_xx"
+			android:textColor="@color/black"
+	        android:text="@string/light"
+	        style="@style/ThemeLight" />
+        
+        <RadioButton
+	        android:id="@+id/radioButton3"	        
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:padding="@dimen/margin_xl"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center"
+	        android:background="@color/gray_dk"
+	        android:textSize="@dimen/text_xx"	        
+	        android:text="@string/dark"
+			android:textColor="@color/white"
+	        style="@style/ThemeDark" />
+        
+        </RadioGroup>
+    
+</LinearLayout>

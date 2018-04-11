@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">სხეულის მასის ინდექსი</string>
+<string name="bmi">სხეულის მასის ინდექსი (BMI) =</string>
+<string name="underweight">წონის</string>
+<string name="overweight">Overweight</string>
+<string name="obesity">სიმსუქნე</string>
+<string name="data_saved">მონაცემები შეინახება</string>
+<string name="choose_theme">აირჩიეთ ფერი</string>
+<string name="greenTheme">მწვანე</string>
+<string name="light">ნათელი</string>
+<string name="dark">მუქი</string>
+<string name="cancel">გაუქმება</string>
+<string name="ok">Okay</string>
+<string name="charts">გრაფიკი</string>
+<string name="menu_title">მენიუ</string>
+<string name="info">ინფორმაცია</string>
+<string name="rate_app">შეფასება ამ განაცხადს,</string>
+<string name="feedback">თქვენი აზრი</string>
+<string name="feedback_prompt">Hello, გსურთ გამოგვიგზავნოთ თქვენი აზრით, ასე რომ ჩვენ შეგვიძლია გავაუმჯობესოთ ეს პროგრამა თქვენთვის?</string>
+<string name="opinion">აზრი</string>
+<string name="height">თქვენი სიმაღლე</string>
+<string name="weight">თქვენი წონა</string>
+<string name="sex">თქვენი sex</string>
+<string name="male">კაცი</string>
+<string name="female">ქალი</string>
+<string name="age">თქვენი ასაკი</string>
+<string name="years">წელი</string>
+<string name="month">თვის</string>
+<string name="your_wgt">თქვენი წონა</string>
+<string name="no_data">მონაცემები არ არის ხელმისაწვდომი ამ თვეში</string>
+<string name="exercise">რამდენად ხშირად განახორციელოს?</string>
+<string name="your_calories">ყოველდღიური მოთხოვნა კალორია (BMR) =</string>
+<string name="invalidInput">არასწორი მონაცემები</string>
+<string name="emptyInput">გთხოვთ შეიყვანოთ მონაცემები</string>
+<string name="your_bmi">თქვენი BMI (სხეულის მასის ინდექსი)</string>
+<string name="kcal">კკალ</string>
+<string name="xx_low">მძიმედ underweight</string>
+<string name="x_low">სასტიკად underweight</string>
+<string name="low">წონის</string>
+<string name="normal">ნორმალური (ჯანმრთელი წონა)</string>
+<string name="high">Overweight</string>
+<string name="x_high">ზომიერი სიმსუქნე</string>
+<string name="xx_high">მძიმე სიმსუქნეს</string>
+<string name="xxx_high">ძალიან მძიმე სიმსუქნე</string>
+<string name="save_close">Save</string>
+<string name="exit">Exit</string>
+<string name="settings">პარამეტრები</string>
+<string-array name="exercise">
+<item>მცირე ან არ სწავლება</item>
+<item>მსუბუქი (1-დან 3 დღე კვირაში)</item>
+<item>ზომიერი (3-დან 5 დღე კვირაში)</item>
+<item>მძიმე (6-დან 7 დღე კვირაში)</item>
+<item>ძალიან მძიმე (ორჯერ დღეში)</item>
+</string-array>
+<string name="title_play">სხეულის მასის ინდექსი</string>
+<string name="title_play_2">ბაზალური მეტაბოლური კურსი</string>
+<string name="title_play_3">ყოველდღიური მოთხოვნა კალორია</string>
+<string name="desc_1">იპოვეთ თქვენი სხეულის მასის ინდექსი და ბაზალური მეტაბოლური კურსი.</string>
+<string name="desc_2">იპოვეთ თქვენი სხეულის მასის ინდექსი და თქვენი ყოველდღიური მოთხოვნა კალორია.</string>
+<string name="desc_3">ს მაჩვენებელი მასა თქვენი სხეულის და თქვენი ყოველდღიური მოთხოვნა კალორია.</string>
+<string name="description_full">
+ეს პროგრამა გამოვთვალოთ თქვენი BMI (სხეულის მასის ინდექსი) და BMR (ბაზალური მეტაბოლური განაკვეთი).
+სხეულის მასის ინდექსი არის ყველაზე მნიშვნელოვანი მაჩვენებელი, ადამიანის სხეულის მასა. განაცხადის მინიჭებას თქვენ სხეულის მასის ერთ რამდენიმე კატეგორიაში \'ძალიან მკაცრად underweight\' \'ძალიან სასტიკად სიმსუქნე\'. თქვენ ასევე შეძლებთ თქვენი წონა და აკონტროლოთ იგი მეტი პერიოდის განმავლობაში. თქვენ შეგიძლიათ გამოიყენოთ გრაფიკი, უყურებს ცვლილებები თქვენი წონა და სხეულის მასის ინდექსი.
+ბაზალური მეტაბოლური კურსი მიუთითებს რაოდენობის კალორია, რომ თქვენ უნდა მოიხმარენ ყოველ დღე, იმისათვის, რომ შევინარჩუნოთ თქვენი წონა. In გამოითვლება რამდენიმე ფაქტორზე, მათ წონის, ასაკის, სქესის და ინტენსივობის ფიზიკური აქტივობა.
+</string>
+</resources>

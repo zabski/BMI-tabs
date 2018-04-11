@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.z_mobile.bmi" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!--uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /-->
+
+    <application
+        android:allowBackup="true"
+
+        android:label="@string/app_name"
+        android:name=".MainApplication"
+        android:theme="@style/AppTheme"
+         >
+        <!--android:theme="@android:style/Theme.Holo.Light"
+        android:icon="@drawable/woman_body_icon"
+        android:theme="@style/AppTheme"
+        -->
+        <activity
+            android:name="com.z_mobile.bmi.ActivityMain"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- Accepts URIs that begin with "http://recipe-app.com/recipe" -->
+                <data android:scheme="http"
+                    android:host="bmi.zmobile.com"
+                    android:pathPrefix="/main" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.z_mobile.bmi.SettingsActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+
+            <!--intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter-->
+
+        </activity>
+
+        <activity
+            android:name="com.z_mobile.bmi.GraphActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="com.z_mobile.bmi.ActivityTest"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+
+            <!--intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter-->
+
+        </activity>
+
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+
+        <!-- Appjolt Activity
+        <activity android:name="com.appjolt.winback.AppjoltActivity"
+            android:taskAffinity="com.appjolt.winback.twentyeight"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.Panel"  />
+
+        <Appjolt Service
+        <service
+            android:name="com.appjolt.winback.WinbackService"
+            android:enabled="true"
+            android:process=":appjolt"
+            android:exported="true" />
+
+        <Appjolt BOOT receiver
+        <receiver
+            android:name="com.appjolt.winback.WinbackBootReceiver"
+            android:enabled="true"
+            android:exported="true"/>
+
+        <intent-filter>
+            <action android:name="android.intent.action.BOOT_COMPLETED" />
+        </intent-filter-->
+
+
+        <!-- Appjolt Activity ->
+        <activity android:name="com.appjolt.sdk.AppjoltActivity"
+            android:taskAffinity="com.appjolt.sdk.twentyeight"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:hardwareAccelerated="false"/>
+
+        <!- Appjolt Service ->
+        <service
+            android:name="com.appjolt.sdk.AppjoltService"
+            android:enabled="true"
+            android:process=":appjolt"
+            android:exported="true" />
+
+        <!- Appjolt BOOT receiver ->
+        <receiver
+            android:name="com.appjolt.sdk.AppjoltReceiver"
+            android:enabled="true"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+        -->
+
+
+    </application>
+
+
+</manifest>

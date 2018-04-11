@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Index telesnej hmotnosti</string>
+<string name="bmi">Index telesnej hmotnosti (BMI) =</string>
+<string name="underweight">Podváha</string>
+<string name="overweight">Nadváha</string>
+<string name="obesity">Obezita</string>
+<string name="data_saved">Dáta uložené</string>
+<string name="choose_theme">Vyberte si farbu</string>
+<string name="greenTheme">Zelená</string>
+<string name="light">Jasný</string>
+<string name="dark">Tmavý</string>
+<string name="cancel">Zrušiť</string>
+<string name="ok">Dobre</string>
+<string name="charts">Graf</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informácie</string>
+<string name="rate_app">Hodnotiť túto aplikáciu!</string>
+<string name="feedback">Dajte svoj názor</string>
+<string name="feedback_prompt">Dobrý deň, chcel by ste nám poslať svoj názor, takže môžeme vylepšiť túto aplikáciu pre vás?</string>
+<string name="opinion">Názor</string>
+<string name="height">Vaša výška</string>
+<string name="weight">Vaša hmotnosť</string>
+<string name="sex">Váš sex</string>
+<string name="male">Samec</string>
+<string name="female">Samice</string>
+<string name="age">Váš vek</string>
+<string name="years">Leta</string>
+<string name="month">Mesiac</string>
+<string name="your_wgt">Vaša hmotnosť</string>
+<string name="no_data">Žiadne dáta je k dispozícii pre tento mesiac</string>
+<string name="exercise">Ako často cvičíte?</string>
+<string name="your_calories">Denná potreba pre kalórií (BMR) =</string>
+<string name="invalidInput">Neplatné údaje</string>
+<string name="emptyInput">Prosím, zadajte údaje</string>
+<string name="your_bmi">Vaše BMI (index telesnej hmotnosti)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Veľmi ťažko podvyživený</string>
+<string name="x_low">Ťažko podváhou</string>
+<string name="low">Podváha</string>
+<string name="normal">Normálna (zdravej hmotnosti)</string>
+<string name="high">Nadváha</string>
+<string name="x_high">Stredná obezita</string>
+<string name="xx_high">Ťažká obezita</string>
+<string name="xxx_high">Veľmi ťažká obezita</string>
+<string name="save_close">Save</string>
+<string name="exit">Východ</string>
+<string name="settings">Nastavenie</string>
+<string-array name="exercise">
+<item>Malé alebo žiadne cvičenie</item>
+<item>Light (1 až 3 dni v týždni)</item>
+<item>Stredne (3-5 dni v týždni)</item>
+<item>Ťažké (6 až 7 dní v týždni)</item>
+<item>Veľmi ťažký (dvakrát denne)</item>
+</string-array>
+<string name="title_play">Index telesnej hmotnosti</string>
+<string name="title_play_2">Bazálny metabolizmus</string>
+<string name="title_play_3">Denná požiadavka na kalórie</string>
+<string name="desc_1">Nájdite si svoj BMI a bazálny metabolizmus.</string>
+<string name="desc_2">Nájdite si svoj index telesnej hmotnosti a svoj denný požiadavku na kalórií.</string>
+<string name="desc_3">Nájsť index hmotnosti vášho tela a vašej dennej potreby na kalórií.</string>
+<string name="description_full">
+Táto aplikácia bude výpočet BMI (index telesnej hmotnosti) a BMR (bazálny metabolizmus).
+Body mass index je najdôležitejším ukazovateľom ľudskej telesnej hmotnosti. Aplikácia vám pridelí telesnej hmotnosti na jednu z niekoľkých kategórií od \'veľmi vážne underweight\' na \'veľmi ťažko obézni\'. Budete mať tiež možnosť nahrať svoju váhu a sledovať ju na dlhú dobu. Môžete použiť graf, sledovať zmeny svoju váhu a indexu telesnej hmotnosti.
+Bazálny metabolizmus udáva množstvo kalórií, ktoré by ste mali konzumovať každý deň, aby sa zachovala svoju váhu. V je vypočítaná na základe niekoľkých faktorov, vrátane telesnej hmotnosti, veku, pohlavia a intenzity fyzickej aktivity.
+</string>
+</resources>

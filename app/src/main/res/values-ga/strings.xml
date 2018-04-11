@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Innéacs mais comhlacht</string>
+<string name="bmi">Innéacs mais comhlacht (BMI) =</string>
+<string name="underweight">Éadrom</string>
+<string name="overweight">Róthrom</string>
+<string name="obesity">Otracht</string>
+<string name="data_saved">Sonraí a shábháil</string>
+<string name="choose_theme">Roghnaigh dath</string>
+<string name="greenTheme">Glas</string>
+<string name="light">Geal</string>
+<string name="dark">Dorcha</string>
+<string name="cancel">Cealaigh</string>
+<string name="ok">Maith go leor</string>
+<string name="charts">Cairt</string>
+<string name="menu_title">Menu</string>
+<string name="info">Eolas</string>
+<string name="rate_app">Ráta an iarratas seo!</string>
+<string name="feedback">Tabhair do thuairim</string>
+<string name="feedback_prompt">Dia duit, ba mhaith leat a chur chugainn do thuairim, ionas gur féidir linn feabhas a chur ar an iarratas seo ar do shon?</string>
+<string name="opinion">Tuairim</string>
+<string name="height">Do airde</string>
+<string name="weight">Do mheáchan</string>
+<string name="sex">Do ghnéas</string>
+<string name="male">Fireann</string>
+<string name="female">Mná</string>
+<string name="age">Do aois</string>
+<string name="years">Bliana</string>
+<string name="month">Mí</string>
+<string name="your_wgt">Do mheáchan</string>
+<string name="no_data">Níl aon sonraí ar fáil an mhí seo</string>
+<string name="exercise">Cé chomh minic a bhfuil tú a fheidhmiú?</string>
+<string name="your_calories">Riachtanas laethúil do calories (BMR) =</string>
+<string name="invalidInput">Sonraí Neamhbhailí</string>
+<string name="emptyInput">Cuir isteach sonraí</string>
+<string name="your_bmi">Do BMI (innéacs mais Comhlacht)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">An-éadrom go mór</string>
+<string name="x_low">Géar éadrom</string>
+<string name="low">Éadrom</string>
+<string name="normal">Gnáth (meáchan sláintiúil)</string>
+<string name="high">Róthrom</string>
+<string name="x_high">Otracht Measartha</string>
+<string name="xx_high">Severe otracht</string>
+<string name="xxx_high">Otracht an-dian</string>
+<string name="save_close">Sábháil</string>
+<string name="exit">Scoir</string>
+<string name="settings">Socruithe</string>
+<string-array name="exercise">
+<item>Beagán nó gan aon fheidhmiú</item>
+<item>Solas (1 go 3 lá in aghaidh na seachtaine)</item>
+<item>Measartha (3 go 5 lá in aghaidh na seachtaine)</item>
+<item>Trom (6 go 7 lá in aghaidh na seachtaine)</item>
+<item>An-trom (dhá uair in aghaidh an lae)</item>
+</string-array>
+<string name="title_play">Innéacs mais comhlacht</string>
+<string name="title_play_2">Ráta meitibileach basal</string>
+<string name="title_play_3">Riachtanas laethúil do calories</string>
+<string name="desc_1">Aimsigh do innéacs mais Comhlacht agus ráta meitibileach basal.</string>
+<string name="desc_2">Aimsigh do innéacs mais Comhlacht agus do chuid riachtanas laethúil do calories.</string>
+<string name="desc_3">Faigh innéacs de mhais de do chorp agus do chuid riachtanas laethúil do calories.</string>
+<string name="description_full">
+Beidh an t-iarratas a ríomh do BMI (innéacs mais Comhlacht) agus BMR (ráta meitibileach basal).
+Tá innéacs mais comhlacht an táscaire is tábhachtaí de mhais gcorp an duine. Beidh an t-iarratas a shannadh tú mais comhlacht le ceann de na catagóirí éagsúla ó \'an-éadrom go mór\' go \'an-murtallach mór\'. Beidh tú in ann a thaifeadadh do meáchan agus rian thar thréimhse ama. Is féidir leat úsáid a bhaint cairt, chun féachaint ar athruithe ar do mheáchan agus innéacs mais Comhlacht.
+Léiríonn an ráta meitibileach basal an méid calories gur chóir duit a ithe gach lá, d\'fhonn a choimeád ar bun do meáchan. I a ríomh bunaithe ar roinnt fachtóirí lena n-áirítear meáchan, aois, gnéas agus déine na gníomhaíochta coirp.
+</string>
+</resources>

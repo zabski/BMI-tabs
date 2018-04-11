@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ</string>
+<string name="bmi">ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ (BMI​) =</string>
+<string name="underweight">ນ​້​ໍາ​ຫນັກ</string>
+<string name="overweight">້​ໍາ​ຫນັກ​ເກີນ</string>
+<string name="obesity">Obesity</string>
+<string name="data_saved">ຂໍ້​ມູນ​ບັນ​ທຶກ​ໄວ້</string>
+<string name="choose_theme">ເລືອກ​ສີ</string>
+<string name="greenTheme">ສີ​ຂຽວ</string>
+<string name="light">ສົດ​ໃສ</string>
+<string name="dark">ຊ​້​ໍ​າ</string>
+<string name="cancel">ຍົກ​ເລີກ​ການ</string>
+<string name="ok">Okay</string>
+<string name="charts">ໃນ​ຕາ​ຕະ​ລາງ</string>
+<string name="menu_title">ເມ​ນູ</string>
+<string name="info">ຂໍ້​ມູນ​ຂ່າວ​ສານ</string>
+<string name="rate_app">ອັດ​ຕາ​ການ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້​!</string>
+<string name="feedback">ໃຫ້​ຄວາມ​ຄິດ​ເຫັນ​ຂອງ​ທ່ານ</string>
+<string name="feedback_prompt">ສະ​ບາຍ​ດີ​, ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ສົ່ງ​ໃຫ້​ພວກ​ເຮົາ​ມີ​ຄວາມ​ຄິດ​ເຫັນ​ຂອງ​ທ່ານ​, ດັ່ງ​ນັ້ນ​ພວກ​ເຮົາ​ສາ​ມາດ​ປັບ​ປຸງ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ສໍາ​ລັບ​ທ່ານ​ນີ້​?</string>
+<string name="opinion">ຄວາມ​ຄິດ​ເຫັນ</string>
+<string name="height">ລະ​ດັບ​ຄວາມ​ສູງ​ຂອງ​ທ່ານ</string>
+<string name="weight">ນ​້​ໍາ​ຫນັກ​ຂອງ​ທ່ານ</string>
+<string name="sex">ການ​ຮ່ວມ​ເພດ​ຂອງ​ທ່ານ</string>
+<string name="male">ຊາຍ</string>
+<string name="female">ແມ່​ຍິງ</string>
+<string name="age">ອາ​ຍຸ​ສູງ​ສຸດ​ຂອງ​ທ່ານ</string>
+<string name="years">ປີ</string>
+<string name="month">ເດືອນ</string>
+<string name="your_wgt">ນ​້​ໍາ​ຫນັກ​ຂອງ​ທ່ານ</string>
+<string name="no_data">ບໍ່​ມີ​ຂໍ້​ມູນ​ແມ່ນ​ມີ​ສໍາ​ລັບ​ເດືອນ​ນີ້</string>
+<string name="exercise">ທ່ານ​ໃດ​ມັກ​ອອກ​ກໍາ​ລັງ​ກາຍ​?</string>
+<string name="your_calories">ຮຽກ​ຮ້ອງ​ຕ້ອງ​ການ​ປະ​ຈໍາ​ວັນ​ພະ​ລັງ​ງານ (BMR​) =</string>
+<string name="invalidInput">ຂໍ້​ມູນ​ທີ່​ບໍ່​ຖືກ​ຕ້ອງ</string>
+<string name="emptyInput">ກະ​ລຸ​ນາ​ປ້ອນ​ຂໍ້​ມູນ</string>
+<string name="your_bmi">BMI ຂອງ​ທ່ານ (ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">ຫລາຍ​ນ​້​ໍາ​ຫນັກ​ຢ່າງ​ຮ້າຍ​ແຮງ</string>
+<string name="x_low">ນ​້​ໍາ​ຮ້າຍ​ແຮງ</string>
+<string name="low">ນ​້​ໍາ​ຫນັກ</string>
+<string name="normal">ປົກ​ກະ​ຕິ (ນ​້​ໍ​າ​ສຸ​ຂະ​ພາບ​)</string>
+<string name="high">້​ໍາ​ຫນັກ​ເກີນ</string>
+<string name="x_high">Obesity ປານ​ກາງ</string>
+<string name="xx_high">Obesity ຮ້າຍ​ແຮງ</string>
+<string name="xxx_high">Obesity ຮ້າຍ​ແຮງ​ທີ່​ສຸດ</string>
+<string name="save_close">ບັນ​ທຶກ</string>
+<string name="exit">ການ​ທ່ອງ​ທ່ຽວ</string>
+<string name="settings">ການ​ຕັ້ງ​ຄ່າ</string>
+<string-array name="exercise">
+<item>ອອກ​ກໍາ​ລັງ​ກາຍ​ພຽງ​ເລັກ​ນ້ອຍ​ຫຼື​ບໍ່​ມີ</item>
+<item>ແສງ​ສະ​ຫວ່າງ (1 ເຖິງ 3 ວັນ​ຕໍ່​ອາ​ທິດ​)</item>
+<item>ປານ​ກາງ (3 ກັບ 5 ມື້​ຕໍ່​ອາ​ທິດ​)</item>
+<item>ຢ່າງ​ຮຸນ​ແຮງ (6 ຫາ 7 ວັນ​ຕໍ່​ອາ​ທິດ​)</item>
+<item>ຢ່າງ​ຮຸນ​ແຮງ​ທີ່​ສຸດ (ສອງ​ຄັ້ງ​ຕໍ່​ວັນ​)</item>
+</string-array>
+<string name="title_play">ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ</string>
+<string name="title_play_2">ອັດ​ຕາ​ການ metabolic ອອກ​ທີ່​ໂຄນ</string>
+<string name="title_play_3">ຮຽກ​ຮ້ອງ​ຕ້ອງ​ການ​ປະ​ຈໍາ​ວັນ​ພະ​ລັງ​ງານ</string>
+<string name="desc_1">ຄົ້ນ​ຫາ​ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ຂອງ​ທ່ານ​ແລະ​ອັດ​ຕາ​ການ metabolic ອອກ​ທີ່​ໂຄນ​.</string>
+<string name="desc_2">ຄົ້ນ​ຫາ​ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ຂອງ​ທ່ານ​ແລະ​ຄວາມ​ຕ້ອງ​ການ​ປະ​ຈໍາ​ວັນ​ຂອງ​ທ່ານ​ສໍາ​ລັບ​ພະ​ລັງ​ງານ​.</string>
+<string name="desc_3">ຄົ້ນ​ຫາ​ດັດ​ຊະ​ນີ​ຂອງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ແລະ​ຄວາມ​ຕ້ອງ​ການ​ປະ​ຈໍາ​ວັນ​ຂອງ​ທ່ານ​ສໍາ​ລັບ​ພະ​ລັງ​ງານ​ຂອງ​ທ່ານ​.</string>
+<string name="description_full">
+ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້​ຈະ​ຄິດ​ໄລ່ BMI ຂອງ​ທ່ານ (ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​) ແລະ BMR (ອັດ​ຕາ​ການ metabolic ໃຍ​)​.
+ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ແມ່ນ​ຕົວ​ຊີ້​ວັດ​ທີ່​ສໍາ​ຄັນ​ທີ່​ສຸດ​ຂອງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ຂອງ​ມະ​ນຸດ​. ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ຈະ​ແຕ່ງ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ໃຫ້​ທ່ານ​ຫນຶ່ງ​ຂອງ​ປະ​ເພດ​ຫຼາຍ​ມາ​ຈາກ \'ນ​້​ໍາ​ຫນັກ​ຫຼາຍ​ຮ້າຍ​ແຮງ​\' ກັບ \'ອ້ວນ​ຫຼາຍ​ຢ່າງ​ຮ້າຍ​ແຮງ​\'​. ນອກ​ນັ້ນ​ທ່ານ​ຍັງ​ຈະ​ສາ​ມາດ​ທີ່​ຈະ​ບັນ​ທຶກ​ນ​້​ໍາ​ຫນັກ​ຂອງ​ທ່ານ​ແລະ​ການ​ຕິດ​ຕາມ​ໃນ​ໄລ​ຍະ​ໄລ​ຍະ​ເວ​ລາ​ຂອງ​ການ​ໃຊ້​ເວ​ລາ​. ທ່ານ​ສາ​ມາດ​ໃຊ້​ຕາ​ຕະ​ລາງ​, ການ​ສັງ​ເກດ​ເບິ່ງ​ການ​ປ່ຽນ​ແປງ​ນ​້​ໍ​າ​ແລະ​ດັດ​ຊະ​ນີ​ຕັ້ງ​ມະ​ຫາ​ຊົນ​ຂອງ​ຮ່າງ​ກາຍ​ຂອງ​ທ່ານ​.
+ອັດ​ຕາ​ການ metabolic ອອກ​ທີ່​ໂຄນ​ສະ​ແດງ​ເຖິງ​ຈໍາ​ນວນ​ເງິນ​ຂອງ​ພະ​ລັງ​ງານ​ທີ່​ທ່ານ​ຄວນ​ບໍ​ລິ​ໂພກ​ໃນ​ແຕ່​ລະ​ມື້​, ໃນ​ຄໍາ​ສັ່ງ​ທີ່​ຈະ​ຮັກ​ສາ​ນ​້​ໍ​າ​ຂອງ​ທ່ານ​. ໃນ​ການ​ຄໍາ​ນວນ​ໂດຍ​ອີງ​ໃສ່​ຫລາຍ​ປັດ​ໄຈ​ລວມ​ທັງ​ນ​້​ໍາ​ຫນັກ​, ອາ​ຍຸ​, ແລະ​ຄວາມ​ຫນາ​ແຫນ້ນ​ຂອງ​ກິດ​ຈະ​ກໍາ​ທາງ​ດ້ານ​ຮ່າງ​ກາຍ​.
+</string>
+</resources>

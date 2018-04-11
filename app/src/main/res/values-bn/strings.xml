@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">বডি মাস ইনডেক্স</string>
+<string name="bmi">বডি মাস ইনডেক্স (BMI) =</string>
+<string name="underweight">ত্তজনে কম</string>
+<string name="overweight">মাত্রাতিরিক্ত ওজনের</string>
+<string name="obesity">স্থূলতা</string>
+<string name="data_saved">তথ্য সংরক্ষিত</string>
+<string name="choose_theme">রঙ চয়ন করুন</string>
+<string name="greenTheme">সবুজ</string>
+<string name="light">উজ্জ্বল</string>
+<string name="dark">অন্ধকার</string>
+<string name="cancel">বাতিল</string>
+<string name="ok">ঠিক আছে</string>
+<string name="charts">তালিকা</string>
+<string name="menu_title">মেনু</string>
+<string name="info">তথ্য</string>
+<string name="rate_app">এই অ্যাপ্লিকেশন হার!</string>
+<string name="feedback">আপনার মতামত দিন</string>
+<string name="feedback_prompt">হ্যালো, আমরা আপনার জন্য এই অ্যাপ্লিকেশন উন্নত করতে পারেন, যাতে আমাদের আপনার মতামত পাঠাতে চান?</string>
+<string name="opinion">ধারণা</string>
+<string name="height">আপনার উচ্চতা</string>
+<string name="weight">আপনার ওজন</string>
+<string name="sex">আপনার যৌন</string>
+<string name="male">পুরুষ</string>
+<string name="female">মহিলা</string>
+<string name="age">আপনার বয়স</string>
+<string name="years">বছর</string>
+<string name="month">মাস</string>
+<string name="your_wgt">আপনার ওজন</string>
+<string name="no_data">কোন তথ্য নেই এই মাসের জন্য উপলব্ধ</string>
+<string name="exercise">আপনি কত ঘন ঘন ব্যায়াম?</string>
+<string name="your_calories">দৈনিক ক্যালোরি জন্য প্রয়োজন (BMR) =</string>
+<string name="invalidInput">অবৈধ তথ্য</string>
+<string name="emptyInput">তথ্য লিখুন দয়া করে</string>
+<string name="your_bmi">আপনার তাহলে BMI (বডি মাস ইনডেক্স)</string>
+<string name="kcal">কিলোক্যালোরি শক্তির</string>
+<string name="xx_low">অত্যন্ত গুরুতরভাবে কম ওজনের</string>
+<string name="x_low">গুরুতরভাবে কম ওজনের</string>
+<string name="low">ত্তজনে কম</string>
+<string name="normal">সাধারন (সুস্থ ওজন)</string>
+<string name="high">মাত্রাতিরিক্ত ওজনের</string>
+<string name="x_high">সংযমী স্থূলতা</string>
+<string name="xx_high">সিভিয়ার স্থূলতা</string>
+<string name="xxx_high">খুব গুরুতর স্থূলতা</string>
+<string name="save_close">সংরক্ষণ করুন</string>
+<string name="exit">প্রস্থান</string>
+<string name="settings">সেটিংস</string>
+<string-array name="exercise">
+<item>সামান্য অথবা কোন ব্যায়াম</item>
+<item>হালকা (প্রতি সপ্তাহে 1 থেকে 3 দিন)</item>
+<item>সংযমী (প্রতি সপ্তাহে 3 থেকে 5 দিন)</item>
+<item>ভারী (প্রতি সপ্তাহে 6 থেকে 7 দিন)</item>
+<item>খুব ভারী (দুইবার প্রতিদিন)</item>
+</string-array>
+<string name="title_play">বডি মাস ইনডেক্স</string>
+<string name="title_play_2">মূলগত বিপাকীয় হার</string>
+<string name="title_play_3">দৈনিক ক্যালোরি জন্য প্রয়োজন</string>
+<string name="desc_1">আপনার বডি মাস ইনডেক্স এবং মূলগত বিপাকীয় হার খুঁজুন.</string>
+<string name="desc_2">আপনার বডি মাস ইনডেক্স এবং ক্যালোরি জন্য আপনার দৈনন্দিন প্রয়োজন খুঁজুন.</string>
+<string name="desc_3">আপনার শরীর এবং ক্যালোরি জন্য আপনার দৈনন্দিন প্রয়োজন ভর সূচক খুঁজুন.</string>
+<string name="description_full">
+এই অ্যাপ্লিকেশনটি আপনার BMI (বডি মাস ইনডেক্স) এবং BMR (মূলগত বিপাকীয় হার) নিরূপণ করা হবে.
+বডি মাস ইনডেক্স মানুষের শরীরের ভর সবচেয়ে গুরুত্বপূর্ণ সূচক. অ্যাপ্লিকেশন \'খুব মারাত্মকভাবে স্থূল\' যাও \'খুব গুরুতরভাবে কম ওজনের\' থেকে বিভিন্ন শ্রেণীর এক থেকে আপনার শরীরের ভর দায়িত্ব অর্পণ করা হবে. এছাড়াও আপনি আপনার ওজন রেকর্ড এবং সময় সময় ধরে এটা ট্র্যাক করতে সক্ষম হবে. আপনি আপনার ওজন এবং বডি মাস ইনডেক্স পরিবর্তন ঘড়ি, চার্ট ব্যবহার করতে পারেন.
+মূলগত বিপাকীয় হার আপনি আপনার ওজন বজায় রাখার জন্য প্রতিটি দিন গ্রাস করা উচিত যে ক্যালরির পরিমাণ নির্দেশ করে. ওজন, বয়স, লিঙ্গ এবং শারীরিক কার্যকলাপ তীব্রতা সহ বিভিন্ন কারণের উপর ভিত্তি করে হিসাব করা হয়.
+</string>
+</resources>

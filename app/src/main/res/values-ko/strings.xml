@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">체질량 지수</string>
+<string name="bmi">체질량 지수 (BMI) =</string>
+<string name="underweight">Underweight (비중 축소)</string>
+<string name="overweight">초과 중량</string>
+<string name="obesity">비만</string>
+<string name="data_saved">데이터 저장</string>
+<string name="choose_theme">색상을 선택</string>
+<string name="greenTheme">녹색</string>
+<string name="light">선명한</string>
+<string name="dark">어두운</string>
+<string name="cancel">취소</string>
+<string name="ok">좋아요</string>
+<string name="kg">킬로그램</string>
+<string name="lb">파운드</string>
+    <string name="feet">피트</string>
+    <string name="inches">파운드</string>
+<string name="charts">차트</string>
+<string name="menu_title">메뉴</string>
+<string name="info">정보</string>
+<string name="rate_app">이 응용 프로그램을 평가하기!</string>
+<string name="feedback">귀하의 의견을주세요</string>
+<string name="feedback_prompt">안녕하세요, 당신은 우리가 당신을 위해이 응용 프로그램을 개선 할 수 있도록, 우리에게 당신의 의견을 보내시겠습니까?</string>
+<string name="opinion">의견</string>
+<string name="height">귀하의 높이</string>
+<string name="weight">당신의 무게</string>
+<string name="sex">당신의 섹스</string>
+<string name="male">남성</string>
+<string name="female">여성</string>
+<string name="age">당신의 나이</string>
+<string name="years">년</string>
+<string name="month">달</string>
+<string name="your_wgt">당신의 무게</string>
+<string name="no_data">데이터가 이번 달 사용할 수 없습니다</string>
+<string name="exercise">얼마나 자주 운동을합니까?</string>
+<string name="your_calories">칼로리에 대한 일일 요구 사항 (BMR) =</string>
+<string name="invalidInput">잘못된 데이터</string>
+<string name="emptyInput">데이터를 입력</string>
+<string name="your_bmi">당신의 BMI (체질량 지수)</string>
+<string name="kcal">킬로 칼로리</string>
+<string name="xx_low">매우 심각한 저체중</string>
+<string name="x_low">심한 저체중</string>
+<string name="low">Underweight (비중 축소)</string>
+<string name="normal">보통 (건강한 체중)</string>
+<string name="high">초과 중량</string>
+<string name="x_high">보통 비만</string>
+<string name="xx_high">심한 비만</string>
+<string name="xxx_high">아주 심한 비만</string>
+<string name="save_close">저장</string>
+<string name="exit">출구</string>
+<string name="settings">설정</string>
+<string-array name="exercise">
+<item>거의 또는 전혀 운동</item>
+<item>빛 (주당 1-3일)</item>
+<item>보통 (주 3~5일)</item>
+<item>중공업 (주 6-7일)</item>
+<item>매우 무거운 (2 회 하루)</item>
+</string-array>
+<string name="title_play">체질량 지수</string>
+<string name="title_play_2">기초 대사율</string>
+<string name="title_play_3">칼로리에 대한 일일 요구 사항</string>
+<string name="desc_1">당신의 신체 질량 지수 및 기초 신진 대사 속도를 찾습니다.</string>
+<string name="desc_2">당신의 신체 질량 지수와 칼로리에 대한 귀하의 일일 요구 사항을 찾아보십시오.</string>
+<string name="desc_3">몸과 칼로리에 대한 귀하의 일일 요구 사항의 질량 지수를 찾아보십시오.</string>
+<string name="description_full">
+이 응용 프로그램은 당신의 BMI (체질량 지수)와 BMR (기초 대사율)을 계산합니다.
+체질량 지수는 인체 질량의 중요한 지표이다. 응용 프로그램은 \'매우 심각하게 비만\'을 \'매우 심각하게 저체중\'에서 몇 가지 범주 중 하나에 당신의 몸 질량을 할당합니다. 당신은 또한 당신의 체중을 기록하고 시간의 기간을 추적 할 수 있습니다. 당신은 당신의 체중과 체질량 지수를 변경보고, 차​​트를 사용할 수 있습니다.
+기초 대사율은 당신이 당신의 체중을 유지하기 위해 하루에 소비해야 칼로리의 양을 나타냅니다. 인은 체중, 연령, 성별, 신체 활동의 강도를 포함한 여러 요인에 기초하여 계산된다.
+</string>
+</resources>

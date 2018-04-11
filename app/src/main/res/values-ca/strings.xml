@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Índex de massa corporal</string>
+<string name="bmi">Índex de massa corporal (IMC) =</string>
+<string name="underweight">Baix pes</string>
+<string name="overweight">Sobrepès</string>
+<string name="obesity">Obesitat</string>
+<string name="data_saved">Les dades guardades</string>
+<string name="choose_theme">Tria el color</string>
+<string name="greenTheme">Verd</string>
+<string name="light">Brillant</string>
+<string name="dark">Fosc</string>
+<string name="cancel">Cancel·la</string>
+<string name="ok">Bé</string>
+<string name="charts">Taula</string>
+<string name="menu_title">Menú</string>
+<string name="info">Informació</string>
+<string name="rate_app">Valoreu aquesta aplicació!</string>
+<string name="feedback">Donar la seva opinió</string>
+<string name="feedback_prompt">Hola, t\'agradaria que ens enviï la seva opinió, perquè puguem millorar aquesta aplicació per a vostè?</string>
+<string name="opinion">Opinió</string>
+<string name="height">La seva altura</string>
+<string name="weight">El seu pes</string>
+<string name="sex">El seu sexe</string>
+<string name="male">Home</string>
+<string name="female">Femení</string>
+<string name="age">La seva edat</string>
+<string name="years">Any</string>
+<string name="month">Mes</string>
+<string name="your_wgt">El seu pes</string>
+<string name="no_data">No hi ha informació disponible per a aquest mes</string>
+<string name="exercise">Amb quina freqüència fa exercici?</string>
+<string name="your_calories">Requeriment diari de calories (BMR) =</string>
+<string name="invalidInput">Dades no vàlids</string>
+<string name="emptyInput">Entra els dades</string>
+<string name="your_bmi">El seu IMC (índex de massa corporal)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Molt molt inferior al normal</string>
+<string name="x_low">Molt inferior al normal</string>
+<string name="low">Baix pes</string>
+<string name="normal">Normal (pes saludable)</string>
+<string name="high">Sobrepès</string>
+<string name="x_high">L\'obesitat moderada</string>
+<string name="xx_high">L\'obesitat severa</string>
+<string name="xxx_high">Molt obesitat severa</string>
+<string name="save_close">Guardar</string>
+<string name="exit">Sortida</string>
+<string name="settings">Ajustos</string>
+<string-array name="exercise">
+<item>Poc o gens d\'exercici</item>
+<item>Llum (1 a 3 dies per setmana)</item>
+<item>Moderat (3 a 5 dies per setmana)</item>
+<item>Pesats (de 6 a 7 dies per setmana)</item>
+<item>Molt pesat (dues vegades per dia)</item>
+</string-array>
+<string name="title_play">Índex de massa corporal</string>
+<string name="title_play_2">La taxa metabòlica basal</string>
+<string name="title_play_3">Requeriment diari de calories</string>
+<string name="desc_1">Trobi el seu índex de massa corporal i la taxa metabòlica basal.</string>
+<string name="desc_2">Trobi el seu índex de massa corporal i el seu requeriment diari de calories.</string>
+<string name="desc_3">Troba índex de massa del seu cos i el seu requeriment diari de calories.</string>
+<string name="description_full">
+Aquesta aplicació serà calcular el seu IMC (índex de massa corporal) i BMR (taxa metabòlica basal).
+Índex de massa corporal és l\'indicador més important de la massa corporal humà. L\'aplicació li assignarà massa corporal a una de diverses categories de \'molt baix pes greu\' a \'molt severament obesos\'. També podrà registrar el seu pes i fer un seguiment durant un període de temps. Podeu utilitzar la carta, per veure els canvis del seu pes i índex de massa corporal.
+La taxa metabòlica basal indica la quantitat de calories que has de consumir cada dia, per tal de mantenir el seu pes. En es calcula sobre la base de diversos factors, incloent el pes, l\'edat, el sexe i la intensitat de l\'activitat física.
+</string>
+</resources>

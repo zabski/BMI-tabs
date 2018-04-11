@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Индекс массы тела</string>
+<string name="bmi">Индекс массы тела (ИМТ) =</string>
+<string name="underweight">Пониженная масса</string>
+<string name="overweight">Избыточный вес</string>
+<string name="obesity">Ожирение</string>
+<string name="data_saved">Сохраненные данные</string>
+<string name="choose_theme">Выберите цвет</string>
+<string name="greenTheme">Зеленый</string>
+<string name="light">Яркий</string>
+<string name="dark">Темно</string>
+<string name="cancel">Отменить</string>
+<string name="ok">Хорошо</string>
+<string name="kg">кг</string>
+<string name="lb">Фунт</string>
+    <string name="feet">фут</string>
+    <string name="inches">дюймов</string>
+<string name="charts">График</string>
+<string name="menu_title">Меню</string>
+<string name="info">Информация</string>
+<string name="rate_app">Оценить это приложение!</string>
+<string name="feedback">Высказать свое мнение</string>
+<string name="feedback_prompt">Здравствуйте, вы хотели бы отправить нам свое мнение, так что мы можем улучшить это приложение для вас?</string>
+<string name="opinion">Мнение</string>
+<string name="height">Ваш рост</string>
+<string name="weight">Ваш вес</string>
+<string name="sex">Ваш пол</string>
+<string name="male">Мужчина</string>
+<string name="female">Женщина</string>
+<string name="age">Ваш возраст</string>
+<string name="years">Годы</string>
+<string name="month">Месяц</string>
+<string name="your_wgt">Ваш вес</string>
+<string name="no_data">Нет данных не имеется для этого месяца</string>
+<string name="exercise">Как часто вы делаете физические упражнения?</string>
+<string name="your_calories">Суточная потребность в калориях (БМР) =</string>
+<string name="invalidInput">Неверные данные</string>
+<string name="emptyInput">Пожалуйста, введите данные</string>
+<string name="your_bmi">Ваш ИМТ (индекс массы тела)</string>
+<string name="kcal">Килокалория</string>
+<string name="xx_low">Очень сильно истощены</string>
+<string name="x_low">Недостаточный вес</string>
+<string name="low">Пониженная масса</string>
+<string name="normal">здоровый (нормальный вес)</string>
+<string name="high">Избыточный вес</string>
+<string name="x_high">Умеренный ожирение</string>
+<string name="xx_high">Ожирение</string>
+<string name="xxx_high">Очень тяжелое ожирение</string>
+<string name="save_close">Сохранить</string>
+<string name="exit">Выход</string>
+<string name="settings">Настройки</string>
+<string-array name="exercise">
+<item>Мало или нет упражнение</item>
+<item>Легкие (от 1 до 3 дней в неделю)</item>
+<item>Умеренные (от 3 до 5 дней в неделю)</item>
+<item>Тяжелые (от 6 до 7 дней в неделю)</item>
+<item>Очень тяжелый (дважды в день)</item>
+</string-array>
+<string name="title_play">Индекс массы тела</string>
+<string name="title_play_2">Основной обмен</string>
+<string name="title_play_3">Суточная потребность в калориях</string>
+<string name="desc_1">Найти индекса массы тела и базальная скорость метаболизма.</string>
+<string name="desc_2">Найти индекс массы тела и суточную потребность в калориях.</string>
+<string name="desc_3">Найти индекс массы вашего тела и суточной потребности в калориях.</string>
+<string name="description_full">
+Это приложение будет рассчитать свой ИМТ (индекс массы тела) и ПОВ (базальный уровень метаболизма).
+Индекс массы тела является наиболее важным показателем массы тела человека. Приложение будет назначать массы тела на один из нескольких категорий от \'очень сильно отстают\' до \'очень тяжелым ожирением\'. Вы также сможете записывать свой вес и отслеживать его на время. Вы можете использовать график, чтобы следить за изменениями свой вес и индекс массы тела.
+Базальный уровень метаболизма указывает количество калорий, которые вы должны потреблять каждый день, для того, чтобы поддерживать свой вес. В рассчитывается на основе нескольких факторов, включая вес, возраст, пол и интенсивности физической активности.
+</string>
+</resources>

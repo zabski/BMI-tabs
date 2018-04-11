@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Індэкс масы цела</string>
+<string name="bmi">Індэкс масы цела (ІМТ) =</string>
+<string name="underweight">Паніжаная маса</string>
+<string name="overweight">Залішняя вага</string>
+<string name="obesity">Атлусценне</string>
+<string name="data_saved">Захаваныя дадзеныя</string>
+<string name="choose_theme">Вылучыце колер</string>
+<string name="greenTheme">Зялёны</string>
+<string name="light">Яркі</string>
+<string name="dark">Цёмна</string>
+<string name="cancel">Адмяніць</string>
+<string name="ok">Добра</string>
+<string name="charts">Графік</string>
+<string name="menu_title">Меню</string>
+<string name="info">Інфармацыя</string>
+<string name="rate_app">Ацаніць гэта дадатак!</string>
+<string name="feedback">Выказаць сваё меркаванне</string>
+<string name="feedback_prompt">Добры дзень, вы хацелі б адправіць нам сваё меркаванне, так што мы можам палепшыць гэта дадатак для вас?</string>
+<string name="opinion">Меркаванне</string>
+<string name="height">Ваш рост</string>
+<string name="weight">Ваш вага</string>
+<string name="sex">Ваш падлогу</string>
+<string name="male">Мужчына</string>
+<string name="female">Жанчына</string>
+<string name="age">Ваш узрост</string>
+<string name="years">Гады</string>
+<string name="month">Месяц</string>
+<string name="your_wgt">Ваш вага</string>
+<string name="no_data">Няма дадзеных не маецца для гэтага месяца</string>
+<string name="exercise">Як часта вы робіце фізічныя практыкаванні?</string>
+<string name="your_calories">Сутачная патрэба ў калорыях (БМР) =</string>
+<string name="invalidInput">Няслушныя дадзеныя</string>
+<string name="emptyInput">Калі ласка, увядзіце дадзеныя</string>
+<string name="your_bmi">Ваш ІМТ (індэкс масы цела)</string>
+<string name="kcal">Кілакалорый</string>
+<string name="xx_low">Вельмі моцна знясіленыя</string>
+<string name="x_low">Недастатковы вага</string>
+<string name="low">Паніжаная маса</string>
+<string name="normal">Normal (нармальны вага)</string>
+<string name="high">Залішняя вага</string>
+<string name="x_high">Ўмераны атлусценне</string>
+<string name="xx_high">Атлусценне</string>
+<string name="xxx_high">Вельмі цяжкае атлусценне</string>
+<string name="save_close">Захаваць</string>
+<string name="exit">Выхад</string>
+<string name="settings">Налады</string>
+<string-array name="exercise">
+<item>Мала або няма практыкаванне</item>
+<item>Лёгкія (ад 1 да 3 дзён у тыдзень)</item>
+<item>Умераныя (ад 3 да 5 дзён у тыдзень)</item>
+<item>Цяжкія (ад 6 да 7 дзён у тыдзень)</item>
+<item>Вельмі цяжкі (двойчы ў дзень)</item>
+</string-array>
+<string name="title_play">Індэкс масы цела</string>
+<string name="title_play_2">Асноўны абмен</string>
+<string name="title_play_3">Сутачная патрэба ў калорыях</string>
+<string name="desc_1">Знайсці індэкса масы цела і базальная хуткасць метабалізму.</string>
+<string name="desc_2">Знайсці індэкс масы цела і сутачную патрэбнасць у калорыях.</string>
+<string name="desc_3">Знайсці індэкс масы вашага цела і сутачнай патрэбнасці ў калорыях.</string>
+<string name="description_full">
+Гэта дадатак будзе разлічыць свой ІМТ (індэкс масы цела) і пав (базальны ўзровень метабалізму).
+Індэкс масы цела з\'яўляецца найбольш важным паказчыкам масы цела чалавека. Дадатак будзе прызначаць масы цела на адзін з некалькіх катэгорый ад \'вельмі моцна адстаюць\' да \'вельмі цяжкім атлусценнем\'. Вы таксама зможаце запісваць сваю вагу і адсочваць яго на час. Вы можаце выкарыстоўваць графік, каб сачыць за зменамі сваю вагу і індэкс масы цела.
+Базальны ўзровень метабалізму паказвае колькасць калорый, якія вы павінны спажываць кожны дзень, для таго, каб падтрымліваць сваю вагу. У разлічваецца на аснове некалькіх фактараў, уключаючы вагу, узрост, пол і інтэнсіўнасці фізічнай актыўнасці.
+</string>
+</resources>

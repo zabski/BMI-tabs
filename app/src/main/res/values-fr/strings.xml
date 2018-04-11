@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Indice de masse corporelle</string>
+<string name="bmi">Indice de masse corporelle (IMC) =</string>
+<string name="underweight">L\'insuffisance pondérale</string>
+<string name="overweight">Embonpoint</string>
+<string name="obesity">Obésité</string>
+<string name="data_saved">Les données enregistrées</string>
+<string name="choose_theme">Choisissez la couleur</string>
+<string name="greenTheme">Vert</string>
+<string name="light">Clair</string>
+<string name="dark">Sombre</string>
+<string name="cancel">Annuler</string>
+<string name="ok">Bien</string>
+    <string name="feet">pieds</string>
+    <string name="inches">pouces</string>
+<string name="charts">Graphique</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informations</string>
+<string name="rate_app">Noter cette application!</string>
+<string name="feedback">Donnez votre avis</string>
+<string name="feedback_prompt">Bonjour, voulez-vous nous envoyer votre opinion, de sorte que nous pouvons améliorer cette application pour vous?</string>
+<string name="opinion">Opinion</string>
+<string name="height">Votre taille</string>
+<string name="weight">Votre poids</string>
+<string name="sex">Votre sexe</string>
+<string name="male">Homme</string>
+<string name="female">Femme</string>
+<string name="age">Votre âge</string>
+<string name="years">Ans</string>
+<string name="month">Mois</string>
+<string name="your_wgt">Votre poids</string>
+<string name="no_data">Aucune donnée ne est disponible pour ce mois</string>
+<string name="exercise">Combien de fois exercez-vous?</string>
+<string name="your_calories">Besoins quotidiens en calories (BMR) =</string>
+<string name="invalidInput">Données incorrectes</string>
+<string name="emptyInput">Se il vous plaît entrer des données</string>
+<string name="your_bmi">Votre IMC (indice de masse)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Très gravement insuffisant</string>
+<string name="x_low">Insuffisance pondérale grave</string>
+<string name="low">L\'insuffisance pondérale</string>
+<string name="normal">Normal (poids santé)</string>
+<string name="high">Embonpoint</string>
+<string name="x_high">L\'obésité modérée</string>
+<string name="xx_high">Obésité sévère</string>
+<string name="xxx_high">L\'obésité très sévère</string>
+<string name="save_close">Enregistrer</string>
+<string name="exit">Sortie</string>
+<string name="settings">Paramètres</string>
+<string-array name="exercise">
+<item>Peu ou pas d\'exercice</item>
+<item>Légers (1 à 3 jours par semaine)</item>
+<item>Modéré (3 à 5 jours par semaine)</item>
+<item>Lourds (6-7 jours par semaine)</item>
+<item>Très lourde (deux fois par jour)</item>
+</string-array>
+<string name="title_play">Indice de masse corporelle</string>
+<string name="title_play_2">Le taux métabolique basal</string>
+<string name="title_play_3">Besoins quotidiens en calories</string>
+<string name="desc_1">Trouvez votre indice de masse corporelle et le taux métabolique basal.</string>
+<string name="desc_2">Trouvez votre indice de masse corporelle et de vos besoins quotidiens en calories.</string>
+<string name="desc_3">Trouver l\'indice de la masse de votre corps et vos besoins quotidiens en calories.</string>
+<string name="description_full">
+Cette application va calculer votre IMC (indice de masse) et BMR (taux métabolique basal).
+Indice de masse corporelle est l\'indicateur le plus important de la masse du corps humain. L\'application va vous affecter masse corporelle à l\'un de plusieurs catégories de «très gravement insuffisant» à «très gravement obèses\'. Vous serez également capable d\'enregistrer votre poids et la suivre sur une période de temps. Vous pouvez utilisez le tableau, pour regarder change votre poids et indice de masse corporelle.
+Le taux métabolique basal indique la quantité de calories que vous devez consommer chaque jour, afin de maintenir votre poids. En est calculé en fonction de plusieurs facteurs, dont le poids, l\'âge, le sexe et l\'intensité de l\'activité physique.
+</string>
+</resources>

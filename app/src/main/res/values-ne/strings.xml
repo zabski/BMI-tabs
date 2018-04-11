@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">शारीरिक सामूहिक सूचकांक</string>
+<string name="bmi">शारीरिक सामूहिक सूचकांक (बीएमआई) =</string>
+<string name="underweight">वजन</string>
+<string name="overweight">भारी</string>
+<string name="obesity">मोटोपन</string>
+<string name="data_saved">डाटा मुक्ति</string>
+<string name="choose_theme">रङ छान्नुहोस्</string>
+<string name="greenTheme">हरियो</string>
+<string name="light">उज्ज्वल</string>
+<string name="dark">अँध्यारो</string>
+<string name="cancel">रद्द</string>
+<string name="ok">ठीक</string>
+<string name="charts">चार्ट</string>
+<string name="menu_title">मेनु</string>
+<string name="info">सूचना</string>
+<string name="rate_app">यस आवेदन दर!</string>
+<string name="feedback">आफ्नो राय दिनुहोस्</string>
+<string name="feedback_prompt">नमस्ते, तपाईं हामी तपाईं को लागि यस आवेदन सुधार गर्न सक्छन्, ताकि हामीलाई आफ्नो राय पठाउन चाहनुहुन्छ?</string>
+<string name="opinion">जनमत</string>
+<string name="height">तपाईंको उचाइ</string>
+<string name="weight">तपाईंको वजन</string>
+<string name="sex">तपाईंको सेक्स</string>
+<string name="male">पुरुष</string>
+<string name="female">महिला</string>
+<string name="age">तपाईंको उमेर</string>
+<string name="years">वर्ष</string>
+<string name="month">महिना</string>
+<string name="your_wgt">तपाईंको वजन</string>
+<string name="no_data">कुनै डाटा यो महिना को लागि उपलब्ध छ</string>
+<string name="exercise">कसरी अक्सर तपाईं व्यायाम गर्छन्?</string>
+<string name="your_calories">क्यालोरी लागि दैनिक आवश्यकता (BMR) =</string>
+<string name="invalidInput">अवैध डाटा</string>
+<string name="emptyInput">लगत प्रविष्ट गर्नुहोस्</string>
+<string name="your_bmi">तपाईंको बीएमआई (बडी महिना सूचकांक)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">धेरै ठूलो क्षति वजन</string>
+<string name="x_low">अचाक्ली वजन</string>
+<string name="low">वजन</string>
+<string name="normal">सामान्य (स्वस्थ वजन)</string>
+<string name="high">भारी</string>
+<string name="x_high">मध्यम मोटोपना</string>
+<string name="xx_high">गम्भीर मोटोपना</string>
+<string name="xxx_high">धेरै कठोर मोटोपना</string>
+<string name="save_close">बचत</string>
+<string name="exit">निस्कनुहोस्</string>
+<string name="settings">सेटिङ</string>
+<string-array name="exercise">
+<item>सानो या कुनै व्यायाम</item>
+<item>प्रकाश (प्रति हप्ता 1 3 दिन)</item>
+<item>मध्यम (प्रति हप्ता 3 देखि 5 दिन)</item>
+<item>भारी (प्रति हप्ता 6 7 दिन)</item>
+<item>धेरै भारी (प्रति दिन दुई पटक)</item>
+</string-array>
+<string name="title_play">शारीरिक सामूहिक सूचकांक</string>
+<string name="title_play_2">Basal मेटाबोलिक दर</string>
+<string name="title_play_3">क्यालोरी लागि दैनिक आवश्यकता</string>
+<string name="desc_1">आफ्नो शरीर सामूहिक सूचकांक र Basal मेटाबोलिक दर खोजें।</string>
+<string name="desc_2">आफ्नो शरीर सामूहिक सूचकांक र क्यालोरी लागि आफ्नो दैनिक आवश्यकता खोजें।</string>
+<string name="desc_3">आफ्नो शरीर र क्यालोरी लागि आफ्नो दैनिक आवश्यकता को जन को सूचकांक खोजें।</string>
+<string name="description_full">
+यो तपाईँको बीएमआई (बडी महिना सूचकांक) र BMR (Basal मेटाबोलिक दर) को गणना हुनेछ।
+शारीरिक सामूहिक सूचकांक मानव शरीर सामूहिक सबैभन्दा महत्त्वपूर्ण सूचक हो। आवेदन \'धेरै ठूलो क्षति मोटा\' गर्न \'धेरै ठूलो क्षति वजन\' देखि धेरै विभाग एउटा तपाईं शरीर सामूहिक दिनेछ। तपाईं पनि आफ्नो वजन रेकर्ड र समय को अवधिमा यो ट्रयाक गर्न सक्षम हुनेछ। तपाईं आफ्नो वजन र शारीरिक सामूहिक सूचकांक परिवर्तन हेर्न, चार्ट प्रयोग गर्न सक्नुहुन्छ।
+Basal मेटाबोलिक दर तपाईं आफ्नो वजन कायम गर्न, प्रत्येक दिन उपभोग गर्नुपर्छ भन्ने क्यालोरी को राशि सङ्केत गर्छ। मा वजन, उमेर, लिङ्ग र शारीरिक गतिविधि को तीव्रता सहित धेरै कारक आधारित गणना छ।
+</string>
+</resources>

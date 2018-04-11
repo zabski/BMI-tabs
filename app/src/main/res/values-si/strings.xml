@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ශරීර ස්කන්ධ දර්ශකය</string>
+<string name="bmi">ශරීර ස්කන්ධ දර්ශකය (BMI) =</string>
+<string name="underweight">බර</string>
+<string name="overweight">වැඩි කමට</string>
+<string name="obesity">තරබාරුකම</string>
+<string name="data_saved">දත්ත සුරැකී</string>
+<string name="choose_theme">වර්ණ තෝරන්න</string>
+<string name="greenTheme">හරිත</string>
+<string name="light">දීප්තිමත්</string>
+<string name="dark">අඳුරු</string>
+<string name="cancel">අවලංගු කරන්න</string>
+<string name="ok">හරි හරී</string>
+<string name="charts">සටහන</string>
+<string name="menu_title">මෙනුව</string>
+<string name="info">තොරතුරු</string>
+<string name="rate_app">මෙම යෙදුම අගයන්න!</string>
+<string name="feedback">ඔබගේ අදහස දෙන්න</string>
+<string name="feedback_prompt">ආයුබෝවන්, ඔබ අපි ඔබ වෙනුවෙන් මෙම යෙදුම වැඩි දියුණු කළ හැකි වන පරිදි, අපට ඔබේ මතය යැවීමට කැමති?</string>
+<string name="opinion">ජනමත</string>
+<string name="height">ඔබේ උස</string>
+<string name="weight">ඔබේ බර</string>
+<string name="sex">ඔබේ ලිංගික</string>
+<string name="male">පිරිමි</string>
+<string name="female">ගැහැණු</string>
+<string name="age">ඔබේ වයස</string>
+<string name="years">වසර</string>
+<string name="month">මාසය</string>
+<string name="your_wgt">ඔබේ බර</string>
+<string name="no_data">මෙයට දත්ත මේ මාසය සඳහා ලබා ගත හැකි</string>
+<string name="exercise">ඔබ කොහොමද බොහෝ විට පාවිච්චි කරන්නේ කෙසේද?</string>
+<string name="your_calories">කැලරි සඳහා ඩේලි අවශ්යතාවය (BMR) =</string>
+<string name="invalidInput">වලංගු නොවන දත්ත</string>
+<string name="emptyInput">දත්ත ඇතුලත් කරන්න</string>
+<string name="your_bmi">ඔබගේ ශරීර ස්කන්ධ (Body Mass Index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">ඉතා දැඩි ලෙස බර</string>
+<string name="x_low">උග්ර බර ඌනතාවකින්</string>
+<string name="low">බර</string>
+<string name="normal">සාමාන්ය (සෞඛ්ය සම්පන්න බර)</string>
+<string name="high">වැඩි කමට</string>
+<string name="x_high">මධ්යස්ථ තරබාරු බව</string>
+<string name="xx_high">දැඩි තරබාරු බව</string>
+<string name="xxx_high">ඉතා දැඩි තරබාරු බව</string>
+<string name="save_close">සුරකින්න</string>
+<string name="exit">පිටවීම</string>
+<string name="settings">සැකසුම්</string>
+<string-array name="exercise">
+<item>කුඩා හෝ ව්යායාම</item>
+<item>ආලෝකය (සතියකට දින 1 සිට 3 දක්වා)</item>
+<item>(පැය 3 සිට 5 දක්වා), මධ්යස්ථ</item>
+<item>බර (සතියකට 6 7 දින)</item>
+<item>ඉතා අධික (දෙවරක් දිනකට)</item>
+</string-array>
+<string name="title_play">ශරීර ස්කන්ධ දර්ශකය</string>
+<string name="title_play_2">බාසල් පරිවෘත්තීය අනුපාතය</string>
+<string name="title_play_3">කැලරි සඳහා දෛනික</string>
+<string name="desc_1">ඔබගේ ශරීර ස්කන්ධ දර්ශකය සහ බාසල් පරිවෘත්තීය වේගය සොයා බලන්න.</string>
+<string name="desc_2">ඔබගේ ශරීර ස්කන්ධ දර්ශකය සහ කැලරි සඳහා ඔබේ දෛනික සොයා බලන්න.</string>
+<string name="desc_3">ඔබේ ශරීරය හා කැලරි සඳහා ඔබේ දෛනික අවශ්යතාවයෙන් ස්කන්ධ දර්ශකය සොයා බලන්න.</string>
+<string name="description_full">
+මෙම යෙදුම ඔබගේ ශරීර (Body Mass Index) සහ BMR (බාසල් පරිවෘත්තීය අනුපාතිකය) ගණනය කරනු ඇත.
+ශරීර ස්කන්ධ දර්ශකය මිනිස් සිරුර ස්කන්ධය ඉතා වැදගත් පිළිබිඹුවකි. අයදුම්පත \'ඉතා දැඩි ලෙස තරබාරු\' වෙත \'ඉතා දැඩි ලෙස බර\' සිට කිහිපයක් ප්රවර්ග එක් කිරීම ඔබ ශරීර ස්කන්ධ අනුයුක්ත කරනු ඇත. ඔබට ඔබේ සිරුරේ බර වාර්තා හා කාල සීමාව පුරා එය නිරීක්ෂණය කිරීමට හැකි වනු ඇත. ඔබේ බර සහ ශරීර ස්කන්ධ දර්ශකය වෙනස් නැරඹීමට, සුදු භාවිතා කළ හැකිය.
+බාසල් පරිවෘත්තීය වේගය ඔබේ සිරුරේ බර පවත්වා ගැනීම සඳහා, ඔබ එක් එක් දින පානය නොකළ යුතු බවත්, කැලරි ප්රමාණය පෙන්නුම් කරයි. සිරුරේ බර, වයස, ලිංගිකත්වය හා ශාරීරික ක්රියාකාරකම් තීව්රතාව ඇතුළු සාධක කිහිපයක් මත පදනම්ව ගණනය කර ඇත.
+</string>
+</resources>

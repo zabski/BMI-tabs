@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Vücut kitle indeksi</string>
+<string name="bmi">Vücut kitle indeksi (VKİ) =</string>
+<string name="underweight">Normalden hafif</string>
+<string name="overweight">Kilolu</string>
+<string name="obesity">Şişmanlık</string>
+<string name="data_saved">Veriler kaydedildi</string>
+<string name="choose_theme">Rengi seçin</string>
+<string name="greenTheme">Yeşil</string>
+<string name="light">Parlak</string>
+<string name="dark">Karanlık</string>
+<string name="cancel">Iptal</string>
+<string name="ok">Tamam</string>
+<string name="charts">Grafik</string>
+<string name="menu_title">Menü</string>
+<string name="info">Bilgi</string>
+<string name="rate_app">Bu uygulamayı oylayın!</string>
+<string name="feedback">Düşüncelerinizi ver</string>
+<string name="feedback_prompt">Merhaba, biz sizin için bu uygulamayı geliştirmek, böylece bize görüş göndermek istersiniz?</string>
+<string name="opinion">Görüş</string>
+<string name="height">Sizin yüksekliği</string>
+<string name="weight">Kilonuz</string>
+<string name="sex">Sizin seks</string>
+<string name="male">Erkek</string>
+<string name="female">Kadın</string>
+<string name="age">Yaşınız</string>
+<string name="years">Yıl</string>
+<string name="month">Ay</string>
+<string name="your_wgt">Kilonuz</string>
+<string name="no_data">Veri yok bu ay için kullanılabilir</string>
+<string name="exercise">Ne kadar sıklıkla egzersiz musun?</string>
+<string name="your_calories">Kalori Günlük gereksinimi (BMH) =</string>
+<string name="invalidInput">Geçersiz veri</string>
+<string name="emptyInput">Verileri girin</string>
+<string name="your_bmi">Sizin VKİ (Vücut kitle indeksi)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Çok ciddi kilolu</string>
+<string name="x_low">Ciddi zayıf</string>
+<string name="low">Normalden hafif</string>
+<string name="normal">Normal (sağlıklı kilo)</string>
+<string name="high">Kilolu</string>
+<string name="x_high">Orta obezite</string>
+<string name="xx_high">Morbid obezite</string>
+<string name="xxx_high">Çok şiddetli obezite</string>
+<string name="save_close">Kaydet</string>
+<string name="exit">Çıkış</string>
+<string name="settings">Ayarlar</string>
+<string-array name="exercise">
+<item>Az ya da hiç egzersiz</item>
+<item>Işık (haftada 1 ila 3 gün)</item>
+<item>Orta (haftada 3 ila 5 gün)</item>
+<item>Ağır (haftada 6 ila 7 gün)</item>
+<item>Çok ağır (günde iki kez)</item>
+</string-array>
+<string name="title_play">Vücut kitle indeksi</string>
+<string name="title_play_2">Bazal metabolik oran</string>
+<string name="title_play_3">Kalori Günlük gereksinimi</string>
+<string name="desc_1">Vücut kitle indeksi ve Bazal metabolizma hızı bulun.</string>
+<string name="desc_2">Vücut kitle indeksi ve kalori için günlük gereksinimi bulun.</string>
+<string name="desc_3">Vücudunuzun ve kalori için günlük ihtiyacının kütlesinin dizinini bulun.</string>
+<string name="description_full">
+Bu uygulama sizin VKİ (Vücut kitle indeksi) ve BMR (Bazal metabolizma hızı) hesaplar.
+Vücut kitle indeksi, insan vücut kütlesinin en önemli göstergesidir. Uygulama \'çok ciddi obez\' için \'çok ağır kilolu\' birkaç kategoriden birine size vücut kitle atar. Ayrıca kilo kaydetmek ve süre boyunca onu takip etmek mümkün olacak. Sen kilo ve vücut kitle indeksi değiştirir izlemek için, grafiği kullanabilirsiniz.
+Bazal metabolizma hızı size kilo korumak için, her gün tüketmek gerekir kalori miktarını gösterir. Ağırlık, yaş, cinsiyet ve fiziksel aktivite yoğunluğu da dahil olmak üzere çeşitli faktörlere dayalı olarak hesaplanır.
+</string>
+</resources>

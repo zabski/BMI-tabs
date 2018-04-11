@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Մարմնի զանգվածի ինդեքս</string>
+<string name="bmi">Մարմնի զանգվածի ինդեքս (BMI) =</string>
+<string name="underweight">Underweight</string>
+<string name="overweight">Ավելաքաշ</string>
+<string name="obesity">Գիրություն</string>
+<string name="data_saved">Data փրկվել</string>
+<string name="choose_theme">Ընտրեք գույնը</string>
+<string name="greenTheme">Կանաչ</string>
+<string name="light">Պայծառ</string>
+<string name="dark">Մութ</string>
+<string name="cancel">Վերացնել</string>
+<string name="ok">Okay</string>
+<string name="charts">Աղյուսակ</string>
+<string name="menu_title">Մենյու</string>
+<string name="info">Տեղեկատվություն</string>
+<string name="rate_app">Գնահատեք այս ծրագիրը.</string>
+<string name="feedback">Տվեք ձեր կարծիքը</string>
+<string name="feedback_prompt">Բարեւ, ցանկանում եք ուղարկել մեզ Ձեր կարծիքը, այնպես որ մենք կարող ենք բարելավել այս ծրագիրը ձեզ համար.</string>
+<string name="opinion">Կարծիք</string>
+<string name="height">Ձեր բարձրություն</string>
+<string name="weight">Ձեր քաշը</string>
+<string name="sex">Ձեր սեռը</string>
+<string name="male">Արական</string>
+<string name="female">Իգական</string>
+<string name="age">Ձեր տարիքը</string>
+<string name="years">Տարի</string>
+<string name="month">Ամիս</string>
+<string name="your_wgt">Ձեր քաշը</string>
+<string name="no_data">Ոչ տվյալները հասանելի այս ամիս</string>
+<string name="exercise">Որքան հաճախ եք իրականացնում.</string>
+<string name="your_calories">Daily պահանջ կալորիաներով (BMR) =</string>
+<string name="invalidInput">Անվավեր տվյալներ</string>
+<string name="emptyInput">Խնդրում ենք մուտքագրել տվյալներ</string>
+<string name="your_bmi">Ձեր BMI (Body Mass Index)</string>
+<string name="kcal">Կկալ</string>
+<string name="xx_low">Շատ խիստ underweight</string>
+<string name="x_low">Խիստ underweight</string>
+<string name="low">Underweight</string>
+<string name="normal">Նորմալ (առողջ քաշ)</string>
+<string name="high">Ավելաքաշ</string>
+<string name="x_high">Չափավոր գիրություն</string>
+<string name="xx_high">Դաժան գիրություն</string>
+<string name="xxx_high">Շատ ծանր գիրություն</string>
+<string name="save_close">Պահպանել</string>
+<string name="exit">Ելք</string>
+<string name="settings">Կառավարում</string>
+<string-array name="exercise">
+<item>Քիչ կամ ոչ մի վարժություն</item>
+<item>Թեթեւ (1 ից 3 օր մեկ շաբաթ):</item>
+<item>Չափավոր (3 դեպի 5 օր մեկ շաբաթ):</item>
+<item>Ծանր (6 - ից 7 օր մեկ շաբաթ):</item>
+<item>Շատ ծանր (երկու անգամ մեկ օրվա համար)</item>
+</string-array>
+<string name="title_play">Մարմնի զանգվածի ինդեքս</string>
+<string name="title_play_2">Basal metabolic տոկոսադրույքը</string>
+<string name="title_play_3">Daily պահանջ կալորիականությամբ</string>
+<string name="desc_1">Գտեք Ձեր մարմնի զանգվածի ինդեքս եւ basal metabolic տոկոսադրույքը.</string>
+<string name="desc_2">Գտեք Ձեր մարմնի զանգվածի ինդեքս եւ ձեր ամենօրյա պահանջը կալորիականությամբ.</string>
+<string name="desc_3">Գտնել ցուցանիշը զանգվածի ձեր մարմնի եւ ձեր ամենօրյա պահանջի կալորիականությամբ.</string>
+<string name="description_full">
+Այս ծրագիրը հաշվարկել Ձեր BMI (Body Mass Index) եւ BMR (basal metabolic տոկոսադրույքը).
+Մարմնի զանգվածի ցուցանիշը առավել կարեւոր ցուցանիշ է մարդու մարմնի զանգվածի. Դիմումը հանձնարարել ձեզ մարմնի զանգվածի մեկի մի քանի կարգեր ից \'խիստ underweight» է «խիստ գեր\'. Դուք նույնպես կարող եք արձանագրել, ձեր քաշը եւ հետեւել այն ավելի ժամանակահատվածում. Դուք կարող եք օգտագործել աղյուսակը, դիտելու փոխում է ձեր քաշը եւ մարմնի զանգվածի ինդեքս.
+Basal metabolic տոկոսադրույքը ցույց է տալիս, որ գումարը կալորիաներով, որ դուք պետք է օգտագործել ամեն օր, որպեսզի պահպանել ձեր քաշը. Ի հաշվարկվում է ելնելով մի շարք գործոններից, այդ թվում, քաշը, տարիքի, սեռի եւ ինտենսիվացմամբ ֆիզիկական գործունեությունը.
+</string>
+</resources>

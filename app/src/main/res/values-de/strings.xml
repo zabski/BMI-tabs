@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Körpermasseindex</string>
+<string name="bmi">Körpermasseindex (BMI) =</string>
+<string name="underweight">Untergewicht</string>
+<string name="overweight">Übergewicht</string>
+<string name="obesity">Fettleibigkeit</string>
+<string name="data_saved">Daten gespeichert</string>
+<string name="choose_theme">Farbe wählen</string>
+<string name="greenTheme">Grün</string>
+<string name="light">Hell</string>
+<string name="dark">Dunkelheit</string>
+<string name="cancel">Rückgängig Machen</string>
+<string name="ok">Okay</string>
+    <string name="feet">Füße</string>
+    <string name="inches">Zoll</string>
+<string name="charts">Grafik</string>
+<string name="menu_title">Menü</string>
+<string name="info">Information</string>
+<string name="rate_app">Bewerten Sie diese Applikation!</string>
+<string name="feedback">Teilen Sie Ihre Meinung</string>
+<string name="feedback_prompt">Hallo, möchten Sie uns Ihre Meinung, damit wir diese Anwendung für Sie verbessern?</string>
+<string name="opinion">Meinung</string>
+<string name="height">Ihre Höhe</string>
+<string name="weight">Ihr Gewicht</string>
+<string name="sex">Ihr Geschlecht</string>
+<string name="male">Männlich</string>
+<string name="female">Weiblich</string>
+<string name="age">Ihr Alter</string>
+<string name="years">Jahre</string>
+<string name="month">Monat</string>
+<string name="your_wgt">Ihr Gewicht</string>
+<string name="no_data">Keine Daten für diesen Monat verfügbar</string>
+<string name="exercise">Wie oft trainieren Sie?</string>
+<string name="your_calories">Tagesbedarf an Kalorien (BMR) =</string>
+<string name="invalidInput">Ungültige Daten</string>
+<string name="emptyInput">Bitte geben Sie Daten</string>
+<string name="your_bmi">Ihr BMI (Körpermasseindex)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Sehr stark untergewichtig</string>
+<string name="x_low">Stark untergewichtig</string>
+<string name="low">Untergewicht</string>
+<string name="normal">Normal (gesundes Gewicht)</string>
+<string name="high">Übergewicht</string>
+<string name="x_high">Moderate Übergewicht</string>
+<string name="xx_high">Extremes Übergewicht</string>
+<string name="xxx_high">Sehr schwere Adipositas</string>
+<string name="save_close">Speichern</string>
+<string name="exit">Ausgang</string>
+<string name="settings">Einstellungen</string>
+<string-array name="exercise">
+<item>Wenig oder keine Übung</item>
+<item>Light (1 bis 3 Tage pro Woche)</item>
+<item>Mittel (3 bis 5 Tage pro Woche)</item>
+<item>Heavy (6-7 Tage pro Woche)</item>
+<item>Sehr schwere (zweimal pro Tag)</item>
+</string-array>
+<string name="title_play">Körpermasseindex</string>
+<string name="title_play_2">Grundumsatz</string>
+<string name="title_play_3">Tagesbedarf an Kalorien</string>
+<string name="desc_1">Finden Sie Ihren Körpermasseindex und Grundumsatz.</string>
+<string name="desc_2">Finden Sie Ihren Körpermasseindex und Ihres Tagesbedarfs an Kalorien.</string>
+<string name="desc_3">Suche Index der Masse des Körpers und Ihres Tagesbedarfs an Kalorien.</string>
+<string name="description_full">
+Diese Anwendung wird Ihr BMI (Körpermasseindex) und BMR (Grundumsatz) zu berechnen.
+Körpermasseindex ist der wichtigste Indikator der menschlichen Körpermasse. Die Anwendung wird Sie Körpermasse, um eine von mehreren Kategorien von \'sehr stark untergewichtig\' bis \'sehr stark übergewichtige\' zuweisen. Sie werden auch in der Lage, Ihr Gewicht zu erfassen und zu verfolgen, es über einen Zeitraum von Zeit. Sie können Diagramm verwenden, zu beobachten, ändert Ihr Gewicht und Körpermasseindex.
+Grundumsatz zeigt die Menge an Kalorien, die Sie jeden Tag verbrauchen, um Ihr Gewicht zu halten. In wird auf der Grundlage verschiedener Faktoren wie Gewicht, Alter, Geschlecht und der Intensität der körperlichen Aktivität berechnet.
+</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Ο δείκτης μάζας σώματος</string>
+<string name="bmi">Ο δείκτης μάζας σώματος (ΔΜΣ) =</string>
+<string name="underweight">Λιποβαρής</string>
+<string name="overweight">Υπέρβαρος</string>
+<string name="obesity">Η παχυσαρκία</string>
+<string name="data_saved">Τα δεδομένα αποθηκεύονται</string>
+<string name="choose_theme">Επιλέξτε το χρώμα</string>
+<string name="greenTheme">Πράσινος</string>
+<string name="light">Φωτεινό</string>
+<string name="dark">Σκοτάδι</string>
+<string name="cancel">Ακύρωση</string>
+<string name="ok">Καλά</string>
+<string name="charts">Διάγραμμα</string>
+<string name="menu_title">Μενού</string>
+<string name="info">Πληροφορίες</string>
+<string name="rate_app">Βαθμολογήστε αυτήν την εφαρμογή!</string>
+<string name="feedback">Δώστε τη γνώμη σας</string>
+<string name="feedback_prompt">Γεια σας, θα θέλατε να μας στείλετε τη γνώμη σας, έτσι ώστε να μπορούμε να βελτιώσουμε αυτή την εφαρμογή για σένα;</string>
+<string name="opinion">Γνώμη</string>
+<string name="height">Το ύψος σας</string>
+<string name="weight">Το βάρος σας</string>
+<string name="sex">Φύλο σας</string>
+<string name="male">Αρσενικός</string>
+<string name="female">Θήλυ</string>
+<string name="age">Η ηλικία σας</string>
+<string name="years">Χρόνια</string>
+<string name="month">Μήνας</string>
+<string name="your_wgt">Το βάρος σας</string>
+<string name="no_data">Δεν υπάρχουν διαθέσιμα δεδομένα για αυτό το μήνα</string>
+<string name="exercise">Πόσο συχνά ασκείστε;</string>
+<string name="your_calories">Καθημερινή απαίτηση για θερμίδες (BMR) =</string>
+<string name="invalidInput">Μη έγκυρα δεδομένα</string>
+<string name="emptyInput">Παρακαλώ εισάγετε τα στοιχεία</string>
+<string name="your_bmi">ΔΜΣ σας (Δείκτης Μάζας Σώματος)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Πολύ σοβαρά λιποβαρή</string>
+<string name="x_low">Σοβαρά λιποβαρή</string>
+<string name="low">Λιποβαρής</string>
+<string name="normal">Κανονική (υγιές βάρος)</string>
+<string name="high">Υπέρβαρος</string>
+<string name="x_high">Μέτρια παχυσαρκία</string>
+<string name="xx_high">Σοβαρή παχυσαρκία</string>
+<string name="xxx_high">Πολύ σοβαρή παχυσαρκία</string>
+<string name="save_close">Αποθήκευση</string>
+<string name="exit">Έξοδος</string>
+<string name="settings">Ρυθμίσεις</string>
+<string-array name="exercise">
+<item>Μικρή ή καθόλου άσκηση</item>
+<item>Φως (1 έως 3 ημέρες την εβδομάδα)</item>
+<item>Μέτρια (3 έως 5 ημέρες την εβδομάδα)</item>
+<item>Βαρύ (6 έως 7 ημέρες την εβδομάδα)</item>
+<item>Πολύ βαρύ (δύο φορές ανά ημέρα)</item>
+</string-array>
+<string name="title_play">Ο δείκτης μάζας σώματος</string>
+<string name="title_play_2">Βασικό μεταβολικό ρυθμό</string>
+<string name="title_play_3">Καθημερινή απαίτηση για θερμίδες</string>
+<string name="desc_1">Βρείτε το δείκτη μάζας σώματος σας και βασικό μεταβολικό ρυθμό.</string>
+<string name="desc_2">Βρείτε το δείκτη μάζας σώματος σας και ημερήσιες ανάγκες σας για θερμίδες.</string>
+<string name="desc_3">Βρείτε δείκτη μάζας του σώματός σας και την καθημερινή σας απαίτηση για θερμίδες.</string>
+<string name="description_full">
+Αυτή η εφαρμογή θα υπολογίσει ΔΜΣ σας (Δείκτης Μάζας Σώματος) και BMR (βασικό μεταβολικό ρυθμό).
+Δείκτης μάζας σώματος είναι ο πιο σημαντικός δείκτης μάζας ανθρώπινου σώματος. Η εφαρμογή θα εκχωρήσει σας μάζας σώματος σε μία από τις πολλές κατηγορίες από «πολύ σοβαρά λιποβαρή\' σε \'πολύ σοβαρά παχύσαρκοι\'. Μπορείτε, επίσης, θα είναι σε θέση να καταγράφουν το σωματικό βάρος σας και να παρακολουθείτε το πάνω χρονικό διάστημα. Μπορείτε να χρησιμοποιήσετε το διάγραμμα, για να παρακολουθήσουν αλλάζει το βάρος σας και το δείκτη μάζας σώματος.
+Βασικό μεταβολικό ρυθμό δείχνει την ποσότητα των θερμίδων που πρέπει να καταναλώνετε κάθε μέρα, προκειμένου να διατηρήσετε το βάρος σας. Σε υπολογίζεται με βάση διάφορους παράγοντες όπως το βάρος, την ηλικία, το φύλο και την ένταση της φυσικής δραστηριότητας.
+</string>
+</resources>

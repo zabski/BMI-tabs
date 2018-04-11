@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Indeksi i masës trupore</string>
+<string name="bmi">Indeksi i masës trupore (BMI) =</string>
+<string name="underweight">Nënpeshë</string>
+<string name="overweight">Mbipeshë</string>
+<string name="obesity">Trashje</string>
+<string name="data_saved">Të dhënat ruhen</string>
+<string name="choose_theme">Zgjidhni ngjyra</string>
+<string name="greenTheme">E gjelbër</string>
+<string name="light">I ndritshëm</string>
+<string name="dark">I errët</string>
+<string name="cancel">Anuloj</string>
+<string name="ok">Në rregull</string>
+<string name="charts">Tabelë</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informacion</string>
+<string name="rate_app">Vlerësoni këtë kërkesë!</string>
+<string name="feedback">Jepni mendimin tuaj</string>
+<string name="feedback_prompt">Përshëndetje, do të dëshironit të na dërgoni mendimin tuaj, kështu që ne mund të përmirësojë këtë kërkesë për ty?</string>
+<string name="opinion">Mendim</string>
+<string name="height">Lartësia Juaj</string>
+<string name="weight">Pesha juaj</string>
+<string name="sex">Sex tuaj</string>
+<string name="male">Mashkull</string>
+<string name="female">Femër</string>
+<string name="age">Mosha juaj</string>
+<string name="years">Vjet</string>
+<string name="month">Muaj</string>
+<string name="your_wgt">Pesha juaj</string>
+<string name="no_data">Nuk ka të dhëna për këtë muaj</string>
+<string name="exercise">Sa shpesh ju të ushtruar?</string>
+<string name="your_calories">Kërkesa e përditshme për kalori (BMR) =</string>
+<string name="invalidInput">Të dhëna të pavlefshme</string>
+<string name="emptyInput">Ju lutem, jepini të dhënave</string>
+<string name="your_bmi">BMI juaj (Indeksi i masës trupore)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Shumë e rëndë nën peshë</string>
+<string name="x_low">Rëndë nën peshë</string>
+<string name="low">Nënpeshë</string>
+<string name="normal">Normal (peshë të shëndetshme)</string>
+<string name="high">Mbipeshë</string>
+<string name="x_high">Trashje Moderuar</string>
+<string name="xx_high">Trashje të rënda</string>
+<string name="xxx_high">Trashje shumë të rënda</string>
+<string name="save_close">Save</string>
+<string name="exit">Dalje</string>
+<string name="settings">Cilësimet</string>
+<string-array name="exercise">
+<item>Pak ose aspak ushtrim</item>
+<item>Lehta (1 në 3 ditë në javë)</item>
+<item>Moderuar (3 deri në 5 ditë në javë)</item>
+<item>Rënda (6 deri në 7 ditë në javë)</item>
+<item>Shumë e rëndë (dy herë në ditë)</item>
+</string-array>
+<string name="title_play">Indeksi i masës trupore</string>
+<string name="title_play_2">Norma basal metabolike</string>
+<string name="title_play_3">Kërkesa e përditshme për kalori</string>
+<string name="desc_1">Gjej indeksin tuaj në masë Trupi dhe norma basal metabolike.</string>
+<string name="desc_2">Gjej indeksin tuaj në masë Trupi dhe kërkesën tuaj të përditshme për kalori.</string>
+<string name="desc_3">Gjej indeksin e masës së trupit tuaj dhe kërkesën tuaj të përditshme për kalori.</string>
+<string name="description_full">
+Kjo kërkesë do të llogaritur BMI tuaj (Indeksi i masës trupore) dhe BMR (norma basal metabolike).
+Indeksi i masës trupore është tregues më i rëndësishëm i masës trupore të njeriut. Aplikimi do të caktojë të ju në masë të trupit për një nga disa kategori nga \'shumë të rëndë nën peshë\' për \'shumë të rëndë i trashë\'. Ju gjithashtu do të jetë në gjendje për të regjistruar peshën tuaj dhe ndjekur atë gjatë periudhës kohore. Ju mund të përdorni tabelë, për të parë ndryshimet peshën tuaj dhe indeksin e masës trupore.
+Norma basal metabolike tregon sasinë e kalorive që ju duhet të konsumojnë çdo ditë, në mënyrë që të mbajë peshën tuaj. Në llogaritet bazuar në disa faktorë duke përfshirë peshës, moshës, gjinisë dhe intensitetin e aktivitetit fizik.
+</string>
+</resources>

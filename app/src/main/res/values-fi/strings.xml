@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Painoindeksi</string>
+<string name="bmi">Painoindeksi (BMI) =</string>
+<string name="underweight">Alipainoinen</string>
+<string name="overweight">Ylipainoinen</string>
+<string name="obesity">Liikalihavuus</string>
+<string name="data_saved">Data tallennetaan</string>
+<string name="choose_theme">Valitse väri</string>
+<string name="greenTheme">Vihreä</string>
+<string name="light">Kirkas</string>
+<string name="dark">Tumma</string>
+<string name="cancel">Peruuttaa</string>
+<string name="ok">Okei</string>
+<string name="charts">Kaavio</string>
+<string name="menu_title">Menu</string>
+<string name="info">Tiedot</string>
+<string name="rate_app">Arvioi sovellus!</string>
+<string name="feedback">Anna mielipiteesi</string>
+<string name="feedback_prompt">Hei, haluaisit lähettää meille mielipiteesi, jotta voimme parantaa tätä sovellus sinulle?</string>
+<string name="opinion">Lausunto</string>
+<string name="height">Sinun korkeus</string>
+<string name="weight">Paino</string>
+<string name="sex">Sinun sukupuoli</string>
+<string name="male">Uros</string>
+<string name="female">Naaras</string>
+<string name="age">Ikäsi</string>
+<string name="years">Vuotta</string>
+<string name="month">Kuukausi</string>
+<string name="your_wgt">Paino</string>
+<string name="no_data">Mitään tietoja ei ole saatavilla tässä kuussa</string>
+<string name="exercise">Kuinka usein harrastat liikuntaa?</string>
+<string name="your_calories">Päivittäinen vaatimus kaloreita (BMR) =</string>
+<string name="invalidInput">Virheellinen data</string>
+<string name="emptyInput">Syötä tiedot</string>
+<string name="your_bmi">Sinun BMI (painoindeksi)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Erittäin vakavasti alipainoisia</string>
+<string name="x_low">Vakavasti alipainoisia</string>
+<string name="low">Alipainoinen</string>
+<string name="normal">Normaali (terveen painon)</string>
+<string name="high">Ylipainoinen</string>
+<string name="x_high">Kohtalainen lihavuus</string>
+<string name="xx_high">Vaikea lihavuus</string>
+<string name="xxx_high">Erittäin vaikea lihavuus</string>
+<string name="save_close">Tallenna</string>
+<string name="exit">Poistua</string>
+<string name="settings">Asetukset</string>
+<string-array name="exercise">
+<item>Vähän tai ei lainkaan liikuntaa</item>
+<item>Light (1-3 päivää viikossa)</item>
+<item>Kohtalainen (3-5 päivää viikossa)</item>
+<item>Heavy (6-7 päivää viikossa)</item>
+<item>Erittäin raskas (kahdesti päivässä)</item>
+</string-array>
+<string name="title_play">Painoindeksi</string>
+<string name="title_play_2">Basal aineenvaihdunta kiihtyy</string>
+<string name="title_play_3">Päivittäinen vaatimus kaloreita</string>
+<string name="desc_1">Etsi Painoindeksi ja Basal aineenvaihdunta kiihtyy.</string>
+<string name="desc_2">Etsi Painoindeksi ja päivittäinen vaatimus kaloreita.</string>
+<string name="desc_3">Etsi indeksi massa kehon ja päivittäinen vaatimus kaloreita.</string>
+<string name="description_full">
+Tämä sovellus laskee BMI (painoindeksi) ja BMR (Basal aineenvaihdunta kiihtyy).
+Painoindeksi on tärkein mittari ihmisen painoindeksi. Sovellus antaa sinulle painoindeksi yksi monista luokat \'erittäin vakavasti alipainoisia\' tai \'hyvin vakavasti lihavia\'. Sinun on myös mahdollisuus tallentaa paino ja seurata sen yli ajan. Voit käyttää kaavion, katsella muuttaa painoa ja Painoindeksi.
+Basal aineenvaihdunta kiihtyy osoittaa määrän kaloreita, että sinun pitäisi kuluttaa joka päivä, jotta ylläpitää painoa. Vuonna lasketaan useista tekijöistä, kuten paino, ikä, sukupuoli ja intensiteetti liikuntaa.
+</string>
+</resources>

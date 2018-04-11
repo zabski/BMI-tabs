@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Indice di massa corporea</string>
+<string name="bmi">Indice di massa corporea (BMI) =</string>
+<string name="underweight">Sottopeso</string>
+<string name="overweight">Sovrappeso</string>
+<string name="obesity">Obesità</string>
+<string name="data_saved">I dati salvati</string>
+<string name="choose_theme">Scegli il colore</string>
+<string name="greenTheme">Verde</string>
+<string name="light">Luminoso</string>
+<string name="dark">Scuro</string>
+<string name="cancel">Cancellare</string>
+<string name="ok">Bene</string>
+    <string name="feet">piedi</string>
+    <string name="inches">pollici</string>
+<string name="charts">Grafico</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informazioni</string>
+<string name="rate_app">Vota questa applicazione!</string>
+<string name="feedback">Lascia la tua opinione</string>
+<string name="feedback_prompt">Ciao, volete inviarci il vostro parere, in modo che possiamo migliorare questa applicazione per voi?</string>
+<string name="opinion">Opinione</string>
+<string name="height">La sua altezza</string>
+<string name="weight">Il tuo peso</string>
+<string name="sex">Il tuo sesso</string>
+<string name="male">Maschio</string>
+<string name="female">Femminile</string>
+<string name="age">Della tua età</string>
+<string name="years">Anni</string>
+<string name="month">Mese</string>
+<string name="your_wgt">Il tuo peso</string>
+<string name="no_data">Non sono disponibili dati per questo mese</string>
+<string name="exercise">Quante volte ci si allena?</string>
+<string name="your_calories">Fabbisogno giornaliero per calorie (BMR) =</string>
+<string name="invalidInput">Dati non validi</string>
+<string name="emptyInput">Si prega di inserire i dati</string>
+<string name="your_bmi">Il tuo BMI (indice di massa corporea)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Molto gravemente sottopeso</string>
+<string name="x_low">Gravemente sottopeso</string>
+<string name="low">Sottopeso</string>
+<string name="normal">Normale (peso sano)</string>
+<string name="high">Sovrappeso</string>
+<string name="x_high">Obesità moderata</string>
+<string name="xx_high">Grave obesità</string>
+<string name="xxx_high">Molto grave obesità</string>
+<string name="save_close">Salva</string>
+<string name="exit">Uscita</string>
+<string name="settings">Impostazioni</string>
+<string-array name="exercise">
+<item>Poco o nessun esercizio</item>
+<item>Luce (da 1 a 3 giorni a settimana)</item>
+<item>Moderato (da 3 a 5 giorni a settimana)</item>
+<item>Pesanti (da 6 a 7 giorni a settimana)</item>
+<item>Molto pesante (due volte al giorno)</item>
+</string-array>
+<string name="title_play">Indice di massa corporea</string>
+<string name="title_play_2">Metabolismo basale</string>
+<string name="title_play_3">Fabbisogno giornaliero di calorie</string>
+<string name="desc_1">Trova il tuo indice di massa corporea e il metabolismo basale.</string>
+<string name="desc_2">Trova il tuo indice di massa corporea e il tuo fabbisogno giornaliero di calorie.</string>
+<string name="desc_3">Trova l\'indice della massa del vostro corpo e il vostro fabbisogno giornaliero di calorie.</string>
+<string name="description_full">
+Questa applicazione calcolerà il vostro BMI (indice di massa corporea) e BMR (metabolismo basale).
+Indice di massa corporea è l\'indicatore più importante della massa corporea umana. L\'applicazione ti assegnerà massa corporea di una delle diverse categorie da \'molto gravemente sottopeso\' a \'molto gravemente obesi\'. Potrai anche essere in grado di registrare il vostro peso e tenere traccia sopra periodo di tempo. È possibile usare la tabella, per guardare cambia il peso e indice di massa corporea.
+Metabolismo basale indica la quantità di calorie che si devono consumare ogni giorno, al fine di mantenere il vostro peso. In è calcolato sulla base di diversi fattori, tra cui il peso, l\'età, il sesso e l\'intensità dell\'attività fisica.
+</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ബോഡി മാസ് ഇൻഡക്സ്</string>
+<string name="bmi">ബോഡി മാസ് ഇൻഡക്സ് (ബി.എം.ഐ) =</string>
+<string name="underweight">ഭാരക്കുറവ്</string>
+<string name="overweight">അതിഭാരം</string>
+<string name="obesity">വണ്ണവും</string>
+<string name="data_saved">ഡാറ്റാ സംരക്ഷിച്ച</string>
+<string name="choose_theme">നിറം തിരഞ്ഞെടുക്കുക</string>
+<string name="greenTheme">പച്ചയായ</string>
+<string name="light">തിളങ്ങുന്ന</string>
+<string name="dark">ഇരുണ്ട</string>
+<string name="cancel">റദ്ദാക്കുക</string>
+<string name="ok">ശരി</string>
+<string name="charts">ചാർട്ട്</string>
+<string name="menu_title">മെനു</string>
+<string name="info">വിവരം</string>
+<string name="rate_app">ഈ അപ്ലിക്കേഷൻ വിലയിരുത്തുക!</string>
+<string name="feedback">നിങ്ങളുടെ അഭിപ്രായം</string>
+<string name="feedback_prompt">ഹലോ, നിങ്ങൾക്ക് നാം ഈ അപ്ലിക്കേഷൻ മെച്ചപ്പെടുത്താൻ കഴിയും, അങ്ങനെ നിങ്ങളുടെ അഭിപ്രായം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നു?</string>
+<string name="opinion">അഭിപ്രായ</string>
+<string name="height">നിങ്ങളുടെ ഉയരം</string>
+<string name="weight">നിങ്ങളുടെ ഭാരം</string>
+<string name="sex">നിങ്ങളുടെ ലൈംഗിക</string>
+<string name="male">പുരുഷന്</string>
+<string name="female">പെണ്</string>
+<string name="age">നിങ്ങളുടെ പ്രായം</string>
+<string name="years">വർഷം</string>
+<string name="month">മാസം</string>
+<string name="your_wgt">നിങ്ങളുടെ ഭാരം</string>
+<string name="no_data">ഇല്ല ഡാറ്റ ഈ മാസം ലഭ്യമാണ്</string>
+<string name="exercise">നിങ്ങൾ എങ്ങനെ പലപ്പോഴും ശ്രമിക്കുന്നു?</string>
+<string name="your_calories">കലോറി ദൈനംദിന ആവശ്യകത (BMR) =</string>
+<string name="invalidInput">അസാധുവായ ഡാറ്റ</string>
+<string name="emptyInput">ഡാറ്റ നൽകുക</string>
+<string name="your_bmi">നിങ്ങളുടെ ബി.എം.ഐ (ബോഡി മാസ് ഇൻഡക്സ്)</string>
+<string name="kcal">കലോറി</string>
+<string name="xx_low">വളരെ ഭാരം</string>
+<string name="x_low">ഭാരം</string>
+<string name="low">ഭാരക്കുറവ്</string>
+<string name="normal">സാധാരണ (ആരോഗ്യകരമായ ഭാരം)</string>
+<string name="high">അതിഭാരം</string>
+<string name="x_high">മോഡറേറ്റ് വണ്ണം</string>
+<string name="xx_high">കഠിനമായ വണ്ണം</string>
+<string name="xxx_high">വളരെ ഗുരുതരമായ വണ്ണം</string>
+<string name="save_close">സംരക്ഷിക്കുക</string>
+<string name="exit">പുറത്ത്</string>
+<string name="settings">ക്രമീകരണങ്ങൾ</string>
+<string-array name="exercise">
+<item>കാര്യമായ വ്യായാമം</item>
+<item>വെളിച്ചം (ആഴ്ചയിൽ 1 3 ദിവസം)</item>
+<item>(ആഴ്ചയിൽ 3 5 ദിവസം) മോഡറേറ്റ്</item>
+<item>ഹെവി (ആഴ്ചയിൽ 6 7 ദിവസം)</item>
+<item>കനത്ത (ദിവസത്തിൽ രണ്ടുപ്രാവശ്യം)</item>
+</string-array>
+<string name="title_play">ബോഡി മാസ് ഇൻഡക്സ്</string>
+<string name="title_play_2">വളമായും ഉപാപചയ നിരക്ക്</string>
+<string name="title_play_3">കലോറി വേണ്ടി ആവശ്യമായ</string>
+<string name="desc_1">നിങ്ങളുടെ ബോഡി മാസ് ഇൻഡക്സ് ആൻഡ് വളമായി ഉപാപചയ നിരക്ക് കണ്ടെത്തുക.</string>
+<string name="desc_2">നിങ്ങളുടെ ബോഡി മാസ് ഇൻഡക്സ് കലോറിയും നിങ്ങളുടെ ദൈനംദിന ആവശ്യമായ കണ്ടെത്തുക.</string>
+<string name="desc_3">നിങ്ങളുടെ ശരീരം കലോറിയും നിങ്ങളുടെ ദൈനംദിന ആവശ്യമായ പിണ്ഡത്തിന്റെ സൂചിക കണ്ടെത്തുക.</string>
+<string name="description_full">
+ഈ അപ്ലിക്കേഷൻ നിങ്ങളുടെ ബി.എം.ഐ (ബോഡി മാസ് ഇൻഡക്സ്) ഉം BMR (വളമായി ഉപാപചയ നിരക്ക്) കണക്കുകൂട്ടുന്നു.
+ബോഡി മാസ് ഇൻഡക്സ് മനുഷ്യ ശരീരം പിണ്ഡം ഏറ്റവും പ്രധാനപ്പെട്ട സൂചകമാണ്. അപ്ലിക്കേഷൻ \'വളരെ തീവ്രമായി\' വിട് ലേക്കുള്ള \'വളരെ ഭാരം\' നിരവധി വിഭാഗങ്ങൾ ഒന്നിലേക്ക് ബോഡി മാസ് നിയോഗിക്കും. നിങ്ങളുടെ ഭാരം റെക്കോർഡ് സമയം കാലയളവിൽ ഇത് ട്രാക്കുചെയ്യുന്നതിന് കഴിയും. നിങ്ങളുടെ ഭാരം ബോഡി മാസ് ഇൻഡക്സ് മാറ്റുന്നു കാത്തുനിന്നു ചാർട്ട് ഉപയോഗിക്കാൻ കഴിയും.
+വളമായും ഉപാപചയ നിരക്ക് ഭാരം നിലനിർത്താൻ വേണ്ടി, ഓരോ ദിവസവും സംഹരിക്കും എന്നു കലോറി അളവ് സൂചിപ്പിക്കുന്നത്. ഭാരം, വയസ്, ലിംഗഭേദം, ശാരീരിക പ്രവർത്തനങ്ങൾ തീവ്രതയെ ഉൾപ്പെടെ നിരവധി ഘടകങ്ങളെ അടിസ്ഥാനമാക്കി കണക്കാക്കുന്നതും.
+</string>
+</resources>

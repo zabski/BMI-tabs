@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">សន្ទស្សន៍​ម៉ាស​រាងកាយ</string>
+<string name="bmi">សន្ទស្សន៍​ម៉ាស​រាងកាយ (BMI​) =</string>
+<string name="underweight">ទម្ងន់</string>
+<string name="overweight">លើស​ទម្ងន់</string>
+<string name="obesity">ធាត់</string>
+<string name="data_saved">ទិន្នន័យ​ដែល​បាន​រក្សាទុក</string>
+<string name="choose_theme">ជ្រើស​ពណ៌</string>
+<string name="greenTheme">ពណ៌​បៃតង</string>
+<string name="light">ភ្លឺ</string>
+<string name="dark">ងងឹត</string>
+<string name="cancel">បោះបង់</string>
+<string name="ok">មិន​អី​ទេ</string>
+<string name="charts">តារាង</string>
+<string name="menu_title">ម៉ឺនុយ</string>
+<string name="info">ព​ត៌​មាន</string>
+<string name="rate_app">អត្រា​កម្មវិធី​នេះ​!</string>
+<string name="feedback">សូម​ផ្តល់​មតិ​របស់​អ្នក</string>
+<string name="feedback_prompt">ជំរាបសួរ​នឹង​អ្នក​ចង់​ផ្ញើ​មក​យើង​គំនិត​របស់​អ្នក​ដូច្នេះ​យើង​អាច​កែ​លម្អ​កម្មវិធី​សម្រាប់​អ្នក​នេះ​?</string>
+<string name="opinion">មតិ</string>
+<string name="height">កម្ពស់​របស់​អ្នក</string>
+<string name="weight">ទំ​ង​ន់​របស់​អ្នក</string>
+<string name="sex">ការ​រួម​ភេទ​របស់​អ្នក</string>
+<string name="male">បុរស</string>
+<string name="female">ស្រី</string>
+<string name="age">អាយុ​របស់​អ្នក</string>
+<string name="years">ប៉ុន្មាន​ឆ្នាំ</string>
+<string name="month">ខែ</string>
+<string name="your_wgt">ទំ​ង​ន់​របស់​អ្នក</string>
+<string name="no_data">គ្មាន​ទិន្នន័យ​គឺ​អាច​ប្រើ​បាន​សម្រាប់​ខែ​នេះ</string>
+<string name="exercise">ជា​ញឹកញាប់​អ្នក​ធ្វើ​លំ​ហាត់ប្រាណ​?</string>
+<string name="your_calories">តម្រូវ​ការ​ប្រចាំ​ថ្ងៃ​សម្រាប់​កាឡូរី (BMR​) =</string>
+<string name="invalidInput">ទិន្នន័យ​មិន​ត្រឹមត្រូវ</string>
+<string name="emptyInput">សូម​បញ្ចូល​ទិន្នន័យ</string>
+<string name="your_bmi">វិធី BMI របស់​អ្នក (សន្ទស្សន៍​ដ៏​ធំ​មួយ​តួ​)</string>
+<string name="kcal">គីឡូ​កាឡូរី</string>
+<string name="xx_low">ទម្ងន់​ខ្លាំង​ណាស់</string>
+<string name="x_low">ទម្ងន់​យ៉ាង​ខ្លាំង</string>
+<string name="low">ទម្ងន់</string>
+<string name="normal">ធម្មតា (ទម្ងន់​ដែល​មាន​សុខភាព​ល្អ​)</string>
+<string name="high">លើស​ទម្ងន់</string>
+<string name="x_high">ធាត់​មធ្យម</string>
+<string name="xx_high">ការ​ធាត់​ធ្ងន់ធ្ងរ</string>
+<string name="xxx_high">ការ​ធាត់​ធ្ងន់ធ្ងរ</string>
+<string name="save_close">រក្សា​ទុក</string>
+<string name="exit">ការ​ចាក​ចេញ</string>
+<string name="settings">ការ​កំណត់</string>
+<string-array name="exercise">
+<item>ការ​ធ្វើ​លំ​ហាត់ប្រាណ​តិច​តួច​ឬ​គ្មាន</item>
+<item>ពន្លឺ (1 ទៅ 3 ថ្ងៃ​ក្នុង​មួយ​ស​ប្តា​ហ៍​)</item>
+<item>កម្រិត​មធ្យម (3 ទៅ 5 ថ្ងៃ​ក្នុង​មួយ​ស​ប្តា​ហ៍​)</item>
+<item>ធុន​ធ្ងន់ (6 ទៅ 7 ថ្ងៃ​ក្នុង​មួយ​ស​ប្តា​ហ៍​)</item>
+<item>ធ្ងន់​ណាស់ (ពីរ​ដង​ក្នុង​មួយ​ថ្ងៃ​)</item>
+</string-array>
+<string name="title_play">សន្ទស្សន៍​ម៉ាស​រាងកាយ</string>
+<string name="title_play_2">អត្រា​ការ​រំលាយ​អាហារ basal</string>
+<string name="title_play_3">តម្រូវ​ការ​ប្រចាំ​ថ្ងៃ​សម្រាប់​កាឡូរី</string>
+<string name="desc_1">សែ​្វ​ង​រក​សន្ទស្សន៍​ម៉ាស​រាងកាយ​និង​អត្រា​រំលាយ​អាហារ Basal របស់​អ្នក​។</string>
+<string name="desc_2">សែ​្វ​ង​រក​សន្ទស្សន៍​ម៉ាស​រាងកាយ​និង​តម្រូវ​ការ​ប្រចាំ​ថ្ងៃ​របស់​អ្នក​សម្រាប់​កាឡូរី​របស់​អ្នក​។</string>
+<string name="desc_3">រក​ឃើញ​សន្ទស្សន៍​នៃ​ម៉ាស់​នៃ​រាងកាយ​និង​តម្រូវ​ការ​ប្រចាំ​ថ្ងៃ​របស់​អ្នក​សម្រាប់​កាឡូរី​របស់​អ្នក​។</string>
+<string name="description_full">
+កម្មវិធី​នេះ​នឹង​គណនា BMI របស់​អ្នក (សន្ទស្សន៍​ដ៏​ធំ​រាងកាយ​) និង BMR (អត្រា​រំលាយ​អាហារ Basal​) ។
+សន្ទស្សន៍​ម៉ាស​រាងកាយ​ជា​ការ​បញ្ជាក់​ដ៏​សំខាន់​បំផុត​នៃ​ការ​ដ៏​ធំ​មួយ​រាងកាយ​របស់​មនុស្ស​។ កម្មវិធី​នេះ​នឹង​ផ្ដល់​ឱ្យ​អ្នក​ដ៏​ធំ​រាងកាយ​មួយ​នៃ​ប្រភេទ​មួយ​ចំនួន​ពី \'ទម្ងន់​ខ្លាំង​ណាស់​\' ទៅ​ជា \'ខ្លាំង​ណាស់​ដែល​ធាត់​ខ្លាំង​\' ។ អ្នក​ក៏​នឹង​អាច​កត់ត្រា​ទម្ងន់​របស់​អ្នក​និង​តាមដាន​វា​ក្នុង​អំឡុង​ពេល​នៃ​ពេល​វេលា​។ អ្នក​អាច​ប្រើ​គំនូស​ដើម្បី​មើល​ការ​ផ្លាស់​ប្តូ​រ​ទម្ងន់​និង​សន្ទស្សន៍​ដ៏​ធំ​មួយ​រាងកាយ​របស់​អ្នក​។
+អត្រា​ការ​រំលាយ​អាហារ basal បង្ហាញ​ពី​ចំនួន​ទឹកប្រាក់​នៃ​កាឡូរី​ដែល​អ្នក​គួរ​ទទួល​ទាន​ជា​រៀង​រាល់​ថ្ងៃ​ក្នុង​គោលបំណង​ដើម្បី​រក្សា​បាន​នូវ​ទំ​ង​ន់​របស់​អ្នក​។ ត្រូវ​បាន​គណនា​ដោយ​ផ្អែក​នៅ​លើ​កត្តា​ជាច្រើន​រួម​ទាំង​ទំ​ង​ន់​អាយុ​ភេទ​និង​អាំងតង់ស៊ីតេ​នៃ​សកម្មភាព​រាងកាយ​។
+</string>
+</resources>

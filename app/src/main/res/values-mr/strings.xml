@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">बॉडी मास इंडेक्स</string>
+<string name="bmi">बॉडी मास इंडेक्स (बीएमआय) =</string>
+<string name="underweight">कमी वजनाचे</string>
+<string name="overweight">जादा वजन</string>
+<string name="obesity">लठ्ठपणा</string>
+<string name="data_saved">डेटा जतन</string>
+<string name="choose_theme">रंग निवडा</string>
+<string name="greenTheme">हिरव्या</string>
+<string name="light">तेजस्वी</string>
+<string name="dark">गडद</string>
+<string name="cancel">रद्द करा</string>
+<string name="ok">ठीक आहे</string>
+<string name="charts">चार्ट</string>
+<string name="menu_title">मेनू</string>
+<string name="info">माहिती</string>
+<string name="rate_app">हा अनुप्रयोग रेट करा!</string>
+<string name="feedback">आपले मत द्या</string>
+<string name="feedback_prompt">हॅलो, आम्ही आपल्याला या अनुप्रयोग सुधारू शकतो की, आम्हाला आपले मत पाठवू इच्छितो?</string>
+<string name="opinion">मत</string>
+<string name="height">आपले उंची</string>
+<string name="weight">आपले वजन</string>
+<string name="sex">आपले लिंग</string>
+<string name="male">पुरुष</string>
+<string name="female">स्त्री</string>
+<string name="age">आपले वय</string>
+<string name="years">वर्षे</string>
+<string name="month">महिन्यात</string>
+<string name="your_wgt">आपले वजन</string>
+<string name="no_data">कोणताही डेटा या महिन्यात उपलब्ध आहे</string>
+<string name="exercise">किती वेळा आपण व्यायाम नाही?</string>
+<string name="your_calories">कॅलरीज दैनंदिन गरज (बेझल मेटाबॉलिक रेट) =</string>
+<string name="invalidInput">अवैध डेटा</string>
+<string name="emptyInput">डेटा प्रविष्ट करा</string>
+<string name="your_bmi">आपले बीएमआय (बॉडी मास इंडेक्स)</string>
+<string name="kcal">किलोकॅलरी</string>
+<string name="xx_low">खूप कमी वजनाचे</string>
+<string name="x_low">कमी वजनाचे</string>
+<string name="low">कमी वजनाचे</string>
+<string name="normal">सामान्य (निरोगी वजन)</string>
+<string name="high">जादा वजन</string>
+<string name="x_high">मध्यम लठ्ठपणा</string>
+<string name="xx_high">तीव्र लठ्ठपणा</string>
+<string name="xxx_high">खूप तीव्र लठ्ठपणा</string>
+<string name="save_close">जतन करा</string>
+<string name="exit">बाहेर पडा</string>
+<string name="settings">सेटिंग्ज</string>
+<string-array name="exercise">
+<item>थोडे किंवा नाही व्यायाम</item>
+<item>प्रकाश (दर आठवड्यात 1 ते 3 दिवस)</item>
+<item>संयत (दर आठवड्यात 3 ते 5 दिवस)</item>
+<item>जड (दर आठवड्यात 6 ते 7 दिवस)</item>
+<item>खूप जड (दिवसातून दोनदा)</item>
+</string-array>
+<string name="title_play">बॉडी मास इंडेक्स</string>
+<string name="title_play_2">पायाभूत चयापचयाशी दर</string>
+<string name="title_play_3">कॅलरीज दैनंदिन गरज</string>
+<string name="desc_1">आपल्या बॉडी मास इंडेक्स आणि मूलभूत चयापचयाशी दर शोधा.</string>
+<string name="desc_2">आपल्या बॉडी मास इंडेक्स आणि कॅलरीज आपल्या दैनंदिन गरज शोधा.</string>
+<string name="desc_3">आपले शरीर आणि कॅलरीज आपल्या दैनंदिन गरज वस्तुमान निर्देशांक शोधा.</string>
+<string name="description_full">
+हा अनुप्रयोग आपल्या बीएमआय (बॉडी मास इंडेक्स) आणि बेझल मेटाबॉलिक रेट (बेसल चयापचयाशी दर) गणना होईल.
+बॉडी मास इंडेक्स मानवी शरीर वस्तुमान सर्वात महत्त्वाचा निर्देशक आहे. अनुप्रयोग \'फार कठोरपणे लठ्ठपणा\' ते \'फार कमी वजनाचे\' अनेक श्रेणी एक आपण शरीर वस्तुमान नियुक्त करेल. आपण आपल्या वजन रेकॉर्ड आणि वेळ कालावधीत तो ट्रॅक करण्यास सक्षम असेल. आपण आपल्या वजन आणि बॉडी मास इंडेक्स बदल पाहण्यासाठी, चार्ट वापरू शकता.
+पायाभूत चयापचयाशी दर तुम्ही तुमच्या वजन देखरेख करण्यासाठी, प्रत्येक दिवस उपभोगणे पाहिजे की कॅलरीज रक्कम सूचित. वजन, वय, लिंग, शारीरिक तीव्रता अनेक घटकांवर आधारित गणना केली जाते.
+</string>
+</resources>

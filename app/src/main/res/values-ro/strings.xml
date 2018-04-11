@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Indicele de masa corporala</string>
+<string name="bmi">Indicele de masa corporala (IMC) =</string>
+<string name="underweight">Subponderali</string>
+<string name="overweight">Excesul de greutate</string>
+<string name="obesity">Obezitatea</string>
+<string name="data_saved">Datele salvate</string>
+<string name="choose_theme">Alege culoarea</string>
+<string name="greenTheme">Verde</string>
+<string name="light">Luminos</string>
+<string name="dark">Închis</string>
+<string name="cancel">Anula</string>
+<string name="ok">Bine</string>
+<string name="charts">Diagramă</string>
+<string name="menu_title">Meniu</string>
+<string name="info">Informații</string>
+<string name="rate_app">Evaluați această aplicație!</string>
+<string name="feedback">Dă opinia ta</string>
+<string name="feedback_prompt">Bună ziua, ați dori să ne trimiteți opinia dumneavoastră, astfel încât să putem îmbunătăți această aplicație pentru tine?</string>
+<string name="opinion">Opinie</string>
+<string name="height">Înălțimea dvs.</string>
+<string name="weight">Greutatea dvs.</string>
+<string name="sex">Sex dvs.</string>
+<string name="male">Masculin</string>
+<string name="female">Femeie</string>
+<string name="age">Vârsta ta</string>
+<string name="years">An</string>
+<string name="month">Lună</string>
+<string name="your_wgt">Greutatea dvs.</string>
+<string name="no_data">Nu există date disponibile pentru această lună</string>
+<string name="exercise">Cat de des exercită?</string>
+<string name="your_calories">Necesarul zilnic de calorii (BMR) =</string>
+<string name="invalidInput">Date nevalide</string>
+<string name="emptyInput">Vă rugăm să introduceți datele</string>
+<string name="your_bmi">IMC-voastra (indicele de masa corporala)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Foarte grav subponderali</string>
+<string name="x_low">Grav subponderali</string>
+<string name="low">Subponderali</string>
+<string name="normal">Normal (greutate sanatoasa)</string>
+<string name="high">Excesul de greutate</string>
+<string name="x_high">Obezitate moderată</string>
+<string name="xx_high">Obezitate severă</string>
+<string name="xxx_high">Obezitate severă Foarte</string>
+<string name="save_close">Salvați</string>
+<string name="exit">Ieșire</string>
+<string name="settings">Setări</string>
+<string-array name="exercise">
+<item>Micul sau nu exercita</item>
+<item>Lumina (1-3 zile pe săptămână)</item>
+<item>Moderate (3 până la 5 zile pe săptămână)</item>
+<item>Grele (6-7 zile pe săptămână)</item>
+<item>Foarte greu (de două ori pe zi)</item>
+</string-array>
+<string name="title_play">Indicele de masa corporala</string>
+<string name="title_play_2">Rata metabolismului bazal</string>
+<string name="title_play_3">Necesarul zilnic de calorii pentru</string>
+<string name="desc_1">Găsiți indexul de masa corporala si rata metabolismului bazal.</string>
+<string name="desc_2">Găsiți indexul de masa corporala si necesarul zilnic de calorii pentru.</string>
+<string name="desc_3">Găsiți indicele de masă a corpului si necesarul zilnic de calorii pentru.</string>
+<string name="description_full">
+Această aplicație va calcula IMC-ul (indicele de masa corporala) și BMR (rata metabolismului bazal).
+Indicele de masa corporala este cel mai important indicator al masei corpului uman. Aplicația va atribui masă corporală vă la unul din mai multe categorii de \'foarte grav subponderali\' la \'foarte grav obezi\'. Veți fi, de asemenea, posibilitatea de a înregistra greutatea și urmăriți-l pe perioadă de timp. Puteți folosi graficul, pentru a viziona schimbă greutatea dumneavoastră și a indicelui de masa corporala.
+Rata metabolismului bazal indică cantitatea de calorii pe care le ar trebui să consume în fiecare zi, în scopul de a menține greutatea. În sunt calculate pe baza mai multor factori, inclusiv greutate, vârstă, sex și intensitatea activității fizice.
+</string>
+</resources>

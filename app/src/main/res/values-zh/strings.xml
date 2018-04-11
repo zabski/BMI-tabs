@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">身體質量指數</string>
+<string name="bmi">身體質量指數（BMI）=</string>
+<string name="underweight">減持</string>
+<string name="overweight">超重</string>
+<string name="obesity">肥胖</string>
+<string name="data_saved">數據保存</string>
+<string name="choose_theme">選擇顏色</string>
+<string name="greenTheme">綠</string>
+<string name="light">光明</string>
+<string name="dark">黑暗</string>
+<string name="cancel">取消</string>
+<string name="ok">好</string>
+<string name="kg">公斤</string>
+<string name="lb">磅</string>
+    <string name="feet">腳</string>
+    <string name="inches">英寸</string>
+<string name="charts">圖</string>
+<string name="menu_title">菜單</string>
+<string name="info">信息</string>
+<string name="rate_app">評價這個應用程序！</string>
+<string name="feedback">發表您的意見</string>
+<string name="feedback_prompt">你好，你想發送給我們您的意見，這樣我們就可以改善這個應用程序嗎？</string>
+<string name="opinion">意見</string>
+<string name="height">你的身高</string>
+<string name="weight">你的體重</string>
+<string name="sex">您的性別</string>
+<string name="male">男</string>
+<string name="female">女</string>
+<string name="age">你的年齡</string>
+<string name="years">歲月</string>
+<string name="month">月</string>
+<string name="your_wgt">你的體重</string>
+<string name="no_data">沒有數據可用本月</string>
+<string name="exercise">你經常鍛煉？</string>
+<string name="your_calories">對於每天的卡路里需求（BMR）=</string>
+<string name="invalidInput">數據無效</string>
+<string name="emptyInput">請輸入數據</string>
+<string name="your_bmi">你的BMI（身體質量指數）</string>
+<string name="kcal">千卡</string>
+<string name="xx_low">很嚴重不足</string>
+<string name="x_low">體重嚴重不足</string>
+<string name="low">減持</string>
+<string name="normal">正常（健康體重）</string>
+<string name="high">超重</string>
+<string name="x_high">中度肥胖</string>
+<string name="xx_high">重度肥胖</string>
+<string name="xxx_high">極重度肥胖</string>
+<string name="save_close">保存</string>
+<string name="exit">出口</string>
+<string name="settings">設置</string>
+<string-array name="exercise">
+<item>很少或沒有運動</item>
+<item>光（1〜3每週天）</item>
+<item>中等（3至每週5天）</item>
+<item>重（6〜7，每週日）</item>
+<item>非常沉重的（每天兩次）</item>
+</string-array>
+<string name="title_play">身體質量指數</string>
+<string name="title_play_2">基礎代謝率</string>
+<string name="title_play_3">對於熱量每日需要量</string>
+<string name="desc_1">找到你的身體質量指數和基礎代謝率。</string>
+<string name="desc_2">找到你的身體質量指數和熱量的每日需要量。</string>
+<string name="desc_3">找到你的身體和你的卡路里每日需要量的質量指標。</string>
+<string name="description_full">
+此應用程序將計算你的BMI（身體質量指數）和BMR（基礎代謝率）。
+身體質量指數是人體質量的最重要的指標。該應用程序會分配給你的體重為幾個類別之一，從“非常嚴重不足”到“非常嚴重肥胖”。你還可以記錄你的體重和過段時間跟踪。您可以使用圖表，看改變你的體重和身體質量指數。
+基礎代謝率表明卡路里，你應該每天消耗，以保持你的體重的數額。在是基於幾個因素，包括體重，年齡，性別和身體活動的強度計算的。
+</string>
+</resources>

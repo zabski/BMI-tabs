@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Katawan mass index</string>
+<string name="bmi">Katawan mass index (BMI) =</string>
+<string name="underweight">Sa karaniwang timbang</string>
+<string name="overweight">Sobrang timbang</string>
+<string name="obesity">Labis na katabaan</string>
+<string name="data_saved">-Save ng Data</string>
+<string name="choose_theme">Pumili ng Kulay</string>
+<string name="greenTheme">Berde</string>
+<string name="light">Maliwanag</string>
+<string name="dark">Madilim</string>
+<string name="cancel">Kanselahin</string>
+<string name="ok">Ayos</string>
+<string name="charts">Tsart</string>
+<string name="menu_title">Menu</string>
+<string name="info">Impormasyon</string>
+<string name="rate_app">I-rate ang application na ito!</string>
+<string name="feedback">Bigyan ang iyong opinyon</string>
+<string name="feedback_prompt">Kamusta, gusto mong ipadala sa amin ang iyong opinyon, upang maaari naming mapabuti ang application na ito para sa iyo?</string>
+<string name="opinion">Palagay</string>
+<string name="height">Ang iyong taas</string>
+<string name="weight">Ang iyong timbang</string>
+<string name="sex">Ang iyong kasarian</string>
+<string name="male">Lalaki</string>
+<string name="female">Babae</string>
+<string name="age">Ang iyong edad</string>
+<string name="years">Taon</string>
+<string name="month">Buwan</string>
+<string name="your_wgt">Ang iyong timbang</string>
+<string name="no_data">Walang available na data para sa buwang ito</string>
+<string name="exercise">Gaano kadalas ka mag-ehersisyo?</string>
+<string name="your_calories">Araw-araw na kinakailangan para calories (BMR) =</string>
+<string name="invalidInput">Di-wastong data</string>
+<string name="emptyInput">Mangyaring ipasok ang data</string>
+<string name="your_bmi">Ang iyong BMI (Body mass index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Napaka-malubhang kulang sa timbang</string>
+<string name="x_low">Malubhang kulang sa timbang</string>
+<string name="low">Sa karaniwang timbang</string>
+<string name="normal">Normal (malusog na timbang)</string>
+<string name="high">Sobrang timbang</string>
+<string name="x_high">I-moderate ang labis na katabaan</string>
+<string name="xx_high">Malubhang labis na katabaan</string>
+<string name="xxx_high">Napakaluwag matinding labis na katabaan</string>
+<string name="save_close">I-save ang</string>
+<string name="exit">Labasan</string>
+<string name="settings">Mga Setting</string>
+<string-array name="exercise">
+<item>Kakaunti o walang pagsasanay na</item>
+<item>Banayad na (1-3 araw bawat linggo)</item>
+<item>Katamtaman (3-5 araw bawat linggo)</item>
+<item>Malakas na (6-7 araw bawat linggo)</item>
+<item>Sa lalong mabigat (dalawang beses bawat araw)</item>
+</string-array>
+<string name="title_play">Katawan mass index</string>
+<string name="title_play_2">Saligan metabolic rate</string>
+<string name="title_play_3">Araw-araw na kinakailangan para sa calories</string>
+<string name="desc_1">Hanapin ang iyong Katawan mass index at saligan metabolic rate.</string>
+<string name="desc_2">Hanapin ang iyong Katawan mass index at ang iyong pang araw-araw na kinakailangan para sa calories.</string>
+<string name="desc_3">Maghanap ng mga indeks ng masa ng iyong katawan at ang iyong pang araw-araw na kinakailangan para sa calories.</string>
+<string name="description_full">
+Ang application na ito ay kalkulahin ang iyong BMI (Body mass index) at BMR (saligan metabolic rate).
+Katawan mass index ay ang pinakamahalagang tagapagpahiwatig ng tao katawan mass. Ang application ay magtatalaga sa iyo body mass sa isa sa ilang mga kategorya mula sa \'napaka-malubhang kulang sa timbang\' sa \'napaka-malubhang napakataba\'. Makakapag-record ang iyong timbang at subaybayan ito sa paglipas ng panahon mo rin. Maaari mong gamitin ang chart na ito, upang mapanood ang mga pagbabago sa iyong timbang at katawan mass index.
+Saligan metabolic rate ay nagpapahiwatig ng halaga ng calories na dapat mong ubusin sa bawat araw, upang mapanatili ang iyong timbang. Sa ay kinakalkula batay sa maraming mga kadahilanan kabilang ang timbang, edad, kasarian at intensity ng pisikal na aktibidad.
+</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">مؤشر كتلة الجسم</string>
+<string name="bmi">مؤشر كتلة الجسم (BMI) =</string>
+<string name="underweight">نقص الوزن</string>
+<string name="overweight">وزن زائد</string>
+<string name="obesity">بدانة</string>
+<string name="data_saved">حفظ البيانات</string>
+<string name="choose_theme">اختيار اللون</string>
+<string name="greenTheme">أخضر</string>
+<string name="light">مشرق</string>
+<string name="dark">ظلام</string>
+<string name="cancel">إلغاء</string>
+<string name="ok">حسنا</string>
+<string name="kg">كجم</string>
+<string name="lb">رطل</string>
+<string name="feet">أقدام</string>
+<string name="inches">بوصة</string>
+<string name="charts">جدول</string>
+<string name="menu_title">قائمة الطعام</string>
+<string name="info">معلومات</string>
+<string name="rate_app">قيم هذا التطبيق!</string>
+<string name="feedback">تعطي رأيك</string>
+<string name="feedback_prompt">مرحبا، هل تريد أن ترسل لنا رأيك، حتى نتمكن من تحسين هذا التطبيق بالنسبة لك؟</string>
+<string name="opinion">رأي</string>
+<string name="height">طولك</string>
+<string name="weight">وزنك</string>
+<string name="sex">جنسك</string>
+<string name="male">ذكر</string>
+<string name="female">أنثى</string>
+<string name="age">عمرك</string>
+<string name="years">سنوات</string>
+<string name="month">شهر</string>
+<string name="your_wgt">وزنك</string>
+<string name="no_data">لا تتوفر بيانات لهذا الشهر</string>
+<string name="exercise">كيف وغالبا ما كنت تمارس؟</string>
+<string name="your_calories">الاحتياجات اليومية للسعرات حرارية (BMR) =</string>
+<string name="invalidInput">بيانات غير صالحة</string>
+<string name="emptyInput">من فضلك ادخل البيانات</string>
+<string name="your_bmi">مؤشر كتلة الجسم (مؤشر كتلة الجسم)</string>
+<string name="kcal">كيلو كالوري</string>
+<string name="xx_low">نقص الوزن الشديد جدا</string>
+<string name="x_low">نقص الوزن الشديد</string>
+<string name="low">نقص الوزن</string>
+<string name="normal">العادي (وزن صحي)</string>
+<string name="high">وزن زائد</string>
+<string name="x_high">البدانة المعتدلة</string>
+<string name="xx_high">السمنة المفرطة</string>
+<string name="xxx_high">السمنة الشديدة جدا</string>
+<string name="save_close">حفظ</string>
+<string name="exit">خروج</string>
+<string name="settings">الإعدادات</string>
+<string-array name="exercise">
+<item>ممارسة القليل أو لا</item>
+<item>الخفيفة (1 إلى 3 أيام في الأسبوع)</item>
+<item>المعتدلة (3 إلى 5 أيام في الأسبوع)</item>
+<item>الثقيلة (6 إلى 7 أيام في الأسبوع)</item>
+<item>ثقيلة جدا (مرتين في اليوم)</item>
+</string-array>
+<string name="title_play">مؤشر كتلة الجسم</string>
+<string name="title_play_2">معدل الاستقلاب الأساسي</string>
+<string name="title_play_3">الاحتياجات اليومية من السعرات الحرارية ل</string>
+<string name="desc_1">البحث عن مؤشر كتلة الجسم الخاص بك، ومعدل الاستقلاب الأساسي.</string>
+<string name="desc_2">البحث عن مؤشر كتلة الجسم الخاص بك، والشرط الخاص بك اليومي للسعرات حرارية.</string>
+<string name="desc_3">البحث عن مؤشر كتلة الجسم الخاص بك، والشرط الخاص بك اليومي للسعرات حرارية.</string>
+<string name="description_full">
+هذا التطبيق سوف يحسب مؤشر كتلة الجسم الخاص بك (مؤشر كتلة الجسم) وBMR (معدل الايض).
+مؤشر كتلة الجسم هو أهم مؤشر كتلة الجسم الإنسان. وسيؤدي تطبيق تعيين لك كتلة الجسم إلى واحدة من عدة فئات من \'نقص الوزن الشديد جدا\' إلى \'جدا السمنة الشديدة\'. سوف تكون قادرة على تسجيل وزنك، وتتبع ذلك عبر فترة من الزمن أيضا. يمكنك استخدام الرسم البياني، لمشاهدة التغييرات وزنك، ومؤشر كتلة الجسم.
+معدل الاستقلاب الأساسي يشير إلى كمية السعرات الحرارية التي يجب أن تستهلك كل يوم، من أجل المحافظة على وزنك. ويحسب في بناء على عدة عوامل بما في ذلك الوزن والعمر والجنس وشدة النشاط البدني.
+</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">身体质量指数</string>
+<string name="bmi">身体质量指数（BMI）=</string>
+<string name="underweight">减持</string>
+<string name="overweight">超重</string>
+<string name="obesity">肥胖</string>
+<string name="data_saved">数据保存</string>
+<string name="choose_theme">选择颜色</string>
+<string name="greenTheme">绿</string>
+<string name="light">光明</string>
+<string name="dark">黑暗</string>
+<string name="cancel">取消</string>
+<string name="ok">好</string>
+<string name="kg">公斤</string>
+<string name="lb">磅</string>
+    <string name="feet">脚</string>
+    <string name="inches">英寸</string>
+<string name="charts">图</string>
+<string name="menu_title">菜单</string>
+<string name="info">信息</string>
+<string name="rate_app">评价这个应用程序！</string>
+<string name="feedback">发表您的意见</string>
+<string name="feedback_prompt">你好，你想发送给我们您的意见，这样我们就可以改善这个应用程序吗？</string>
+<string name="opinion">意见</string>
+<string name="height">你的身高</string>
+<string name="weight">你的体重</string>
+<string name="sex">您的性别</string>
+<string name="male">男</string>
+<string name="female">女</string>
+<string name="age">你的年龄</string>
+<string name="years">岁月</string>
+<string name="month">月</string>
+<string name="your_wgt">你的体重</string>
+<string name="no_data">没有数据可用本月</string>
+<string name="exercise">你经常锻炼？</string>
+<string name="your_calories">对于每天的卡路里需求（BMR）=</string>
+<string name="invalidInput">数据无效</string>
+<string name="emptyInput">请输入数据</string>
+<string name="your_bmi">你的BMI（身体质量指数）</string>
+<string name="kcal">千卡</string>
+<string name="xx_low">很严重不足</string>
+<string name="x_low">体重严重不足</string>
+<string name="low">减持</string>
+<string name="normal">正常（健康体重）</string>
+<string name="high">超重</string>
+<string name="x_high">中度肥胖</string>
+<string name="xx_high">重度肥胖</string>
+<string name="xxx_high">极重度肥胖</string>
+<string name="save_close">保存</string>
+<string name="exit">出口</string>
+<string name="settings">设置</string>
+<string-array name="exercise">
+<item>很少或没有运动</item>
+<item>光（1〜3每周天）</item>
+<item>中等（3至每周5天）</item>
+<item>重（6〜7，每周日）</item>
+<item>非常沉重的（每天两次）</item>
+</string-array>
+<string name="title_play">身体质量指数</string>
+<string name="title_play_2">基础代谢率</string>
+<string name="title_play_3">对于热量每日需要量</string>
+<string name="desc_1">找到你的身体质量指数和基础代谢率。</string>
+<string name="desc_2">找到你的身体质量指数和热量的每日需要量。</string>
+<string name="desc_3">找到你的身体和你的卡路里每日需要量的质量指标。</string>
+<string name="description_full">
+此应用程序将计算你的BMI（身体质量指数）和BMR（基础代谢率）。
+身体质量指数是人体质量的最重要的指标。该应用程序会分配给你的体重为几个类别之一，从“非常严重不足”到“非常严重肥胖”。你还可以记录你的体重和过段时间跟踪。您可以使用图表，看改变你的体重和身体质量指数。
+基础代谢率表明卡路里，你应该每天消耗，以保持你的体重的数额。在是基于几个因素，包括体重，年龄，性别和身体活动的强度计算的。
+</string>
+</resources>

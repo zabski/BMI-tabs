@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ボディマス指数</string>
+<string name="bmi">ボディマス指数（BMI）=</string>
+<string name="underweight">重量不足</string>
+<string name="overweight">太り過ぎ</string>
+<string name="obesity">肥満</string>
+<string name="data_saved">データが保存された</string>
+<string name="choose_theme">色を選択してください</string>
+<string name="greenTheme">グリーン</string>
+<string name="light">明るい</string>
+<string name="dark">暗い</string>
+<string name="cancel">キャンセル</string>
+<string name="ok">はい</string>
+<string name="kg">kg</string>
+<string name="lb">lb</string>
+    <string name="feet">フィート</string>
+    <string name="inches">インチ</string>
+<string name="charts">チャート</string>
+<string name="menu_title">メニュー</string>
+<string name="info">情報</string>
+<string name="rate_app">このアプリケーションを評価する！</string>
+<string name="feedback">あなたの意見を与える</string>
+<string name="feedback_prompt">こんにちは、あなたは私たちがあなたのためにこのアプリケーションを向上させることができるように、私達にあなたの意見をお送りしたいと思います？</string>
+<string name="opinion">意見</string>
+<string name="height">あなたの高さ</string>
+<string name="weight">あなたの体重</string>
+<string name="sex">あなたのセックス</string>
+<string name="male">マレ</string>
+<string name="female">女性</string>
+<string name="age">あなたの年齢</string>
+<string name="years">年</string>
+<string name="month">月</string>
+<string name="your_wgt">あなたの体重</string>
+<string name="no_data">データは今月に利用可能ではない</string>
+<string name="exercise">あなたはどのくらいの頻度を行使しますか？</string>
+<string name="your_calories">カロリーのためのデイリー要件（BMR）=</string>
+<string name="invalidInput">無効データ</string>
+<string name="emptyInput">データを入力してください</string>
+<string name="your_bmi">あなたのBMI（ボディ·マス·インデックス）</string>
+<string name="kcal">キロカロリー</string>
+<string name="xx_low">非常に深刻な低体重</string>
+<string name="x_low">重度低体重</string>
+<string name="low">重量不足</string>
+<string name="normal">ノーマル（健康的な体重）</string>
+<string name="high">太り過ぎ</string>
+<string name="x_high">中等度の肥満</string>
+<string name="xx_high">重症の肥満</string>
+<string name="xxx_high">非常に厳しい肥満</string>
+<string name="save_close">保存</string>
+<string name="exit">出口</string>
+<string name="settings">[設定]</string>
+<string-array name="exercise">
+<item>ほとんど、あるいは全く運動</item>
+<item>光（週1~3日）</item>
+<item>穏健派（週3〜5日）</item>
+<item>ヘビー（週あたり6〜7日）</item>
+<item>非常に重い（2回日あたり）</item>
+</string-array>
+<string name="title_play">ボディマス指数</string>
+<string name="title_play_2">基礎代謝率</string>
+<string name="title_play_3">カロリーのためのデイリー要件</string>
+<string name="desc_1">あなたの体の質量指数と基礎代謝率を探す。</string>
+<string name="desc_2">あなたの体の質量指数とカロリーのためのあなたの毎日の要件を検索します。</string>
+<string name="desc_3">あなたの体とカロリーのためにあなたの毎日の要件の質量のインデックスを検索します。</string>
+<string name="description_full">
+このアプリケーションは、あなたのBMI（ボディ·マス·インデックス）とBMR（基礎代謝率）を計算します。
+ボディマス指数は、ヒトの体重の最も重要な指標である。アプリケーションは、「非常に重度の肥満」に「非常に深刻な低体重」からいくつかのカテゴリのいずれかにあなたの体の質量を割り当てます。また、体重を記録し、時間をかけてそれを追跡することができるであろう。あなたは、あなたの体重とボディマス指数を変更見て、チャートを使用することができます。
+基礎代謝率は、体重を維持するためには、あなたが毎日消費するカロリーの量を示している。には、体重、年齢、性別、身体活動の強さを含むいくつかの要因に基づいて算出される。
+</string>
+</resources>

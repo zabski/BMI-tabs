@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Mwili molekuli index</string>
+<string name="bmi">Mwili molekuli index (BMI) =</string>
+<string name="underweight">Uzito</string>
+<string name="overweight">Overweight</string>
+<string name="obesity">Obesity</string>
+<string name="data_saved">Takwimu kuokolewa</string>
+<string name="choose_theme">Kuchagua rangi</string>
+<string name="greenTheme">Kijani</string>
+<string name="light">Mkali</string>
+<string name="dark">Giza</string>
+<string name="cancel">Kufuta</string>
+<string name="ok">Okay</string>
+<string name="charts">Chati</string>
+<string name="menu_title">Menu</string>
+<string name="info">Habari</string>
+<string name="rate_app">Kiwango programu hii!</string>
+<string name="feedback">Kutoa maoni yako</string>
+<string name="feedback_prompt">Hello, ungependa tutumie maoni yako, ili tuweze kuboresha hii ya maombi kwa ajili yenu?</string>
+<string name="opinion">Maoni</string>
+<string name="height">Urefu wako</string>
+<string name="weight">Uzito wako</string>
+<string name="sex">Ngono yako</string>
+<string name="male">Kiume</string>
+<string name="female">Kike</string>
+<string name="age">Umri wako</string>
+<string name="years">Miaka</string>
+<string name="month">Mwezi</string>
+<string name="your_wgt">Uzito wako</string>
+<string name="no_data">Hakuna data inapatikana kwa mwezi huu</string>
+<string name="exercise">Ni mara ngapi wewe zoezi?</string>
+<string name="your_calories">Daily mahitaji ya kalori (BMR) =</string>
+<string name="invalidInput">Data batili</string>
+<string name="emptyInput">Tafadhali kuingia data</string>
+<string name="your_bmi">BMI yako (Mwili molekuli index)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Ukali sana uzito</string>
+<string name="x_low">Uzito wa chini mno</string>
+<string name="low">Uzito</string>
+<string name="normal">Kawaida (afya uzito)</string>
+<string name="high">Overweight</string>
+<string name="x_high">Wastani fetma</string>
+<string name="xx_high">Severe fetma</string>
+<string name="xxx_high">Fetma kali sana</string>
+<string name="save_close">Save</string>
+<string name="exit">Toka</string>
+<string name="settings">Mipangilio</string>
+<string-array name="exercise">
+<item>Kidogo au hakuna zoezi</item>
+<item>Mwanga (siku 1 hadi 3 kwa wiki)</item>
+<item>Wastani (siku 3 hadi 5 kwa wiki)</item>
+<item>Heavy (siku 6 hadi 7 kwa wiki)</item>
+<item>Nzito sana (mara mbili kwa siku)</item>
+</string-array>
+<string name="title_play">Mwili molekuli index</string>
+<string name="title_play_2">Kiwango cha metaboli msingi</string>
+<string name="title_play_3">Daily mahitaji ya kalori</string>
+<string name="desc_1">Kupata Mwili molekuli index yako na kiwango shikizi cha metaboli.</string>
+<string name="desc_2">Kupata Mwili molekuli index yako na mahitaji yako ya kila siku kwa ajili ya kalori.</string>
+<string name="desc_3">Kupata orodha ya wingi wa mwili wako na mahitaji yako ya kila siku kwa ajili ya kalori.</string>
+<string name="description_full">
+Maombi Hii itakuwa mahesabu BMI yako (Mwili molekuli index) na BMR (Basal metabolic kiwango).
+Mwili molekuli index ni kiashiria muhimu ya mwili molekuli binadamu. maombi atakupeni wewe mwili molekuli moja ya makundi kadhaa kutoka \'sana uzito wa chini mno\' na \'sana ukali feta\'. Unaweza pia kuwa na uwezo wa kurekodi uzito wako na kufuatilia ni kipindi cha muda. Unaweza kutumia chati, kuangalia mabadiliko uzito wako na Mwili molekuli index.
+Kiwango cha metaboli msingi inaonyesha kiasi cha kalori kwamba unapaswa hutumia kila siku, ili kudumisha uzito wako. Katika ni mahesabu ya msingi na sababu kadhaa ikiwa ni pamoja na uzito, umri, jinsia na ukubwa wa shughuli za kimwili.
+</string>
+</resources>

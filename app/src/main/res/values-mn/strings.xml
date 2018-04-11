@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Биеийн жингийн индекс</string>
+<string name="bmi">Биеийн жингийн индекс (БЖИ) =</string>
+<string name="underweight">Тураал</string>
+<string name="overweight">Илүүдэл жинтэй</string>
+<string name="obesity">Таргалалт</string>
+<string name="data_saved">Мэдээлэл аварсан</string>
+<string name="choose_theme">Өнгөө сонгоно уу</string>
+<string name="greenTheme">Ногоон</string>
+<string name="light">Тод</string>
+<string name="dark">Харанхуй</string>
+<string name="cancel">Болих</string>
+<string name="ok">За</string>
+<string name="charts">Зураг</string>
+<string name="menu_title">Цэс</string>
+<string name="info">Мэдээлэл</string>
+<string name="rate_app">Энэ програмыг үнэлэх!</string>
+<string name="feedback">Өөрийн саналаа өгнө үү</string>
+<string name="feedback_prompt">Сайн байна уу, Та бид та нарын төлөө энэ програмыг сайжруулж болох юм, бидэнд өөрийн санал бодлоо илгээх хүсэж байна вэ?</string>
+<string name="opinion">Санал</string>
+<string name="height">Таны өндөр</string>
+<string name="weight">Таны биеийн жин</string>
+<string name="sex">Таны секс</string>
+<string name="male">Эрэгтэй</string>
+<string name="female">Эмэгтэй</string>
+<string name="age">Таны нас</string>
+<string name="years">Жил</string>
+<string name="month">Сар</string>
+<string name="your_wgt">Таны биеийн жин</string>
+<string name="no_data">Ямар ч мэдээлэл энэ сарын боломжтой</string>
+<string name="exercise">Та хэр их ашигладаг вэ?</string>
+<string name="your_calories">Илчлэг нь өдөр тутмын шаардлага (BMR) =</string>
+<string name="invalidInput">Буруу мэдээлэл</string>
+<string name="emptyInput">Мэдээллийг оруулна уу</string>
+<string name="your_bmi">Таны БЖИ (Биеийн жингийн индекс)</string>
+<string name="kcal">Ккал</string>
+<string name="xx_low">Маш хүнд тураал</string>
+<string name="x_low">Хэд тураал</string>
+<string name="low">Тураал</string>
+<string name="normal">Хэвийн (эрүүл жин)</string>
+<string name="high">Илүүдэл жинтэй</string>
+<string name="x_high">Дунд зэрэг таргалалт</string>
+<string name="xx_high">Хүнд таргалалт</string>
+<string name="xxx_high">Маш хүнд таргалалт</string>
+<string name="save_close">Save</string>
+<string name="exit">Гарах</string>
+<string name="settings">Тохиргоо</string>
+<string-array name="exercise">
+<item>Бага, эсвэл ямар ч дасгал</item>
+<item>Хөнгөн (долоо хоногт 1-ээс 3 хоног)</item>
+<item>Дунд зэрэг (долоо хоногт 3-аас 5 өдөр)</item>
+<item>Хүнд (Долоо хоногт 6 7 хоног)</item>
+<item>Маш хүнд (хоёр удаа өдөрт)</item>
+</string-array>
+<string name="title_play">Биеийн жингийн индекс</string>
+<string name="title_play_2">Бодисын үндсэн солилцоо</string>
+<string name="title_play_3">Илчлэг нь өдөр тутмын шаардлага</string>
+<string name="desc_1">Таны биеийн жингийн индекс ба бодисын үндсэн солилцоо ол.</string>
+<string name="desc_2">Таны биеийн жингийн индекс ба хоолны илчлэг нь таны өдөр тутмын шаардлагыг ол.</string>
+<string name="desc_3">Таны бие болон хоолны илчлэг нь таны өдөр тутмын шаардлага массын индекс ол.</string>
+<string name="description_full">
+Энэ програм таны БЖИ (Биеийн жингийн индекс) болон BMR (бодисын үндсэн солилцоо) тооцно.
+Биеийн жингийн индекс нь хүний ​​биеийн жингийн хамгийн чухал үзүүлэлт юм. програм \'маш хүнд таргалалттай\' гэсэн \'маш хүнд тураал\' нь хэд хэдэн зэрэглэлд нэгэнд та биеийн массыг хийх болно. Мөн та өөрийн жингээ бүртгэж, цаг хугацаанд нь хянах боломжтой болох юм. Та өөрийн жин, биеийн жингийн индекс өөрчлөлт үзэх, хүснэгтийг ашиглаж болно.
+Бодисын үндсэн солилцоо та жингээ хадгалахын тулд өдөр бүр хэрэглэх ёстой илчлэгийн хэмжээг харуулж байна. -Д жин, нас, хүйс, бие махбодийн үйл ажиллагааны эрч хүч зэрэг хэд хэдэн хүчин зүйл дээр үндэслэн тооцно.
+</string>
+</resources>

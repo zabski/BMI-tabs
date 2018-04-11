@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Индекс телесне масе</string>
+<string name="bmi">Индекс телесне масе (БМИ) =</string>
+<string name="underweight">Који нема довољну тежину</string>
+<string name="overweight">Претежак</string>
+<string name="obesity">Гојазност</string>
+<string name="data_saved">Подаци савед</string>
+<string name="choose_theme">Изаберите боју</string>
+<string name="greenTheme">Зелен</string>
+<string name="light">Светао</string>
+<string name="dark">Мрак</string>
+<string name="cancel">Отказати</string>
+<string name="ok">Добро</string>
+<string name="charts">Графикон</string>
+<string name="menu_title">Мени</string>
+<string name="info">Информације</string>
+<string name="rate_app">Гласај ову апликацију!</string>
+<string name="feedback">Дај своје мишљење</string>
+<string name="feedback_prompt">Здраво, да ли бисте желели да нам пошаљете ваше мишљење, тако да можемо да унапредимо ову апликацију за вас?</string>
+<string name="opinion">Мишљење</string>
+<string name="height">Ваша висина</string>
+<string name="weight">Ваша тежина</string>
+<string name="sex">Ваш секс</string>
+<string name="male">Мушки</string>
+<string name="female">Женски</string>
+<string name="age">Колико имате година</string>
+<string name="years">Године</string>
+<string name="month">Месец</string>
+<string name="your_wgt">Ваша тежина</string>
+<string name="no_data">Нема доступних података за овај мјесец</string>
+<string name="exercise">Колико често вежбате?</string>
+<string name="your_calories">Дневне потребе за калоријама (БМР) =</string>
+<string name="invalidInput">Неважећи подаци</string>
+<string name="emptyInput">Молимо вас да унесете податке</string>
+<string name="your_bmi">Ваш БМИ (индекс телесне масе)</string>
+<string name="kcal">Кцал</string>
+<string name="xx_low">Врло озбиљно неухрањена</string>
+<string name="x_low">Озбиљно неухрањена</string>
+<string name="low">Који нема довољну тежину</string>
+<string name="normal">Нормална (здрава тежина)</string>
+<string name="high">Претежак</string>
+<string name="x_high">Средње гојазност</string>
+<string name="xx_high">Опасно гојазност</string>
+<string name="xxx_high">Врло озбиљна гојазност</string>
+<string name="save_close">Саве</string>
+<string name="exit">Излаз</string>
+<string name="settings">Подешавања</string>
+<string-array name="exercise">
+<item>Мало или нимало вежба</item>
+<item>Лигхт (1 до 3 дана недељно)</item>
+<item>Умерени (3 до 5 дана у недељи)</item>
+<item>Хеави (6 до 7 дана у недељи)</item>
+<item>Врло тешка (два пута дневно)</item>
+</string-array>
+<string name="title_play">Индекс телесне масе</string>
+<string name="title_play_2">Базални метаболизам</string>
+<string name="title_play_3">Дневне потребе за калоријама</string>
+<string name="desc_1">Пронађите индекса телесне масе и Базални метаболизам.</string>
+<string name="desc_2">Пронађите индекса телесне масе и свој дневне потребе за калоријама.</string>
+<string name="desc_3">Пронађи индекса масе тела и ваше дневне потребе за калоријама.</string>
+<string name="description_full">
+Ова апликација ће израчунати Ваш БМИ (индекс телесне масе) и БМР (Базални метаболизам).
+Индекс телесне масе је најважнији показатељ људског телесне масе. Апликација ће доделити вам телесну масу на један од неколико категорија од \'веома неухрањене\' да \'веома озбиљно гојазних\'. Такође ћете моћи да снимите своју тежину и пратите га током временског периода. Можете користити табелу, да гледају мења своју тежину и индекса телесне масе.
+Базални метаболизам показује количину калорија које треба да троше сваки дан, како би се одржала своју тежину. У се израчунава на основу неколико фактора, укључујући тежине, старости, полу и интензитет физичке активности.
+</string>
+</resources>

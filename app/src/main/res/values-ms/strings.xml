@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Badan massa indeks</string>
+<string name="bmi">Indeks jisim badan (BMI) =</string>
+<string name="underweight">Kurang berat badan</string>
+<string name="overweight">Berat badan berlebihan</string>
+<string name="obesity">Obesiti</string>
+<string name="data_saved">Data disimpan</string>
+<string name="choose_theme">Pilih warna</string>
+<string name="greenTheme">Hijau</string>
+<string name="light">Terang</string>
+<string name="dark">Gelap</string>
+<string name="cancel">Batal</string>
+<string name="ok">Okay</string>
+<string name="charts">Carta</string>
+<string name="menu_title">Menu</string>
+<string name="info">Maklumat</string>
+<string name="rate_app">Nilai aplikasi ini!</string>
+<string name="feedback">Beri pendapat anda</string>
+<string name="feedback_prompt">Hello, anda ingin menghantar pendapat anda, supaya kita boleh memperbaiki aplikasi ini untuk anda?</string>
+<string name="opinion">Pendapat</string>
+<string name="height">Ketinggian anda</string>
+<string name="weight">Berat badan anda</string>
+<string name="sex">Seks anda</string>
+<string name="male">Laki-laki</string>
+<string name="female">Perempuan</string>
+<string name="age">Umur anda</string>
+<string name="years">Tahun</string>
+<string name="month">Bulan</string>
+<string name="your_wgt">Berat badan anda</string>
+<string name="no_data">Tiada data tersedia untuk bulan ini</string>
+<string name="exercise">Berapa kerap anda bersenam?</string>
+<string name="your_calories">Keperluan harian untuk kalori (BMR) =</string>
+<string name="invalidInput">Data tidak sah</string>
+<string name="emptyInput">Sila masukkan data</string>
+<string name="your_bmi">BMI anda (Badan massa indeks)</string>
+<string name="kcal">Kcal</string>
+<string name="xx_low">Sangat masalah kekurangan berat badan</string>
+<string name="x_low">Masalah kekurangan berat badan</string>
+<string name="low">Kurang berat badan</string>
+<string name="normal">Normal (berat badan yang sihat)</string>
+<string name="high">Berat badan berlebihan</string>
+<string name="x_high">Obesiti sederhana</string>
+<string name="xx_high">Obesiti teruk</string>
+<string name="xxx_high">Obesiti sangat teruk</string>
+<string name="save_close">Simpan</string>
+<string name="exit">Keluar</string>
+<string name="settings">Tetapan</string>
+<string-array name="exercise">
+<item>Senaman atau tidak</item>
+<item>Light (1 hingga 3 hari setiap minggu)</item>
+<item>Sederhana (3 hingga 5 hari seminggu)</item>
+<item>Berat (6-7 hari setiap minggu)</item>
+<item>Sangat berat (dua kali sehari)</item>
+</string-array>
+<string name="title_play">Badan massa indeks</string>
+<string name="title_play_2">Kadar metabolik basal</string>
+<string name="title_play_3">Keperluan harian untuk kalori</string>
+<string name="desc_1">Cari indeks jisim badan anda dan kadar metabolik basal.</string>
+<string name="desc_2">Cari indeks jisim badan anda dan keperluan harian anda untuk kalori.</string>
+<string name="desc_3">Cari indeks jisim badan anda dan keperluan harian anda untuk kalori.</string>
+<string name="description_full">
+Permohonan ini akan mengira BMI anda (Badan massa indeks) dan BMR (kadar metabolik basal).
+Indeks jisim badan adalah petunjuk yang paling penting jisim badan manusia. Aplikasi ini akan memberikan anda jisim badan untuk satu daripada beberapa kategori dari \'sangat teruk kekurangan berat badan\' kepada \'sangat teruk gemuk\'. Anda juga akan dapat merekodkan berat badan anda dan menjejaki ia lebih tempoh masa. Anda boleh menggunakan carta, untuk menonton perubahan berat badan anda dan Badan massa indeks.
+Kadar metabolik basal menunjukkan jumlah kalori yang anda perlu mengambil setiap hari, untuk mengekalkan berat badan anda. Dalam dikira berdasarkan beberapa faktor termasuk berat badan, umur, jantina dan intensiti aktiviti fizikal.
+</string>
+</resources>
